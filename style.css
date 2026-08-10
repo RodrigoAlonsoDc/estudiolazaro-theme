@@ -1,0 +1,383 @@
+/*
+ Theme Name:   WpResidence child theme
+ Theme URI:    https://themeforest.net/item/wp-residence-real-estate-wordpress-theme/7896392
+ Description:  WpResidence child theme
+ Author:       WpEstate
+ Author URI:   http://wpestate.org
+ Template:     wpresidence
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/*=print invoice
+--------------------------------------------------------------------------------*/
+.invoice_print_title {
+    font-size: 25px;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 20px;
+    margin-bottom: 5px;
+}
+
+.wpestate_invoice_date{
+  font-size: 13px;
+}
+
+.wpestate_print_invoice_to_section,
+.wpestate_print_invoice_from_whom_section{
+  width: 50%;
+  float: left;
+  margin-top: 45px;
+  font-size: 14px;
+  margin-bottom: 45px;
+  line-height: 1.5em;
+}
+
+.wpestate_print_invoice_details_wrapper{
+  width: 100%;
+  text-align: right;
+}
+
+.wpestate_print_invoice_details_detail{
+  width: 100%;
+  float: left;
+  border-bottom: 1px solid #f1f1f1;
+  padding: 15px 0px;
+  font-size: 13px;
+  margin-bottom:0px;
+}
+
+.wpestate_print_invoice_details_detail label{
+  float:left;
+  font-weight: 700;
+}
+
+.wpestate_print_invoice_details_wrapper{
+
+}
+
+.wpestate_print_invoice_details_wrapperex_details{
+  width: 100%;
+  float: left;
+  text-align: left;
+  margin-top: 30px;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+.wpestate_print_invoice_end{
+  width: 100%;
+  float: left;
+  text-align: left;
+  margin-top: 30px;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+/* PRUEBA DE DESARROLLO LOCAL */
+body {
+    /* border-top: 15px solid red !important; */
+}
+
+/* ==========================================================================
+   DISEÑO INICIO TIPO STRATIA (CUSTOM FRONT-PAGE)
+   ========================================================================== */
+
+.custom-home-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    min-height: 80vh;
+    font-family: 'Inter', 'Roboto', sans-serif;
+    background-color: #fcfcfc;
+}
+
+/* --- COLUMNA IZQUIERDA (SIDEBAR) --- */
+.custom-home-sidebar {
+    width: 30%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 500px;
+}
+
+.sidebar-overlay {
+    background-color: rgba(255, 255, 255, 0.75); /* Superposición blanca translúcida */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-branding {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.sidebar-logo {
+    max-width: 150px;
+    height: auto;
+}
+
+.sidebar-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.sidebar-btn {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 13px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border-left: 4px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.sidebar-btn:hover {
+    border-left: 4px solid #285473; /* Azul corporativo oscuro */
+    color: #285473;
+}
+
+/* --- COLUMNA DERECHA (MAIN) --- */
+.custom-home-main {
+    width: 70%;
+    padding: 0; /* Quitamos el padding global para que el banner toque los bordes */
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+
+/* --- BANNER SUPERIOR --- */
+.main-hero {
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-overlay {
+    background-color: rgba(26, 54, 93, 0.7); /* Azul oscuro translúcido */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.hero-subtitle {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.hero-title {
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+}
+
+/* --- SECCIÓN HISTORIA --- */
+.history-section {
+    display: flex;
+    padding: 60px;
+    gap: 40px;
+}
+
+.history-text {
+    flex: 1;
+}
+
+.history-label {
+    font-size: 14px;
+    color: #666666;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.history-title {
+    color: #1a365d;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.history-text p {
+    color: #555555;
+    font-size: 15px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.btn-whatsapp {
+    display: inline-block;
+    background-color: #f2683a; /* Naranja del diseño */
+    color: #ffffff;
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 15px;
+    transition: background-color 0.3s;
+}
+
+.btn-whatsapp:hover {
+    background-color: #d8542a;
+    color: #ffffff;
+}
+
+/* --- LISTA HISTORIA --- */
+.history-list {
+    list-style: none;
+    padding: 0;
+    margin: 30px 0 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.history-list li {
+    width: calc(50% - 15px);
+    font-size: 13px;
+    color: #444444;
+    display: flex;
+    align-items: center;
+}
+
+.history-list li i {
+    color: #7ca1c1; /* Gris azulado para los círculos */
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+/* --- GALERÍA HISTORIA 2X2 --- */
+.history-gallery-2x2 {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 15px;
+}
+
+.history-gallery-2x2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    min-height: 180px;
+}
+
+/* --- SECCIÓN ESTADÍSTICAS --- */
+.stats-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f7f9fa; /* Fondo gris muy claro */
+    padding: 60px;
+    text-align: center;
+}
+
+.stat-item h3 {
+    color: #1a365d;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 0 0 10px 0;
+}
+
+.stat-item p {
+    color: #555555;
+    font-size: 15px;
+    margin: 0;
+}
+
+/* --- SECCIÓN ÁREAS DE TRABAJO --- */
+.areas-section {
+    padding: 60px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.areas-title {
+    color: #444444;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.areas-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.area-card {
+    border: 1px solid #1a365d;
+    padding: 60px 20px;
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+}
+
+.area-card:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+}
+
+.area-card i {
+    color: #1a365d;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.area-card h4 {
+    color: #333333;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0;
+}
+
+/* Responsive básico */
+@media (max-width: 992px) {
+    .custom-home-sidebar, .custom-home-main {
+        width: 100%;
+    }
+    .custom-home-sidebar {
+        min-height: 300px;
+    }
+    .history-section {
+        flex-direction: column;
+        padding: 30px;
+    }
+    .history-list li {
+        width: 100%;
+    }
+    .stats-section {
+        flex-direction: column;
+        gap: 30px;
+    }
+    .areas-grid {
+        grid-template-columns: 1fr;
+    }
+}

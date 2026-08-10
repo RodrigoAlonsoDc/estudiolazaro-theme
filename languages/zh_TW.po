@@ -1,0 +1,6669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WpResidence\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
+"POT-Creation-Date: 2024-02-20T08:54:54+00:00\n"
+"PO-Revision-Date: 2024-02-20 12:56+0200\n"
+"Last-Translator: admin <xdxqbkfcdxpl@sg2plcpnl0017.prod.sin2.secureserver."
+"net>\n"
+"Language-Team: 繁體中文\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Loco-Version: 2.2.2; wp-5.2\n"
+
+#. Theme Name of the theme
+msgid "WpResidence"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://themeforest.net/user/wpestate"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP Residence is a premium & responsive WordPress theme designed for Real "
+"Estate companies and independent agents."
+msgstr ""
+
+#. Author of the theme
+msgid "wpestate"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.wpestate.org"
+msgstr ""
+
+#: 404.php:13
+msgid "Page not found"
+msgstr "找不到頁面"
+
+#: 404.php:17
+msgid ""
+"We're sorry. Your page could not be found, But you can check our latest "
+"listings & articles"
+msgstr "非常抱歉，沒有符合您要找的資料。你可以瀏覽我們的\"樓盤列表\"。"
+
+#: 404.php:21
+msgid "Latest Listings"
+msgstr "最近的广告清单"
+
+#: 404.php:41
+msgid "Latest Articles"
+msgstr "最新文章"
+
+#. Template Name of the theme
+msgid "Agents Agencies Developers Search Results"
+msgstr "代理商 代理商 開發商 搜尋結果"
+
+#: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
+#: agents_list.php:5 compare_listings.php:6 contact_page.php:6
+#: developers_list.php:6 front_property_submit.php:6
+#: libs/dashboard_functions.php:1335 page_property_design.php:5 processor.php:5
+#: property_list.php:5 property_list_directory.php:5 property_list_half.php:5
+#: single-idx.php:6 splash_page.php:5 zillow_estimate_page.php:5
+msgid ""
+"This page will not work without WpResidence Core Plugin, Please activate it "
+"from the plugins menu!"
+msgstr "如果沒有 WpResidence 核心插件，此頁面將無法運作，請從插件選單啟動它！"
+
+#: aag_search_results.php:165
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters."
+msgstr "沒有找到符合您的物業。請再用不同的關鍵詞再試一次。"
+
+#. Template Name of the theme
+msgid "Advanced Search Results"
+msgstr "進階搜尋結果"
+
+#. Template Name of the theme
+msgid "Agency list"
+msgstr "代理商名單"
+
+#. Template Name of the theme
+msgid "Agents list"
+msgstr "代理列表"
+
+#: api/test.php:305 libs/help_functions.php:5438 libs/help_functions.php:5585
+#: word_remove.php:92
+msgid "feet"
+msgstr "英尺"
+
+#: api/test.php:305 api/test.php:314 api/test.php:315 api/test.php:316
+#: api/test.php:317 api/test.php:318 api/test.php:320 api/test.php:325
+#: api/test.php:330 api/test.php:335 libs/help_functions.php:5438
+#: libs/help_functions.php:5519 libs/help_functions.php:5520
+#: libs/help_functions.php:5521 libs/help_functions.php:5522
+#: libs/help_functions.php:5523 libs/help_functions.php:5525
+#: libs/help_functions.php:5530 libs/help_functions.php:5535
+#: libs/help_functions.php:5540 libs/help_functions.php:5585
+#: libs/help_functions.php:5594 libs/help_functions.php:5595
+#: libs/help_functions.php:5596 libs/help_functions.php:5597
+#: libs/help_functions.php:5598 libs/help_functions.php:5600
+#: libs/help_functions.php:5605 libs/help_functions.php:5610
+#: libs/help_functions.php:5615 word_remove.php:92
+msgid "ft"
+msgstr "英尺"
+
+#: api/test.php:306 libs/help_functions.php:5439 libs/help_functions.php:5586
+#: word_remove.php:93
+msgid "meters"
+msgstr "公尺"
+
+#: api/test.php:306 api/test.php:315 api/test.php:319 api/test.php:320
+#: api/test.php:321 api/test.php:322 api/test.php:323 api/test.php:326
+#: api/test.php:331 api/test.php:336 libs/help_functions.php:5439
+#: libs/help_functions.php:5520 libs/help_functions.php:5524
+#: libs/help_functions.php:5525 libs/help_functions.php:5526
+#: libs/help_functions.php:5527 libs/help_functions.php:5528
+#: libs/help_functions.php:5531 libs/help_functions.php:5536
+#: libs/help_functions.php:5541 libs/help_functions.php:5586
+#: libs/help_functions.php:5595 libs/help_functions.php:5599
+#: libs/help_functions.php:5600 libs/help_functions.php:5601
+#: libs/help_functions.php:5602 libs/help_functions.php:5603
+#: libs/help_functions.php:5606 libs/help_functions.php:5611
+#: libs/help_functions.php:5616 word_remove.php:93
+msgid "m"
+msgstr "m"
+
+#: api/test.php:307 libs/help_functions.php:5440 libs/help_functions.php:5587
+#: word_remove.php:94
+msgid "acres"
+msgstr "英畝"
+
+#: api/test.php:307 api/test.php:316 api/test.php:321 api/test.php:324
+#: api/test.php:325 api/test.php:326 api/test.php:327 api/test.php:328
+#: api/test.php:332 api/test.php:337 libs/help_functions.php:5440
+#: libs/help_functions.php:5521 libs/help_functions.php:5526
+#: libs/help_functions.php:5529 libs/help_functions.php:5530
+#: libs/help_functions.php:5531 libs/help_functions.php:5532
+#: libs/help_functions.php:5533 libs/help_functions.php:5537
+#: libs/help_functions.php:5542 libs/help_functions.php:5587
+#: libs/help_functions.php:5596 libs/help_functions.php:5601
+#: libs/help_functions.php:5604 libs/help_functions.php:5605
+#: libs/help_functions.php:5606 libs/help_functions.php:5607
+#: libs/help_functions.php:5608 libs/help_functions.php:5612
+#: libs/help_functions.php:5617 word_remove.php:94
+msgid "ac"
+msgstr "ac"
+
+#: api/test.php:308 libs/help_functions.php:5441 libs/help_functions.php:5588
+#: word_remove.php:95
+msgid "yards"
+msgstr "碼"
+
+#: api/test.php:308 api/test.php:317 api/test.php:322 api/test.php:327
+#: api/test.php:329 api/test.php:330 api/test.php:331 api/test.php:332
+#: api/test.php:333 api/test.php:338 libs/help_functions.php:5441
+#: libs/help_functions.php:5522 libs/help_functions.php:5527
+#: libs/help_functions.php:5532 libs/help_functions.php:5534
+#: libs/help_functions.php:5535 libs/help_functions.php:5536
+#: libs/help_functions.php:5537 libs/help_functions.php:5538
+#: libs/help_functions.php:5543 libs/help_functions.php:5588
+#: libs/help_functions.php:5597 libs/help_functions.php:5602
+#: libs/help_functions.php:5607 libs/help_functions.php:5609
+#: libs/help_functions.php:5610 libs/help_functions.php:5611
+#: libs/help_functions.php:5612 libs/help_functions.php:5613
+#: libs/help_functions.php:5618 word_remove.php:95
+msgid "yd"
+msgstr "碼"
+
+#: api/test.php:309 libs/help_functions.php:5442 libs/help_functions.php:5589
+#: word_remove.php:96
+msgid "hectares"
+msgstr "公頃"
+
+#: api/test.php:309 api/test.php:318 api/test.php:323 api/test.php:328
+#: api/test.php:333 api/test.php:334 api/test.php:335 api/test.php:336
+#: api/test.php:337 api/test.php:338 libs/help_functions.php:5442
+#: libs/help_functions.php:5523 libs/help_functions.php:5528
+#: libs/help_functions.php:5533 libs/help_functions.php:5538
+#: libs/help_functions.php:5539 libs/help_functions.php:5540
+#: libs/help_functions.php:5541 libs/help_functions.php:5542
+#: libs/help_functions.php:5543 libs/help_functions.php:5589
+#: libs/help_functions.php:5598 libs/help_functions.php:5603
+#: libs/help_functions.php:5608 libs/help_functions.php:5613
+#: libs/help_functions.php:5614 libs/help_functions.php:5615
+#: libs/help_functions.php:5616 libs/help_functions.php:5617
+#: libs/help_functions.php:5618 word_remove.php:96
+msgid "ha"
+msgstr "哈"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "分類歸檔：%s"
+
+#: archive.php:24
+msgid "Daily Archives: %s"
+msgstr "每日彙整：%s"
+
+#: archive.php:26
+msgid "Monthly Archives: %s"
+msgstr "每月彙整：%s"
+
+#: archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y 年 n 月"
+
+#: archive.php:28
+msgid "Yearly Archives: %s"
+msgstr "每年彙整：%s"
+
+#: archive.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr "部落格彙整"
+
+#. Template Name of the theme
+msgid "User Dashboard Search Results"
+msgstr "使用者儀表板搜尋結果"
+
+#: auser_dashboard_search_result.php:23 libs/dashboard_widgets.php:292
+#: user_dashboard_add.php:69 user_dashboard_add.php:197
+#: user_dashboard_agent_list.php:7
+msgid "Sorry, your nonce did not verify."
+msgstr "抱歉，您的隨機數字沒有通過驗證。"
+
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:160
+msgid "You don't have any properties yet!"
+msgstr "您還沒有任何物件"
+
+#: auser_dashboard_search_result.php:103
+#: libs/dashboard_actions_functions.php:742
+msgid "Search a listing"
+msgstr "搜索列表"
+
+#: auser_dashboard_search_result.php:104
+#: libs/dashboard_actions_functions.php:628
+#: libs/dashboard_actions_functions.php:743 search.php:30 search.php:31
+#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:72
+#: templates/advanced_search/advanced_search_type10.php:94
+#: templates/advanced_search/advanced_search_type11.php:106
+#: templates/advanced_search_type3.php:62
+#: templates/advanced_search_type10.php:81
+#: templates/advanced_search_type11.php:106
+msgid "Search"
+msgstr "搜尋"
+
+#. Template Name of the theme
+msgid "Blog list page"
+msgstr "部落格清單頁"
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "這篇文章是密碼保護。輸入密碼查看任何評論。"
+
+#: comments.php:16
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有 %1$s 則留言"
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "評論導航"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&laquo; 舊留言"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "新留言 &raquo;"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "評論已關閉."
+
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr "發表評論"
+
+#: comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "留下 %s 的評論"
+
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr "取消回覆"
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr "發表評論"
+
+#: comments.php:60
+msgid "Your email address will not be published.  "
+msgstr "你的電子郵寄地址不會被公開"
+
+#: comments.php:65
+msgid "Comment"
+msgstr "評論"
+
+#: comments.php:72 crm_functions/crm_functions.php:316
+#: templates/email_templates/contact_email_template.php:36
+#: templates/email_templates/schedule_tour_email_template.php:35
+msgid "Name"
+msgstr "名稱"
+
+#: comments.php:78 crm_functions/crm_functions.php:317
+#: libs/dashboard_actions_functions.php:637 libs/design_functions.php:2414
+#: templates/dashboard-templates/add_new_agent.php:72
+#: templates/dashboard-templates/add_new_agent_template.php:53
+#: templates/dashboard-templates/user_profile.php:28
+#: templates/dashboard-templates/user_profile_agency.php:24
+#: templates/dashboard-templates/user_profile_agent.php:29
+#: templates/dashboard-templates/user_profile_developer.php:22
+#: templates/email_templates/contact_email_template.php:37
+#: templates/email_templates/schedule_tour_email_template.php:36
+#: templates/login_register_modal.php:86 templates/mobile_menu.php:119
+#: templates/property_cards_templates/property_card_contact.php:28
+msgid "Email"
+msgstr "電子郵件"
+
+#: comments.php:83
+msgid "Website"
+msgstr "網站"
+
+#. Template Name of the theme
+#: compare_listings.php:101 templates/compare_list.php:15
+msgid "Compare Listings"
+msgstr "比較基因檢測"
+
+#: compare_listings.php:15
+msgid "page should be accesible only via the compare button"
+msgstr "頁面只能通過比較按鈕進入"
+
+#: compare_listings.php:113
+msgid "Type: "
+msgstr "類型："
+
+#: compare_listings.php:121
+msgid "city"
+msgstr "城市"
+
+#: compare_listings.php:122
+msgid "area"
+msgstr "區域"
+
+#: compare_listings.php:123 libs/elementor_help_files.php:31
+msgid "zip"
+msgstr "壓縮"
+
+#: compare_listings.php:124 libs/elementor_help_files.php:24
+msgid "size"
+msgstr "份量"
+
+#: compare_listings.php:125 libs/elementor_help_files.php:25
+msgid "lot size"
+msgstr "地皮面積"
+
+#: compare_listings.php:126 libs/elementor_help_files.php:26
+msgid "rooms"
+msgstr "房型"
+
+#: compare_listings.php:127 libs/elementor_help_files.php:27
+msgid "bedrooms"
+msgstr "臥室"
+
+#: compare_listings.php:128 libs/elementor_help_files.php:28
+msgid "bathrooms"
+msgstr "浴室"
+
+#: compare_listings.php:129 libs/dashboard_actions_functions.php:174
+#: libs/help_functions.php:5901
+msgid "Energy Index"
+msgstr "能源指數"
+
+#: compare_listings.php:130 libs/dashboard_actions_functions.php:166
+#: libs/help_functions.php:5900 libs/help_functions.php:6115
+#: libs/listing_functions.php:1906
+#: templates/submit_templates/property_energy_effective.php:35
+msgid "Energy Class"
+msgstr "能源等級"
+
+#: compare_listings.php:131 libs/help_functions.php:55
+msgid "Property ID"
+msgstr "房產編號"
+
+#. Template Name of the theme
+msgid "Contact Page"
+msgstr "聯絡頁面"
+
+#: contact_page.php:72 single-estate_agency.php:112
+#: templates/header_agency.php:71 templates/header_developer.php:73
+msgid "Phone:"
+msgstr "電話："
+
+#: contact_page.php:76 single-estate_agency.php:107
+#: templates/header_agency.php:66 templates/header_developer.php:68
+msgid "Mobile:"
+msgstr "手機："
+
+#: contact_page.php:80 single-estate_agency.php:102
+#: templates/header_agency.php:61 templates/header_developer.php:61
+msgid "Email:"
+msgstr "電子郵件："
+
+#: contact_page.php:84
+msgid "Fax:"
+msgstr "傳真："
+
+#: contact_page.php:88 single-estate_agency.php:118
+#: templates/header_agency.php:77 templates/header_developer.php:116
+msgid "Skype:"
+msgstr "Skype:"
+
+#: contact_page.php:104 libs/dashboard_widgets.php:8
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:984
+#: libs/help_functions.php:986
+msgid "company logo"
+msgstr "公司 Logo"
+
+#: crm_functions/crm_functions.php:14
+msgid "Lead Info"
+msgstr "鉛資訊"
+
+#: crm_functions/crm_functions.php:29
+#: crm_functions/templates/dashboard_contact_unit.php:29
+#: crm_functions/templates/dashboard_lead_unit.php:61
+msgid "New"
+msgstr "新規"
+
+#: crm_functions/crm_functions.php:96 crm_functions/crm_functions.php:238
+msgid "You are not allowed to edit this!!!"
+msgstr "您無權編輯此內容！！！"
+
+#: crm_functions/crm_functions.php:165 crm_functions/crm_functions.php:193
+msgid "You are not allowed to delete this !"
+msgstr "你不允許刪除這個！"
+
+#: crm_functions/crm_functions.php:312
+msgid "Your Contacts"
+msgstr "您的連絡人"
+
+#: crm_functions/crm_functions.php:314
+msgid "Create Contact"
+msgstr "建立聯絡人"
+
+#: crm_functions/crm_functions.php:318
+#: templates/dashboard-templates/add_new_agent.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:42
+#: templates/dashboard-templates/user_profile.php:33
+#: templates/dashboard-templates/user_profile_agency.php:19
+#: templates/dashboard-templates/user_profile_agent.php:24
+#: templates/dashboard-templates/user_profile_developer.php:17
+#: templates/email_templates/contact_email_template.php:38
+#: templates/email_templates/schedule_tour_email_template.php:37
+msgid "Phone"
+msgstr "電話"
+
+#: crm_functions/crm_functions.php:319
+msgid "Added on"
+msgstr "加入時間"
+
+#: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
+#: libs/dashboard_actions_functions.php:580
+#: libs/dashboard_actions_functions.php:638
+#: libs/dashboard_actions_functions.php:757
+#: libs/dashboard_actions_functions.php:763 libs/elementor_help_files2.php:62
+#: libs/elementor_help_files2.php:370 libs/searchfunctions.php:2184
+#: user_dashboard_favorite.php:42
+msgid "Status"
+msgstr "狀態"
+
+#: crm_functions/crm_functions.php:321 crm_functions/crm_functions.php:371
+#: crm_functions/templates/crm_contact_unit_actions.php:12
+#: crm_functions/templates/crm_lead_unit_actions.php:14
+#: libs/dashboard_actions_functions.php:639
+#: libs/dashboard_actions_functions.php:768
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:30
+#: user_dashboard_favorite.php:44
+msgid "Actions"
+msgstr "動作"
+
+#: crm_functions/crm_functions.php:325 crm_functions/crm_functions.php:375
+msgid "You don't have any Leads!"
+msgstr "你沒有任何線索！"
+
+#: crm_functions/crm_functions.php:360
+msgid "Your Leads/Deals"
+msgstr "您的線索/交易"
+
+#: crm_functions/crm_functions.php:361
+msgid "Add New Lead/Deal"
+msgstr "添加新的鉛/交易"
+
+#: crm_functions/crm_functions.php:364
+msgid "Lead No"
+msgstr "引線編號"
+
+#: crm_functions/crm_functions.php:365
+msgid "Request By"
+msgstr "申請者："
+
+#: crm_functions/crm_functions.php:366
+msgid "Agent in Charge"
+msgstr "代理主管"
+
+#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:577
+#: libs/dashboard_actions_functions.php:1319
+msgid "Date"
+msgstr "日期"
+
+#: crm_functions/templates/crm_add_contact.php:29
+#: crm_functions/templates/crm_add_lead.php:30
+#: templates/front_end_submission.php:151
+#: templates/front_end_submission.php:193
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: crm_functions/templates/crm_add_contact.php:33
+msgid "Add Contact"
+msgstr "新增聯絡人"
+
+#: crm_functions/templates/crm_add_lead.php:34
+msgid "Add Lead"
+msgstr "添加鉛"
+
+#: crm_functions/templates/crm_contact_submit.php:1
+#: templates/dashboard-templates/user_profile.php:105
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:236
+#: templates/dashboard-templates/user_profile_developer.php:205
+msgid "Contact Information"
+msgstr "聯絡資訊"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:17
+msgid "View/Edit Contact"
+msgstr "查看/編輯聯絡人"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:21
+#: crm_functions/templates/crm_lead_unit_actions.php:23
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:39
+msgid "Are you sure you wish to delete "
+msgstr "您確定您想要刪除嗎？"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:23
+msgid "Delete Contact"
+msgstr "刪除連絡人"
+
+#: crm_functions/templates/crm_leads_submit.php:2
+msgid "Lead Information"
+msgstr "鉛資訊"
+
+#: crm_functions/templates/crm_leads_submit.php:13
+msgid "Contact"
+msgstr "聯絡"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:19
+msgid "View/Edit Lead"
+msgstr "查看/編輯鉛"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:25
+msgid "Delete Lead"
+msgstr "刪除鉛"
+
+#: crm_functions/templates/dashboard_lead_unit.php:3
+msgid "Lead no "
+msgstr "引線編號"
+
+#: crm_functions/templates/dashboard_lead_unit.php:23
+msgid "added manually"
+msgstr "手動新增"
+
+#. Template Name of the theme
+msgid "Developer list"
+msgstr "開發者名單"
+
+#. Template Name of the theme
+msgid "Front Property Submit"
+msgstr "前台物件提交"
+
+#: front_property_submit.php:206 templates/front_end_submission.php:60
+msgid ""
+"Your current package doesn't let you publish more properties! You need to "
+"upgrade your membership."
+msgstr "您當前的套餐不允許您發布更多的房產！您需要升級您的會員資格。"
+
+#: front_property_submit.php:534 user_dashboard_add.php:88
+#: user_dashboard_add.php:220
+msgid "Please submit a title for your property"
+msgstr "請提交物業的名稱"
+
+#: front_property_submit.php:815
+msgid "1. Description"
+msgstr "1. 說明"
+
+#: front_property_submit.php:816
+msgid "2. Media"
+msgstr "2. 媒體"
+
+#: front_property_submit.php:817
+msgid "3. Location"
+msgstr "3. 地點"
+
+#: front_property_submit.php:818
+msgid "4. Details"
+msgstr "4. 詳情"
+
+#: front_property_submit.php:819
+msgid "5. Amenities"
+msgstr "5. 便利設施"
+
+#: front_property_submit.php:832 templates/front_end_submission.php:106
+#: templates/front_end_submission.php:169
+msgid "These fields are mandatory: Title"
+msgstr "這些欄位是必填欄位： 標題"
+
+#: front_property_submit.php:840 templates/front_end_submission.php:80
+msgid ""
+"This is a paid submission.The listing will be live after payment is received."
+msgstr "這是付費提交。列表將會在收到付款後刊出。"
+
+#: front_property_submit.php:888
+msgid "Prev Step"
+msgstr "前一步"
+
+#: front_property_submit.php:889 word_remove.php:68 word_remove.php:214
+#: word_remove.php:248
+msgid "Next Step"
+msgstr "下一步"
+
+#: front_property_submit.php:890
+msgid "Submit Property"
+msgstr "送出申請"
+
+#: functions.php:98
+msgid ""
+"For better speed results, the theme offers a built-in caching system for "
+"properties and categories. Check this article how to enable - disable theme "
+"cache: "
+msgstr ""
+"為了獲得更好的速度結果，主題為屬性和類別提供了內建快取系統。看看這篇文章如何"
+"啟用-停用主題快取："
+
+#: functions.php:98
+msgid "help article"
+msgstr "幫助文章"
+
+#: functions.php:110 word_remove.php:63
+msgid ""
+"The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
+"Get an APIs Console key and post the code in Theme Options. You can get it "
+"from"
+msgstr ""
+"Google Maps JavaScript API v3 需要 API 金鑰才能正常運作。取得 API 控制台金鑰"
+"並將程式碼發佈到主題選項中。你可以從"
+
+#: functions.php:111 word_remove.php:63
+msgid "here"
+msgstr "這裡"
+
+#: functions.php:123
+msgid "WordPress Memory Limit is set to "
+msgstr "WordPress 記憶體限制設定為"
+
+#: functions.php:123
+msgid "Recommended memory limit should be at least 96MB. Please refer to : "
+msgstr "建議的記憶體限制應至少為 96MB。請參閱 ："
+
+#: functions.php:123
+msgid "Increasing memory allocated to PHP"
+msgstr "增加 PHP 的記憶體配額"
+
+#: functions.php:143
+msgid "Your PHP version is "
+msgstr "您的 PHP 版本是"
+
+#: functions.php:156
+msgid ""
+"PHP GD library is NOT installed on your web server and because of that the "
+"theme will not be able to work with images. Please contact your hosting "
+"company in order to activate this library."
+msgstr ""
+"PHP GD 庫未安裝在您的 Web 伺服器上，因此該主題將無法處理映像。請聯絡您的託管"
+"公司以啟動該庫。"
+
+#: functions.php:168
+msgid ""
+"MbString extension not detected. Please contact your hosting provider in "
+"order to enable it."
+msgstr "未偵測到 MbString 副檔名。請聯絡您的託管提供者以啟用它。"
+
+#: functions.php:186
+msgid ""
+"Half Map Template - make sure your page has the \"media header type\" set as "
+"google map "
+msgstr "半地圖模板 - 確保您的頁面將“媒體標題類型”設置為谷歌地圖"
+
+#: functions.php:202
+msgid ""
+"Please do not manually change the slugs when adding new terms. If you need "
+"to edit a term name copy the new name in the slug field also."
+msgstr ""
+"新增術語時，請不要手動變更別名。如果您需要編輯術語名稱，請將新名稱也複製到 "
+"slug 欄位中。"
+
+#: functions.php:374
+msgid "Post navigation"
+msgstr "文章導航"
+
+#: functions.php:375
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 較舊文章"
+
+#: functions.php:376
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "較新文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:400
+msgid "Pingback:"
+msgstr "通告:"
+
+#: functions.php:400 functions.php:416
+msgid "Edit"
+msgstr "編輯"
+
+#: functions.php:411 templates/dashboard-templates/message-listing-unit.php:92
+#: templates/dashboard-templates/message-listing-unit.php:98
+msgid "Reply"
+msgstr "回覆"
+
+#: functions.php:421
+msgid " on "
+msgstr " on "
+
+#: functions.php:426
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論正在等待審核。"
+
+#: functions.php:459 functions.php:463
+msgid "Please edit your profile page from site interface."
+msgstr "請從網站介面編輯您的個人資料。"
+
+#: functions.php:581
+msgid "Your new password for the account at:"
+msgstr "您帳戶的新密碼："
+
+#: functions.php:583
+msgid "Username: %s"
+msgstr "使用者名稱：%s"
+
+#: functions.php:584
+msgid "Password: %s"
+msgstr "密碼：%s"
+
+#: functions.php:585
+msgid "You can now login with your new password at: "
+msgstr "您現在可以使用新的密碼登入："
+
+#: functions.php:596
+msgid "A new password was sent via email!"
+msgstr "新的密碼已經透過電子郵件發送。"
+
+#: functions.php:603
+msgid "We have just sent you a new password. Please check your email!"
+msgstr "我們剛剛發送了一個新的密碼，請查看您的電子信箱！"
+
+#: functions.php:626 functions.php:641
+msgid "Message sent from page: "
+msgstr "從頁面發送訊息："
+
+#: functions.php:746 functions.php:773 libs/elementor_help_files.php:15
+#: libs/elementor_help_files2.php:23 libs/elementor_help_files2.php:351
+#: libs/help_functions.php:3965 libs/help_functions.php:3971
+#: libs/help_functions.php:4355 libs/help_functions.php:4744
+#: libs/searchfunctions.php:486 libs/searchfunctions.php:537
+#: libs/searchfunctions2.php:53 property_list_directory.php:79
+#: property_list_half.php:69 templates/advanced_property_list_filters.php:52
+#: templates/advanced_property_list_filters.php:92
+#: templates/advanced_search/advanced_search_type2.php:46
+#: templates/advanced_search/advanced_search_type8.php:144
+#: templates/advanced_search/advanced_search_type9.php:146
+#: templates/advanced_search/advanced_search_type_half.php:129
+#: templates/advanced_search/advanced_search_type_half.php:171
+#: templates/advanced_search/advanced_search_type_half.php:182
+#: templates/advanced_search/adv_search_mobile.php:77
+#: templates/advanced_search/adv_search_mobile.php:102
+#: templates/advanced_search/adv_search_mobile.php:186
+#: templates/advanced_search_type2.php:46
+#: templates/advanced_search_type8.php:144
+#: templates/advanced_search_type9.php:146
+#: templates/advanced_search_type_half.php:130
+#: templates/advanced_search_type_half.php:163
+#: templates/advanced_search_type_half.php:174
+#: templates/adv_search_mobile.php:77 templates/adv_search_mobile.php:102
+#: templates/adv_search_mobile.php:179 templates/directory_filters.php:28
+#: templates/property_ajax_tax_hidden_filters.php:24
+#: templates/property_ajax_tax_hidden_filters.php:60
+#: templates/property_list_filters.php:52
+#: templates/property_list_filters.php:92
+#: templates/taxonomy_agent_hidden_filters.php:21
+msgid "Types"
+msgstr "類型"
+
+#: functions.php:799 libs/elementor_help_files2.php:32
+#: libs/elementor_help_files2.php:355 libs/help_functions.php:3967
+#: libs/help_functions.php:4384 libs/help_functions.php:4980
+#: property_list_directory.php:130 property_list_half.php:86
+#: templates/advanced_property_list_filters.php:54
+#: templates/advanced_property_list_filters.php:134
+#: templates/advanced_search/advanced_search_type_half.php:255
+#: templates/advanced_search/advanced_search_type_half.php:265
+#: templates/advanced_search_type_half.php:247
+#: templates/advanced_search_type_half.php:257
+#: templates/directory_filters.php:49
+#: templates/property_ajax_tax_hidden_filters.php:26
+#: templates/property_ajax_tax_hidden_filters.php:90
+#: templates/property_list_filters.php:54
+#: templates/property_list_filters.php:134
+#: templates/submit_templates/property_location.php:165
+#: templates/submit_templates/property_location.php:171
+#: templates/taxonomy_agent_hidden_filters.php:23
+msgid "Cities"
+msgstr "城市"
+
+#: functions.php:827 libs/elementor_help_files2.php:42
+#: libs/elementor_help_files2.php:360 libs/help_functions.php:3969
+#: libs/help_functions.php:4398 libs/help_functions.php:5087
+#: property_list_directory.php:155 property_list_directory.php:182
+#: property_list_half.php:93 templates/advanced_property_list_filters.php:55
+#: templates/advanced_property_list_filters.php:124
+#: templates/advanced_search/advanced_search_type_half.php:293
+#: templates/advanced_search/advanced_search_type_half.php:303
+#: templates/advanced_search_type_half.php:285
+#: templates/advanced_search_type_half.php:295
+#: templates/directory_filters.php:59
+#: templates/property_ajax_tax_hidden_filters.php:27
+#: templates/property_ajax_tax_hidden_filters.php:80
+#: templates/property_list_filters.php:55
+#: templates/property_list_filters.php:124
+#: templates/submit_templates/property_location.php:214
+#: templates/submit_templates/property_location.php:220
+#: templates/taxonomy_agent_hidden_filters.php:24
+msgid "Areas"
+msgstr "區域圖"
+
+#: functions.php:851 libs/css_js_include.php:810
+#: libs/css_js_include_bkc.php:803
+#: templates/advanced_search/advanced_search_type_half.php:327
+#: templates/advanced_search_type_half.php:319
+msgid "Type Bedrooms No."
+msgstr "房間數量"
+
+#: functions.php:860 libs/css_js_include.php:811
+#: libs/css_js_include_bkc.php:804
+#: templates/advanced_search/advanced_search_type_half.php:332
+#: templates/advanced_search_type_half.php:324
+msgid "Type Bathrooms No."
+msgstr "浴室數量"
+
+#: functions.php:891 libs/help_functions.php:3780 libs/searchfunctions2.php:142
+#: libs/searchfunctions2.php:267
+#: templates/advanced_search/advanced_search_type_half.php:359
+#: templates/advanced_search_type_half.php:351
+#: templates/directory_filters.php:159
+msgid "Price range:"
+msgstr "價格範圍"
+
+#: functions.php:912 libs/css_js_include.php:812
+#: libs/css_js_include_bkc.php:805
+#: templates/advanced_search/advanced_search_type_half.php:370
+#: templates/advanced_search_type_half.php:362
+msgid "Type Min. Price"
+msgstr "輸入最小金額："
+
+#: functions.php:916 libs/css_js_include.php:813
+#: libs/css_js_include_bkc.php:806
+#: templates/advanced_search/advanced_search_type_half.php:374
+#: templates/advanced_search_type_half.php:366
+msgid "Type Max. Price"
+msgstr "輸入最大金額："
+
+#: functions.php:1563 functions.php:1577 functions.php:1593 functions.php:1609
+#: functions.php:1628 functions.php:1643 functions.php:1657 functions.php:1671
+#: functions.php:1686 functions.php:1700 functions.php:1714 functions.php:1729
+#: functions.php:1745 functions.php:1761 functions.php:1777 functions.php:1792
+#: functions.php:1808 functions.php:1824 functions.php:1841 functions.php:1856
+#: functions.php:1872 functions.php:1890 functions.php:1905 functions.php:1920
+#: functions.php:1932 functions.php:1948 functions.php:1965 functions.php:1981
+#: functions.php:1996 functions.php:2013 functions.php:2030 functions.php:2046
+#: functions.php:2061 functions.php:2076 functions.php:2091 functions.php:2106
+#: functions.php:2121 functions.php:2136 functions.php:2152 functions.php:2167
+#: functions.php:2184 functions.php:2199 functions.php:2214 functions.php:2230
+msgid "Clear theme cache after demo import is complete!"
+msgstr "演示導入完成後清除主題快取！"
+
+#. Template Name of the theme
+#: libs/contact_functions.php:120
+msgid "GDPR Terms"
+msgstr "GDPR 條款"
+
+#: index.php:36
+msgid "There are no posts published!"
+msgstr "沒有文章發布！"
+
+#: libs/3rdparty.php:88
+msgid "right now"
+msgstr "現在"
+
+#: libs/3rdparty.php:90
+msgid " seconds ago"
+msgstr "幾秒鐘前"
+
+#: libs/3rdparty.php:92
+msgid "about 1 minute ago"
+msgstr "約1分鐘前"
+
+#: libs/3rdparty.php:94
+msgid " minutes ago"
+msgstr "分鐘前"
+
+#: libs/3rdparty.php:96
+msgid "about 1 hour ago"
+msgstr "約1小時前"
+
+#: libs/3rdparty.php:98
+msgid " hours ago"
+msgstr "小時前"
+
+#: libs/3rdparty.php:100
+msgid "yesterday"
+msgstr "昨天"
+
+#: libs/3rdparty.php:102
+msgid " days ago"
+msgstr " 幾天前"
+
+#: libs/3rdparty.php:104
+msgid "over a year ago"
+msgstr "在一年前"
+
+#: libs/3rdparty.php:227 libs/3rdparty.php:232
+msgid " package on "
+msgstr "包裝"
+
+#: libs/3rdparty.php:347 libs/3rdparty.php:348
+msgid "PayPal payment agreement"
+msgstr "Paypal 支付協定"
+
+#: libs/agent_functions.php:16
+msgid "Hello I'm interested in one of your listings."
+msgstr "您好，我對您的一份清單感興趣。"
+
+#: libs/agent_functions.php:18
+msgid "Hello I'm interested in "
+msgstr "你好我有興趣"
+
+#: libs/agent_functions.php:377 templates/agentdetails.php:87
+#: templates/listing_templates/agent_section/agent_details_2.php:27
+msgid "Member of:"
+msgstr "成員："
+
+#: libs/agent_functions.php:440 templates/!property_reviews.php:118
+#: templates/agency_reviews.php:124
+#: templates/agency_templates/agency_reviews.php:124
+#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
+#: templates/developer_templates/developer_reviews.php:109
+#: templates/listing_templates/property-page-templates/property_reviews.php:126
+#: templates/listing_templates/property_reviews.php:121
+#: templates/property_page!/property_reviews.php:118
+msgid "Reviews"
+msgstr "評論"
+
+#: libs/ajax_functions.php:19 libs/gallery_functions.php:33
+#: libs/header_filter_functions.php:149 libs/listing_functions.php:878
+#: libs/listing_functions.php:902 templates/property_page_acc_content.php:207
+#: templates/property_page_acc_content.php:221
+#: templates/property_page_tab_content.php:204
+msgid "Map"
+msgstr "地圖"
+
+#: libs/ajax_functions.php:97 libs/ajax_functions.php:209
+#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:917
+#: libs/design_functions.php:2124 templates/featured_property_3.php:34
+#: templates/featured_property_4.php:48
+#: templates/listing_templates/favorite_under_title.php:8
+#: templates/listing_templates/property-page-templates/favorite_under_title.php:8
+#: templates/property_cards_templates/property_card_actions_type_default.php:11
+#: templates/property_cards_templates/property_card_favorite.php:8
+#: templates/property_cards_templates/property_card_favorite_single.php:11
+msgid "add to favorites"
+msgstr "加入最愛"
+
+#: libs/ajax_functions.php:112 libs/ajax_functions.php:214
+#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:916
+msgid "favorite"
+msgstr "最愛"
+
+#: libs/ajax_functions.php:183
+msgid "Number of Page Views"
+msgstr "頁面瀏覽量"
+
+#: libs/ajax_functions.php:246 libs/header_filter_functions.php:169
+#: templates/property_page_acc_content.php:334
+#: templates/property_page_acc_content.php:348
+#: templates/property_page_tab_content.php:325
+msgid "Payment Calculator"
+msgstr "付款計算器"
+
+#: libs/ajax_functions.php:265 libs/header_filter_functions.php:174
+#: templates/property_page_acc_content.php:363
+#: templates/property_page_acc_content.php:378
+#: templates/property_page_tab_content.php:75
+#: templates/submit_templates/floor_plans.php:16
+#: templates/submit_templates/property_floor_plans.php:71
+msgid "Floor Plans"
+msgstr "物件平面圖"
+
+#: libs/ajax_functions.php:286 libs/header_filter_functions.php:164
+#: templates/property_page_acc_content.php:306
+#: templates/property_page_acc_content.php:320
+#: templates/property_page_tab_content.php:299
+msgid "What's Nearby"
+msgstr "附近有什麼"
+
+#: libs/ajax_functions.php:313 libs/header_filter_functions.php:159
+#: templates/property_page_acc_content.php:270
+#: templates/property_page_acc_content.php:287
+#: templates/property_page_tab_content.php:265
+msgid "WalkScore"
+msgstr "WalkScore"
+
+#: libs/ajax_functions.php:341 libs/dashboard_actions_functions.php:295
+#: libs/gallery_functions.php:47 libs/header_filter_functions.php:154
+#: templates/property_page_acc_content.php:240
+#: templates/property_page_acc_content.php:254
+#: templates/property_page_tab_content.php:236
+#: templates/submit_templates/video_tour.php:29
+msgid "Virtual Tour"
+msgstr "虛擬導覽"
+
+#: libs/ajax_functions.php:371 libs/gallery_functions.php:42
+#: libs/header_filter_functions.php:144
+#: templates/property_page_acc_content.php:164
+#: templates/property_page_tab_content.php:161
+msgid "Video"
+msgstr "影片"
+
+#: libs/ajax_functions.php:398 libs/header_filter_functions.php:139
+#: templates/property_page_acc_content.php:126
+#: templates/property_page_tab_content.php:62
+#: templates/submit_templates/property_amenities.php:109
+msgid "Amenities and Features"
+msgstr "單位的設施及屋苑特色"
+
+#: libs/ajax_functions.php:428 libs/header_filter_functions.php:134
+#: templates/property_page_acc_content.php:92
+#: templates/property_page_tab_content.php:49
+msgid "Property Details"
+msgstr "其它資訊"
+
+#: libs/ajax_functions.php:456 libs/dashboard_actions_functions.php:140
+#: libs/header_filter_functions.php:129 libs/help_functions.php:5877
+#: libs/help_functions.php:6111 templates/property_page_acc_content.php:64
+#: templates/property_page_tab_content.php:39
+msgid "Property Address"
+msgstr "物件地址"
+
+#: libs/ajax_functions.php:487 libs/dashboard_actions_functions.php:16
+#: libs/header_filter_functions.php:108 libs/help_functions.php:5866
+#: libs/megamenu.php:255 templates/property_page_acc_content.php:23
+#: templates/property_page_tab_content.php:26
+#: templates/submit_templates/property_description.php:17
+msgid "Description"
+msgstr "描述"
+
+#: libs/ajax_functions.php:710 libs/ajax_functions.php:888
+#: libs/ajax_functions.php:1246 libs/ajax_functions.php:1783
+#: libs/ajax_functions.php:2508 libs/ajax_functions.php:4224
+#: libs/ajax_functions.php:4477 libs/ajax_functions.php:4760
+#: templates/google_maps_base.php:75
+msgid "We didn't find any results"
+msgstr "沒有符合您條件的物業"
+
+#: libs/ajax_functions.php:1239 templates/agency_unit.php:138
+#: templates/agent_card_templates/agent_unit.php:24
+#: templates/agent_card_templates/agent_unit_4.php:24
+#: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
+msgid "listings"
+msgstr "門店"
+
+#: libs/ajax_functions.php:1791 libs/ajax_functions.php:4784
+#: templates/dashboard-templates/user_memebership_profile.php:138
+#: templates/half_map_core.php:178
+msgid "Listings"
+msgstr "商家"
+
+#: libs/ajax_functions.php:2273 libs/ajax_functions.php:2387
+#: libs/help_functions.php:5340
+msgid "Hi there,"
+msgstr "你好,"
+
+#: libs/ajax_functions.php:2274
+msgid ""
+"We received your  Wire Transfer payment request on %s ! Please follow the "
+"instructions below in order to start submitting properties as soon as "
+"possible."
+msgstr "我們收到您在 %s 線上的電匯請求，請按照下面說明快速提交所有權。"
+
+#: libs/ajax_functions.php:2275
+msgid "The invoice number is: "
+msgstr "發票號碼為："
+
+#: libs/ajax_functions.php:2275
+msgid "Amount:"
+msgstr "總計:"
+
+#: libs/ajax_functions.php:2276
+msgid "Instructions: "
+msgstr "說明:"
+
+#: libs/ajax_functions.php:2560
+msgid "you don't have the right to delete this"
+msgstr "您沒有刪除這個的權限"
+
+#: libs/ajax_functions.php:2618
+msgid ""
+"Search has been saved. You will receive an email notification when new "
+"properties matching your search have been published"
+msgstr "搜索已保存。一但有人發佈與您的搜索匹配的新物件，您將收到電子郵件通知"
+
+#: libs/ajax_functions.php:2804
+msgid "Wrong captcha"
+msgstr "錯誤的驗證碼"
+
+#: libs/ajax_functions.php:2822
+msgid "Captcha Invalidated - Refresh and try again."
+msgstr "驗證碼無效 - 刷新並重試。"
+
+#: libs/ajax_functions.php:2840 libs/dashboard_actions_functions.php:907
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "使用者名稱無效（請勿使用特殊字元或空格）！"
+
+#: libs/ajax_functions.php:2848 libs/dashboard_actions_functions.php:911
+#: libs/dashboard_actions_functions.php:937
+msgid "Username and/or Email field is empty!"
+msgstr "用戶名和/或電子信箱為空白！"
+
+#: libs/ajax_functions.php:2856 libs/dashboard_actions_functions.php:952
+msgid "The email doesn't look right !"
+msgstr "這個Email不正確！"
+
+#: libs/ajax_functions.php:2865 libs/dashboard_actions_functions.php:957
+msgid "The email's domain doesn't look right."
+msgstr "這個Email的域名不正確！"
+
+#: libs/ajax_functions.php:2875 libs/dashboard_actions_functions.php:916
+msgid "Username already exists.  Please choose a new one."
+msgstr "用戶名已經存在。請選擇另一個新的名字。"
+
+#: libs/ajax_functions.php:2887 libs/dashboard_actions_functions.php:923
+msgid "One of the password field is empty!"
+msgstr "密碼不能為空。"
+
+#: libs/ajax_functions.php:2895 libs/ajax_functions.php:3936
+#: libs/dashboard_actions_functions.php:927
+msgid "Passwords do not match"
+msgstr "密碼不相符"
+
+#: libs/ajax_functions.php:2918
+msgid "Your account was created and you can login now!"
+msgstr "您的帳戶已被創建，您現在就可以登錄！"
+
+#: libs/ajax_functions.php:2923
+msgid "An email with the generated password was sent!"
+msgstr "電腦生成的密碼已經經由電子郵件發送！"
+
+#: libs/ajax_functions.php:2940 libs/dashboard_actions_functions.php:931
+#: libs/dashboard_actions_functions.php:941
+msgid "Email already exists.  Please choose a new one."
+msgstr "電子信箱地址已經存在，請選擇一個新的電子信箱地址。"
+
+#: libs/ajax_functions.php:2961 libs/dashboard_actions_functions.php:635
+#: libs/header_filter_functions.php:189 single-estate_property-obsolete.php:218
+#: single-estate_property-obsolete.php:223
+#: templates/dashboard-templates/user_memebership_profile.php:73
+#: templates/property_cards_templates/property_card_agent_details.php:19
+msgid "Agent"
+msgstr "業主"
+
+#: libs/ajax_functions.php:2965
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Agency"
+msgstr "代理"
+
+#: libs/ajax_functions.php:2969
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Developer"
+msgstr "開發者"
+
+#: libs/ajax_functions.php:3023 libs/ajax_functions.php:3078
+#: libs/ajax_functions.php:3135
+msgid "You are already logged in! redirecting..."
+msgstr "您已經登入了，定向中..."
+
+#: libs/ajax_functions.php:3033 libs/ajax_functions.php:3089
+#: libs/ajax_functions.php:3146
+msgid "Username and/or Password field is empty!"
+msgstr "用戶名和/或密碼為空白！"
+
+#: libs/ajax_functions.php:3053 libs/ajax_functions.php:3110
+#: libs/ajax_functions.php:3158
+msgid "Wrong username or password!"
+msgstr "用戶名或密碼錯誤！"
+
+#: libs/ajax_functions.php:3059 libs/ajax_functions.php:3116
+#: libs/ajax_functions.php:3166
+msgid "Login successful, redirecting..."
+msgstr "登入成功、重定向 ..."
+
+#: libs/ajax_functions.php:3195
+msgid "Email field is empty!"
+msgstr "電子信箱為空白！"
+
+#: libs/ajax_functions.php:3204
+msgid "Invalid E-mail address!"
+msgstr "無效的郵件地址！"
+
+#: libs/ajax_functions.php:3212
+msgid "Invalid Username!"
+msgstr "無效的使用者名稱！"
+
+#: libs/ajax_functions.php:3234
+msgid "We have just sent you an email with Password reset instructions."
+msgstr "我們剛剛向您發送了一封帶有密碼重置指令的電子郵件。"
+
+#: libs/ajax_functions.php:3365 libs/ajax_functions.php:3555
+#: libs/ajax_functions.php:3736
+msgid "The email was not saved because it is used by another user."
+msgstr "該電子郵件未儲存，因為它已被其他使用者使用。"
+
+#: libs/ajax_functions.php:3380 libs/ajax_functions.php:3570
+#: libs/ajax_functions.php:3751
+msgid "Profile updated"
+msgstr "個人簡介已更新."
+
+#: libs/ajax_functions.php:3931
+msgid "The new password is blank"
+msgstr "新密碼為空白"
+
+#: libs/ajax_functions.php:3944
+msgid "Password Updated"
+msgstr "密碼已經更新"
+
+#: libs/ajax_functions.php:3946
+msgid "Old Password is not correct"
+msgstr "舊的密碼不正確"
+
+#: libs/ajax_functions.php:3987 libs/ajax_functions.php:3993
+msgid "addded"
+msgstr "額外"
+
+#: libs/ajax_functions.php:4000
+msgid "removed"
+msgstr "%s 已移除。"
+
+#: libs/ajax_functions.php:4923
+msgid "Listing payment on "
+msgstr "付款清單"
+
+#: libs/ajax_functions.php:4935
+msgid "Upgrade to featured listing on "
+msgstr "發布至推薦房產"
+
+#: libs/ajax_functions.php:5022
+msgid "Upgrade to Featured Listing"
+msgstr "更新表單"
+
+#: libs/ajax_functions.php:5031
+msgid "Listing Payment"
+msgstr "付款清單"
+
+#: libs/ajax_functions.php:5041
+msgid "Listing Payment with Featured option"
+msgstr "特別選項的付款清單"
+
+#: libs/ajax_functions.php:5154
+msgid "Sent for approval"
+msgstr "立即送審"
+
+#: libs/ajax_functions.php:5166
+msgid "no listings available"
+msgstr "沒有可使用的表單"
+
+#: libs/ajax_functions.php:5195
+msgid "The date & time is already booked. Please choose a new one"
+msgstr "日期和時間已預訂，請選擇其他時間"
+
+#: libs/ajax_functions.php:5284
+msgid "membership payment on "
+msgstr "會員付款方式"
+
+#: libs/ajax_functions.php:5291 libs/ajax_functions.php:5294
+msgid "Membership Payment"
+msgstr "會員資格付款"
+
+#: libs/ajax_functions.php:5356
+msgid "Unable to login. Please, check login/password and try again"
+msgstr "無法登入。請檢查登入/密碼並重試"
+
+#: libs/ajax_functions.php:5364
+msgid "Please, enter correct email"
+msgstr "請輸入正確的電子郵件"
+
+#: libs/ajax_functions.php:5378
+msgid "Can\\t create user with this credentials"
+msgstr "無法使用此憑證建立用戶"
+
+#: libs/ajax_functions.php:5382
+msgid "Sorry, user already exists. Try different username/email"
+msgstr "抱歉，用戶已經存在。嘗試不同的使用者名稱/電子郵件"
+
+#: libs/contact_functions.php:35 templates/agent_contact.php:61
+#: templates/email_templates/schedule_tour_email_template.php:39
+msgid "Day"
+msgstr "日"
+
+#: libs/contact_functions.php:38 templates/agent_contact.php:65
+msgid "Time"
+msgstr "時間"
+
+#: libs/contact_functions.php:80 libs/contact_functions.php:92
+#: templates/agent_contact.php:31 templates/agent_contact.php:47
+#: templates/footer_buttons.php:21 templates/header_agency.php:114
+#: templates/header_developer.php:77
+msgid "Contact Us"
+msgstr "聯絡我們"
+
+#: libs/contact_functions.php:82 templates/agent_contact.php:33
+#: templates/listing_templates/agent_section/agent_details_2.php:71
+msgid "Contact Me"
+msgstr "聯絡我"
+
+#: libs/contact_functions.php:86 templates/agent_contact.php:40
+msgid "Schedule a showing?"
+msgstr "安排睇樓？"
+
+#: libs/contact_functions.php:120
+msgid "I consent to the"
+msgstr "我同意"
+
+#: libs/css_js_include.php:271 libs/css_js_include_bkc.php:263
+msgid "payment failed"
+msgstr "支付失敗"
+
+#: libs/css_js_include.php:590
+msgid " in "
+msgstr "來自 "
+
+#: libs/css_js_include.php:597
+msgid "The browser couldn't detect your position!"
+msgstr "瀏覽器無法偵測到您的位置！"
+
+#: libs/css_js_include.php:598
+msgid "Geolocation is not supported by this browser."
+msgstr "這個瀏覽器不支援地理定位。"
+
+#: libs/css_js_include.php:599
+msgid "m radius"
+msgstr "米 (半徑範圍)"
+
+#: libs/css_js_include.php:606 libs/css_js_include.php:830
+#: libs/css_js_include_bkc.php:826
+msgid "close map"
+msgstr "關閉地圖"
+
+#: libs/css_js_include.php:617
+msgid "No results found!"
+msgstr "無任何結果"
+
+#: libs/css_js_include.php:623
+msgid "loading results..."
+msgstr "加載結果..."
+
+#: libs/css_js_include.php:630 libs/theme-slider.php:454
+#: templates/featured_property_5.php:32
+#: templates/property_cards_templates/property_card_details_type5.php:14
+#: templates/property_cards_templates/property_unit_saved_search.php:29
+msgid "BA"
+msgstr "學士"
+
+#: libs/css_js_include.php:631 libs/theme-slider.php:450
+#: templates/featured_property_5.php:28
+#: templates/property_cards_templates/property_card_details_type5.php:10
+#: templates/property_cards_templates/property_unit_saved_search.php:26
+msgid "BD"
+msgstr "BD"
+
+#: libs/css_js_include.php:700 libs/css_js_include.php:1204
+#: libs/css_js_include_bkc.php:1190
+msgid "Geolocation was not successful"
+msgstr "地理定位未成功"
+
+#: libs/css_js_include.php:758 libs/css_js_include_bkc.php:751
+#: libs/help_functions.php:6023 libs/help_functions.php:6031
+msgid "Principal and Interest"
+msgstr "本金和利息"
+
+#: libs/css_js_include.php:759 libs/css_js_include_bkc.php:752
+msgid "HOO fees"
+msgstr "HOO費用"
+
+#: libs/css_js_include.php:760 libs/css_js_include_bkc.php:753
+#: libs/help_functions.php:6024 libs/help_functions.php:6032
+msgid "Property Tax"
+msgstr "財產稅"
+
+#: libs/css_js_include.php:761 libs/css_js_include.php:951
+#: libs/css_js_include_bkc.php:754 libs/css_js_include_bkc.php:937
+msgid "Property Views"
+msgstr "樓盤一覽"
+
+#: libs/css_js_include.php:788 libs/css_js_include_bkc.php:781
+#: libs/help_functions.php:2447
+msgid "miles"
+msgstr "英里"
+
+#: libs/css_js_include.php:789 libs/css_js_include_bkc.php:782
+#: libs/help_functions.php:2450
+msgid "km"
+msgstr "公尺"
+
+#: libs/css_js_include.php:804 libs/css_js_include_bkc.php:797
+msgid "Amount Financed:"
+msgstr "貸款金額："
+
+#: libs/css_js_include.php:805 libs/css_js_include_bkc.php:798
+msgid "Mortgage Payments:"
+msgstr "每月還款："
+
+#: libs/css_js_include.php:806 libs/css_js_include_bkc.php:799
+msgid "Annual cost of Loan:"
+msgstr "每年還款："
+
+#: libs/css_js_include.php:807 libs/css_js_include_bkc.php:800
+msgid "SEARCH"
+msgstr "搜索"
+
+#: libs/css_js_include.php:808 libs/css_js_include_bkc.php:801
+msgid "Search here..."
+msgstr "在這裡搜索......"
+
+#: libs/css_js_include.php:814 libs/css_js_include.php:818
+#: libs/css_js_include.php:912 libs/css_js_include.php:916
+#: libs/css_js_include_bkc.php:807 libs/css_js_include_bkc.php:814
+#: libs/css_js_include_bkc.php:898 libs/css_js_include_bkc.php:902
+#: templates/agent_contact.php:84 templates/footer_buttons.php:28
+#: templates/listing_templates/contact_form/contact_form_simple.php:16
+#: templates/property_page!/contact_form/contact_form_simple.php:3
+msgid "Your Name"
+msgstr "你的名字"
+
+#: libs/css_js_include.php:815 libs/css_js_include.php:819
+#: libs/css_js_include.php:913 libs/css_js_include.php:917
+#: libs/css_js_include_bkc.php:808 libs/css_js_include_bkc.php:815
+#: libs/css_js_include_bkc.php:899 libs/css_js_include_bkc.php:903
+#: templates/agent_contact.php:86 templates/footer_buttons.php:29
+#: templates/listing_templates/contact_form/contact_form_simple.php:17
+#: templates/property_page!/contact_form/contact_form_simple.php:4
+msgid "Your Email"
+msgstr "你的郵件"
+
+#: libs/css_js_include.php:816 libs/css_js_include.php:820
+#: libs/css_js_include.php:914 libs/css_js_include.php:918
+#: libs/css_js_include_bkc.php:809 libs/css_js_include_bkc.php:816
+#: libs/css_js_include_bkc.php:900 libs/css_js_include_bkc.php:904
+#: templates/agent_contact.php:87 templates/footer_buttons.php:30
+#: templates/listing_templates/contact_form/contact_form_simple.php:18
+#: templates/property_page!/contact_form/contact_form_simple.php:5
+msgid "Your Phone"
+msgstr "您的手機"
+
+#: libs/css_js_include.php:817 libs/css_js_include.php:821
+#: libs/css_js_include.php:915 libs/css_js_include.php:919
+#: libs/css_js_include_bkc.php:810 libs/css_js_include_bkc.php:817
+#: libs/css_js_include_bkc.php:901 libs/css_js_include_bkc.php:905
+msgid "Your Message"
+msgstr "你的信息"
+
+#: libs/css_js_include.php:822 libs/css_js_include.php:920
+#: libs/css_js_include_bkc.php:818 libs/css_js_include_bkc.php:906
+msgid "Send Message"
+msgstr "發送訊息"
+
+#: libs/css_js_include.php:825 libs/css_js_include.php:926
+#: libs/css_js_include_bkc.php:821 libs/css_js_include_bkc.php:912
+msgid "Sending user info, please wait..."
+msgstr "正在傳送資料，請稍候...."
+
+#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:822
+#: libs/gallery_functions.php:37 libs/listing_functions.php:883
+#: libs/listing_functions.php:906 templates/google_maps_base.php:125
+msgid "Street View"
+msgstr "街景"
+
+#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:823
+msgid "Close Street View"
+msgstr "關閉街景"
+
+#: libs/css_js_include.php:831 libs/css_js_include_bkc.php:827
+#: templates/google_maps_base.php:84 templates/google_maps_base.php:88
+msgid "open map"
+msgstr "打開地圖"
+
+#: libs/css_js_include.php:832 libs/css_js_include_bkc.php:828
+#: templates/google_maps_base.php:99 templates/google_maps_base_map_list.php:12
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+#: libs/css_js_include.php:833 libs/css_js_include_bkc.php:829
+#: libs/help_functions_cards.php:152
+msgid "Default"
+msgstr "預設"
+
+#: libs/css_js_include.php:834 libs/css_js_include_bkc.php:830
+msgid "Please wait while we are processing your submission!"
+msgstr "請稍後，我們正在處理您提交的內容！"
+
+#: libs/css_js_include.php:835 libs/css_js_include_bkc.php:831
+msgid "Are you sure you wish to delete?"
+msgstr "您確定要刪除嗎？"
+
+#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:832
+msgid "You need to agree with terms and conditions !"
+msgstr "您需要同意我們的使用條款！"
+
+#: libs/css_js_include.php:837 libs/css_js_include_bkc.php:833
+msgid "Please select the user type !"
+msgstr "請選擇使用者類型！"
+
+#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:834
+msgid "Processing..."
+msgstr "處理中..."
+
+#: libs/css_js_include.php:844 libs/css_js_include_bkc.php:840
+#: libs/general-settings.php:48 libs/general-settings.php:50
+#: libs/general-settings.php:59 libs/general-settings.php:61
+#: libs/general-settings.php:94 libs/general-settings.php:99
+#: libs/general-settings.php:110 libs/general-settings.php:114
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2512
+#: libs/searchfunctions.php:2544 templates/directory_filters.php:191
+#: templates/directory_filters.php:208 templates/directory_filters.php:227
+#: templates/directory_filters.php:246 templates/directory_filters.php:265
+msgid "to"
+msgstr "到"
+
+#: libs/css_js_include.php:846 libs/css_js_include_bkc.php:842
+msgid "Send me the invoice"
+msgstr "寄送發票給我"
+
+#: libs/css_js_include.php:847 libs/css_js_include_bkc.php:843
+msgid "Direct payment instructions"
+msgstr "直接付款指示"
+
+#: libs/css_js_include.php:848 libs/css_js_include_bkc.php:844
+msgid "To be paid"
+msgstr "為了支付"
+
+#: libs/css_js_include.php:850 libs/css_js_include.php:1123
+#: libs/css_js_include_bkc.php:846 libs/css_js_include_bkc.php:1109
+#: libs/dashboard_functions.php:1308
+#: templates/submit_templates/floor_plans.php:24
+#: templates/submit_templates/floor_plans.php:131
+#: templates/submit_templates/property_floor_plans.php:139
+msgid "Plan Title"
+msgstr "平面圖標題"
+
+#: libs/css_js_include.php:851 libs/css_js_include.php:1124
+#: libs/css_js_include_bkc.php:847 libs/css_js_include_bkc.php:1110
+#: templates/submit_templates/floor_plans.php:54
+#: templates/submit_templates/floor_plans.php:141
+msgid "Plan Image"
+msgstr "平面圖圖片"
+
+#: libs/css_js_include.php:852 libs/css_js_include.php:1125
+#: libs/css_js_include_bkc.php:848 libs/css_js_include_bkc.php:1111
+#: libs/dashboard_functions.php:1311
+#: templates/submit_templates/floor_plans.php:29
+#: templates/submit_templates/floor_plans.php:136
+#: templates/submit_templates/property_floor_plans.php:145
+msgid "Plan Description"
+msgstr "方案描述"
+
+#: libs/css_js_include.php:853 libs/css_js_include_bkc.php:849
+#: libs/css_js_include_bkc.php:1112 libs/dashboard_functions.php:1312
+#: templates/submit_templates/floor_plans.php:34
+#: templates/submit_templates/floor_plans.php:147
+#: templates/submit_templates/property_floor_plans.php:150
+msgid "Plan Size"
+msgstr "平面圖大小"
+
+#: libs/css_js_include.php:854 libs/css_js_include.php:1127
+#: libs/css_js_include_bkc.php:850 libs/css_js_include_bkc.php:1113
+#: libs/dashboard_functions.php:1313
+#: templates/submit_templates/floor_plans.php:39
+#: templates/submit_templates/floor_plans.php:152
+#: templates/submit_templates/property_floor_plans.php:155
+msgid "Plan Rooms"
+msgstr "房間平面圖"
+
+#: libs/css_js_include.php:855 libs/css_js_include.php:1128
+#: libs/css_js_include_bkc.php:851 libs/css_js_include_bkc.php:1114
+#: libs/dashboard_functions.php:1314
+#: templates/submit_templates/floor_plans.php:44
+#: templates/submit_templates/floor_plans.php:157
+#: templates/submit_templates/property_floor_plans.php:160
+msgid "Plan Bathrooms"
+msgstr "浴室平面圖"
+
+#: libs/css_js_include.php:856 libs/css_js_include.php:1129
+#: libs/css_js_include_bkc.php:852 libs/css_js_include_bkc.php:1115
+#: templates/submit_templates/floor_plans.php:49
+#: templates/submit_templates/floor_plans.php:162
+msgid "Plan Price"
+msgstr "計劃價格"
+
+#: libs/css_js_include.php:859 libs/css_js_include_bkc.php:855
+msgid "deleting..."
+msgstr "刪除..."
+
+#: libs/css_js_include.php:860 libs/css_js_include_bkc.php:856
+msgid "saving..."
+msgstr "儲存..."
+
+#: libs/css_js_include.php:870 libs/css_js_include_bkc.php:866
+msgid "posting"
+msgstr "發文"
+
+#: libs/css_js_include.php:871 libs/css_js_include_bkc.php:867
+msgid "Review Sent "
+msgstr "查看已發送資訊"
+
+#: libs/css_js_include.php:872 libs/css_js_include_bkc.php:868
+msgid "Review Edit Saved"
+msgstr "審閱編輯已儲存"
+
+#: libs/css_js_include.php:875 libs/css_js_include_bkc.php:871
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:93
+msgid "Pay"
+msgstr "付款"
+
+#: libs/css_js_include.php:876 libs/css_js_include_bkc.php:872
+msgid "Payment for package"
+msgstr "支付套餐"
+
+#: libs/css_js_include.php:882 libs/css_js_include_bkc.php:878
+msgid "there are no results"
+msgstr "沒有結果"
+
+#: libs/css_js_include.php:887
+msgid "Please wait while we gather data!"
+msgstr "我們正在收集數據，請稍候！"
+
+#: libs/css_js_include.php:888
+msgid "Please complete the form!"
+msgstr "請填寫表格！"
+
+#: libs/css_js_include.php:889 libs/elementor_help_files2.php:620
+msgid "bd"
+msgstr "房"
+
+#: libs/css_js_include.php:890 libs/elementor_help_files2.php:620
+msgid "ba"
+msgstr "衛"
+
+#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:907
+#: libs/dashboard_functions.php:1301 libs/dashboard_functions.php:1473
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:13
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:11
+msgid "Disabled"
+msgstr "停用"
+
+#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:908
+#: libs/dashboard_functions.php:1302 libs/dashboard_functions.php:1469
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:9
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:8
+msgid "Published"
+msgstr "已發佈"
+
+#: libs/css_js_include.php:923 libs/css_js_include.php:937
+#: libs/css_js_include_bkc.php:909 libs/css_js_include_bkc.php:923
+msgid "Please, enter property title"
+msgstr "請輸入物件標題"
+
+#: libs/css_js_include.php:928 libs/css_js_include_bkc.php:914
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:47
+msgid "Property is featured"
+msgstr "物件詳情"
+
+#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:915
+msgid "You have used all the \"Featured\" listings in your package."
+msgstr "您已經在您的包裹中使用了全部的 \"精選\" 表單。"
+
+#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:918
+#: libs/design_functions.php:2130 templates/featured_property_3.php:38
+#: templates/featured_property_4.php:52
+#: templates/listing_templates/favorite_under_title.php:13
+#: templates/listing_templates/property-page-templates/favorite_under_title.php:13
+#: templates/property_cards_templates/property_card_actions_type_default.php:15
+#: templates/property_cards_templates/property_card_favorite.php:13
+#: templates/property_cards_templates/property_card_favorite_single.php:15
+msgid "remove from favorites"
+msgstr "從最愛移除"
+
+#: libs/css_js_include.php:933 libs/css_js_include_bkc.php:919
+msgid "saving.."
+msgstr "儲存中..."
+
+#: libs/css_js_include.php:934 libs/css_js_include_bkc.php:920
+msgid "sending message.."
+msgstr "發送訊息"
+
+#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:921
+msgid "Please, enter field:"
+msgstr "請輸入欄位："
+
+#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:922
+msgid "You need to upload at last one image"
+msgstr "您至少要上傳一個圖像"
+
+#: libs/css_js_include.php:938 libs/css_js_include_bkc.php:924
+msgid "Connecting to Paypal! Please wait..."
+msgstr "連接到Paypal！請稍候..."
+
+#: libs/css_js_include.php:939 libs/css_js_include_bkc.php:925
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "subscription will be cancelled at the end of current period"
+msgstr "將在結束時取消訂閱"
+
+#: libs/css_js_include.php:941 libs/css_js_include_bkc.php:927
+#: libs/dashboard_functions.php:1303
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:102
+msgid "Disable Listing"
+msgstr "禁用列表"
+
+#: libs/css_js_include.php:942 libs/css_js_include_bkc.php:928
+#: libs/dashboard_functions.php:1304
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:106
+msgid "Enable Listing"
+msgstr "啟用清單"
+
+#: libs/css_js_include.php:943 libs/css_js_include_bkc.php:929
+#: libs/dashboard_functions.php:1305
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
+msgid "Disable Agent"
+msgstr "停用代理"
+
+#: libs/css_js_include.php:944 libs/css_js_include_bkc.php:930
+#: libs/dashboard_functions.php:1306
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
+msgid "Enable Agent"
+msgstr "啟用代理"
+
+#: libs/css_js_include.php:947 libs/css_js_include_bkc.php:933
+msgid "You must agree with GDPR terms"
+msgstr "您必須同意 GDPR 條款"
+
+#: libs/css_js_include.php:948 libs/css_js_include_bkc.php:934
+msgid ""
+"Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
+"your account and data. This means you will no longer be able to login to "
+"your account and access your account information: My Profile, My Properties, "
+"Inbox, Saved Searches and Messages. This operation CAN NOT BE REVERSED!"
+msgstr ""
+"確認您的帳戶刪除請求！點擊下面的按鈕將刪除您的帳戶和資料。這意味著您將無法再"
+"登入您的帳戶並存取您的帳戶資訊：我的個人資料、我的屬性、收件匣、已儲存的搜尋"
+"和訊息。此操作無法逆轉！"
+
+#: libs/css_js_include.php:952 libs/css_js_include_bkc.php:938
+#: libs/theme-slider.php:29 templates/property_details_modal.php:28
+msgid "Contact Agent"
+msgstr "線上聯絡"
+
+#: libs/css_js_include.php:962 libs/css_js_include_bkc.php:948
+msgid "Thank you. Please check your email for payment instructions."
+msgstr "謝謝您。請確認您電子信箱的付款指示。"
+
+#: libs/css_js_include.php:963 libs/css_js_include_bkc.php:949
+msgid "Sending"
+msgstr "送出中"
+
+#: libs/css_js_include.php:987 libs/css_js_include_bkc.php:973
+msgid "No More Listings"
+msgstr "沒有更多列表"
+
+#: libs/css_js_include.php:1046 libs/css_js_include_bkc.php:1032
+msgid "Allowed Files"
+msgstr "允許的檔案"
+
+#: libs/css_js_include.php:1061 libs/css_js_include_bkc.php:1047
+msgid "Image needs to be at least 500px height  x 500px wide!"
+msgstr "圖片至少需要 500 像素高 x 500 像素寬！"
+
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
+msgid "You cannot upload more than"
+msgstr "您上傳的內容不能超過"
+
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
+msgid "images"
+msgstr "圖片"
+
+#: libs/css_js_include.php:1066 libs/css_js_include_bkc.php:1052
+msgid "Are you sure you want to delete this?"
+msgstr "你確定要刪除 %s 嗎？"
+
+#: libs/css_js_include.php:1126
+msgid "Plan Size(*only numbers)"
+msgstr "計劃尺寸（*僅數字）"
+
+#: libs/css_js_include.php:1220 libs/css_js_include_bkc.php:1206
+msgid "Warning !"
+msgstr "警告 ！"
+
+#: libs/css_js_include.php:1223
+msgid ""
+" Are you sure you want to delete this image? It will be removed from "
+"property gallery and WordPress media gallery."
+msgstr " 您確定要刪除該圖片嗎？它將從屬性庫和 WordPress 媒體庫中刪除。"
+
+#: libs/css_js_include_bkc.php:811
+msgid "Your Address"
+msgstr "你的地址"
+
+#: libs/css_js_include_bkc.php:812
+msgid "Your City"
+msgstr "您的城市"
+
+#: libs/css_js_include_bkc.php:813
+msgid "Your State Code (ex CA)"
+msgstr "您的國家代碼"
+
+#: libs/css_js_include_bkc.php:1209
+msgid ""
+"Are you sure you want to delete this image?It will be removed from property "
+"gallery but not from media gallery."
+msgstr "您確定要刪除此圖像嗎？它將從屬性庫中刪除，但不會從媒體庫中刪除。"
+
+#: libs/dashboard_actions_functions.php:7
+#: templates/submit_templates/property_description.php:11
+msgid "*Title (mandatory)"
+msgstr "*標題 (必填)"
+
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:72
+#: templates/submit_templates/property_floor_plans.php:165
+msgid "Price in "
+msgstr "價格"
+
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:72
+#: templates/submit_templates/property_description.php:99
+msgid "(only numbers)"
+msgstr "(只填數字)"
+
+#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:6104
+#: templates/submit_templates/property_description.php:131
+msgid "Yearly Tax Rate"
+msgstr "年稅率"
+
+#: libs/dashboard_actions_functions.php:42
+#: templates/submit_templates/property_description.php:139
+msgid "Homeowners Association Fee(monthly)"
+msgstr "房主協會費（每月）"
+
+#: libs/dashboard_actions_functions.php:50
+#: templates/submit_templates/property_description.php:80
+msgid "After Price Label (ex: \"/month\")"
+msgstr "價格標籤後（例如：“/月”）"
+
+#: libs/dashboard_actions_functions.php:58
+#: templates/submit_templates/property_description.php:88
+msgid "Before Price Label (ex: \"from \")"
+msgstr "價格標籤之前（例如：「來自」）"
+
+#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5871
+msgid "Additional Price Info"
+msgstr "附加價格資訊"
+
+#: libs/dashboard_actions_functions.php:75
+msgid " After Label for Additional Price info "
+msgstr " 附加價格資訊標籤後"
+
+#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5873
+msgid "Before Label for Additional Price Info"
+msgstr "附加價格資訊標籤之前"
+
+#: libs/dashboard_actions_functions.php:92
+msgid "Select Categorie"
+msgstr "選擇凱特戈里"
+
+#: libs/dashboard_actions_functions.php:101
+msgid "Listed In"
+msgstr "列於 "
+
+#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5880
+#: libs/help_functions.php:6112
+msgid "Property Zip"
+msgstr "物件郵編"
+
+#: libs/dashboard_actions_functions.php:157 libs/listing_functions.php:1581
+#: libs/listing_functions.php:1626 word_remove.php:77
+msgid "Country"
+msgstr "國家"
+
+#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:6116
+msgid "Greenhouse gas emissions kgCO2/m2a"
+msgstr "溫室氣體排放量 kgCO2/m2a"
+
+#: libs/dashboard_actions_functions.php:190
+#: templates/submit_templates/property_energy_effective.php:58
+msgid "Greenhouse gas emissions index class"
+msgstr "溫室氣體排放指標等級"
+
+#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5904
+#: libs/listing_functions.php:1944
+#: templates/submit_templates/property_energy_effective.php:83
+msgid "Renewable energy performance index"
+msgstr "再生能源績效指數"
+
+#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5905
+#: libs/help_functions.php:6119 libs/listing_functions.php:1945
+#: templates/submit_templates/property_energy_effective.php:84
+msgid "Energy performance of the building"
+msgstr "建築物的能源性能"
+
+#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5906
+#: libs/help_functions.php:6120 libs/listing_functions.php:1946
+#: templates/submit_templates/property_energy_effective.php:85
+msgid "EPC current rating"
+msgstr "EPC電流額定值"
+
+#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5907
+#: libs/listing_functions.php:1947
+#: templates/submit_templates/property_energy_effective.php:86
+msgid "EPC Potential Rating"
+msgstr "EPC潛力等級"
+
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:34
+#: libs/help_functions.php:6106 libs/listing_functions.php:1789
+#: templates/property_cards_templates/property_card_details_type3.php:48
+#: templates/property_cards_templates/property_card_details_type7.php:48
+msgid "Property Size"
+msgstr "不動產面積"
+
+#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5894
+msgid "Owner Notes"
+msgstr "業主的附註"
+
+#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:39
+#: libs/help_functions.php:5890 libs/help_functions.php:6107
+#: libs/listing_functions.php:1792
+msgid "Property Lot Size"
+msgstr "物業的地皮尺寸"
+
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5891
+#: libs/help_functions.php:6108
+msgid "Property Rooms"
+msgstr "房產房間數"
+
+#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5892
+#: libs/help_functions.php:6109
+msgid "Property Bedrooms"
+msgstr "房產臥室數"
+
+#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5893
+#: libs/help_functions.php:6110
+msgid "Property Bathrooms"
+msgstr "房產浴室數"
+
+#: libs/dashboard_actions_functions.php:279
+#: libs/dashboard_actions_functions.php:287
+msgid "Video Type"
+msgstr "視頻類型"
+
+#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5884
+msgid "Property Latitude"
+msgstr "物件緯度"
+
+#: libs/dashboard_actions_functions.php:311
+msgid "Property Longitudine"
+msgstr "財產經度"
+
+#: libs/dashboard_actions_functions.php:319
+msgid "Google View"
+msgstr "谷歌視圖"
+
+#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5888
+#: templates/submit_templates/property_location.php:314
+msgid "Hide Map Marker"
+msgstr "隱藏地圖標記"
+
+#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5886
+msgid "Google Camera Angle"
+msgstr "谷歌相機角度"
+
+#: libs/dashboard_actions_functions.php:345
+msgid "Property subunits list"
+msgstr "屬性子單位清單"
+
+#: libs/dashboard_actions_functions.php:353
+msgid "Property has subunits"
+msgstr "屬性有子單位"
+
+#: libs/dashboard_actions_functions.php:547
+msgid "from date"
+msgstr "從日期"
+
+#: libs/dashboard_actions_functions.php:548
+msgid "to date"
+msgstr "迄今"
+
+#: libs/dashboard_actions_functions.php:553
+#: libs/dashboard_actions_functions.php:562
+msgid "Any"
+msgstr "任何"
+
+#: libs/dashboard_actions_functions.php:554 libs/help_functions.php:5378
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:90
+#: templates/dashboard-templates/invoice_listing_unit.php:24
+msgid "Upgrade to Featured"
+msgstr "功能更新"
+
+#: libs/dashboard_actions_functions.php:555
+#: templates/dashboard-templates/invoice_listing_unit.php:28
+msgid "Package"
+msgstr "軟件包"
+
+#: libs/dashboard_actions_functions.php:556
+#: templates/dashboard-templates/invoice_listing_unit.php:22
+msgid "Listing"
+msgstr "清單"
+
+#: libs/dashboard_actions_functions.php:563
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:23
+#: templates/dashboard-templates/invoice_listing_unit.php:52
+msgid "Paid"
+msgstr "付費"
+
+#: libs/dashboard_actions_functions.php:564
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:25
+#: templates/dashboard-templates/invoice_listing_unit.php:50
+msgid "Not Paid"
+msgstr "未付款"
+
+#: libs/dashboard_actions_functions.php:569
+msgid "Total Invoices: "
+msgstr "總合發票憑證"
+
+#: libs/dashboard_actions_functions.php:576
+msgid "Title"
+msgstr "標題"
+
+#: libs/dashboard_actions_functions.php:578
+msgid "Invoice Type"
+msgstr "應收付憑單"
+
+#: libs/dashboard_actions_functions.php:579
+msgid "Billing Type"
+msgstr "帳單類型"
+
+#: libs/dashboard_actions_functions.php:581
+#: libs/dashboard_actions_functions.php:759
+#: libs/dashboard_actions_functions.php:764 libs/elementor_help_files2.php:710
+#: libs/elementor_help_files2.php:784 libs/elementor_help_files2.php:837
+#: libs/listing_functions.php:1781 user_dashboard_favorite.php:43
+msgid "Price"
+msgstr "價格"
+
+#: libs/dashboard_actions_functions.php:627
+msgid "Search for an Agent"
+msgstr "尋找代理"
+
+#: libs/dashboard_actions_functions.php:636
+msgid "Phone/Mobile"
+msgstr "電話/手機"
+
+#: libs/dashboard_actions_functions.php:645
+msgid "You don't have any agents added!"
+msgstr "您還沒有添加任何代理程式！"
+
+#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:761 user_dashboard_favorite.php:40
+msgid "Property"
+msgstr "屬性"
+
+#: libs/dashboard_actions_functions.php:756
+#: libs/dashboard_actions_functions.php:762 libs/help_functions.php:48
+#: libs/help_functions.php:6098 libs/searchfunctions.php:2179
+#: libs/searchfunctions.php:2399
+#: templates/dashboard-templates/add_new_agent.php:146
+#: templates/dashboard-templates/add_new_agent_template.php:288
+#: templates/dashboard-templates/user_profile_agency.php:174
+#: templates/dashboard-templates/user_profile_agency.php:244
+#: templates/dashboard-templates/user_profile_agent.php:253
+#: templates/dashboard-templates/user_profile_developer.php:153
+#: templates/dashboard-templates/user_profile_developer.php:216
+#: templates/submit_templates/property_categories.php:55
+#: user_dashboard_favorite.php:41
+msgid "Category"
+msgstr "分類"
+
+#: libs/dashboard_actions_functions.php:758
+msgid "Pay Status"
+msgstr "付款狀態"
+
+#: libs/dashboard_actions_functions.php:772
+msgid "You don't have any properties!"
+msgstr "您還沒有任何物件"
+
+#: libs/dashboard_actions_functions.php:947
+msgid "Agent need a first & last name"
+msgstr "房產代理需要名字和姓氏"
+
+#: libs/dashboard_actions_functions.php:1144
+msgid "Agent was added... You will be redirected to your agent list..."
+msgstr "已添加房產代理...您將被重定向到您的代理人清單..."
+
+#: libs/dashboard_actions_functions.php:1150
+msgid "Agent profile edited"
+msgstr "代理設定檔已編輯"
+
+#: libs/dashboard_actions_functions.php:1317
+msgid "Started by"
+msgstr "開始"
+
+#: libs/dashboard_actions_functions.php:1318
+#: templates/dashboard-templates/message-listing-unit.php:36
+#: templates/email_templates/contact_email_template.php:39
+msgid "Subject"
+msgstr "主旨"
+
+#: libs/dashboard_actions_functions.php:1320
+msgid "Action"
+msgstr "動作"
+
+#: libs/dashboard_functions.php:174
+msgid "Account History (last 7 days)"
+msgstr "帳戶紀錄（最近 7 天）"
+
+#: libs/dashboard_functions.php:195
+msgid "Edited"
+msgstr "已編輯"
+
+#: libs/dashboard_functions.php:197
+msgid "Added"
+msgstr "已新增"
+
+#: libs/dashboard_functions.php:199
+msgid "Deleted"
+msgstr "已刪除"
+
+#: libs/dashboard_functions.php:204
+msgid "%s property %s"
+msgstr "%s財產%s"
+
+#: libs/dashboard_functions.php:207
+msgid "%s agent %s"
+msgstr "%s特工%s"
+
+#: libs/dashboard_functions.php:210
+msgid "%s agency %s"
+msgstr "%s機構%s"
+
+#: libs/dashboard_functions.php:213
+msgid "%s developer %s"
+msgstr "%s開發人員%s"
+
+#: libs/dashboard_functions.php:216
+msgid "Generated Invoice %s"
+msgstr "生成的發票%s"
+
+#: libs/dashboard_functions.php:218
+msgid "Deleted Invoice %s"
+msgstr "已刪除的發票%s"
+
+#: libs/dashboard_functions.php:222
+msgid "Write Message  %s"
+msgstr "寫消息%s"
+
+#: libs/dashboard_functions.php:224
+msgid "Deleted Message  %s"
+msgstr "已刪除的消息%s"
+
+#: libs/dashboard_functions.php:228
+msgid "Saved Search  %s"
+msgstr "已儲存的搜尋%s"
+
+#: libs/dashboard_functions.php:230
+msgid "Deleted Search  %s"
+msgstr "已刪除的搜尋%s"
+
+#: libs/dashboard_functions.php:271
+msgid "Inquiries"
+msgstr "諮詢"
+
+#: libs/dashboard_functions.php:275 libs/dashboard_functions.php:535
+msgid "You don't have any listings or enough data!"
+msgstr "您沒有任何清單或足夠的資料！"
+
+#: libs/dashboard_functions.php:285
+msgid "Your most Popular Listings"
+msgstr "您最受歡迎的清單"
+
+#: libs/dashboard_functions.php:310
+msgid "Total Properties"
+msgstr "總樓盤"
+
+#: libs/dashboard_functions.php:311
+msgid "Published Properties"
+msgstr "已發布不動產"
+
+#: libs/dashboard_functions.php:316
+msgid "Total Agents"
+msgstr "總代理"
+
+#: libs/dashboard_functions.php:319 libs/dashboard_functions.php:1527
+msgid "Saved Searches"
+msgstr "儲存的搜尋結果"
+
+#: libs/dashboard_functions.php:331
+msgid "Favorite Properties"
+msgstr "最愛的物件"
+
+#: libs/dashboard_functions.php:335
+msgid "Account Summary"
+msgstr "帳戶匯總"
+
+#: libs/dashboard_functions.php:390
+msgid "Listings Views"
+msgstr "清單檢視"
+
+#: libs/dashboard_functions.php:398
+msgid "Total views for your listings"
+msgstr "您的清單的總瀏覽次數"
+
+#: libs/dashboard_functions.php:531
+msgid "Views"
+msgstr "瀏覽量"
+
+#: libs/dashboard_functions.php:547
+msgid "Your most visited Listings"
+msgstr "您存取最多的清單"
+
+#: libs/dashboard_functions.php:670
+msgid "Clone: "
+msgstr "克隆："
+
+#: libs/dashboard_functions.php:1307
+msgid "Valid file formats"
+msgstr "有效的文件格式"
+
+#: libs/dashboard_functions.php:1309
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Are you sure you wish to delete ?"
+msgstr "您確定要刪除嗎？"
+
+#: libs/dashboard_functions.php:1310
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Delete Plan"
+msgstr "刪除方案"
+
+#: libs/dashboard_functions.php:1315
+msgid "Plan Price in"
+msgstr "計劃價格在"
+
+#: libs/dashboard_functions.php:1316
+#: templates/submit_templates/property_floor_plans.php:182
+msgid "Upload Plan Image"
+msgstr "上傳計劃圖像"
+
+#: libs/dashboard_functions.php:1317
+msgid "processing..."
+msgstr "處理中..."
+
+#: libs/dashboard_functions.php:1405
+msgid "Welcome"
+msgstr "歡迎"
+
+#: libs/dashboard_functions.php:1465 templates/agency_listings.php:147
+#: templates/agency_templates/agency_listings.php:147
+#: templates/agent_listings.php:167
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:5
+#: templates/developer_listings.php:105
+#: templates/developer_templates/developer_listings.php:105
+msgid "All"
+msgstr "全部"
+
+#: libs/dashboard_functions.php:1477
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:17
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:5
+msgid "Expired"
+msgstr "已過期"
+
+#: libs/dashboard_functions.php:1481
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:21
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:14
+msgid "Draft"
+msgstr "草稿"
+
+#: libs/dashboard_functions.php:1485
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:25
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:17
+msgid "Waiting for approval"
+msgstr "等待審核"
+
+#: libs/dashboard_functions.php:1493
+msgid "Leads"
+msgstr "潛在客戶"
+
+#: libs/dashboard_functions.php:1498
+msgid "Contacts"
+msgstr "聯絡人"
+
+#: libs/dashboard_functions.php:1507 libs/dashboard_functions.php:1547
+msgid "Dashboard"
+msgstr "控制台"
+
+#: libs/dashboard_functions.php:1511
+msgid "My Profile"
+msgstr "我的個人資料"
+
+#: libs/dashboard_functions.php:1515
+msgid "My Properties List"
+msgstr "我的個人頁面"
+
+#: libs/dashboard_functions.php:1519 libs/dashboard_widgets.php:329
+#: word_remove.php:277
+msgid "Add New Property"
+msgstr "新增物件"
+
+#: libs/dashboard_functions.php:1523
+msgid "Favorites"
+msgstr "收藏"
+
+#: libs/dashboard_functions.php:1531
+msgid "My Invoices"
+msgstr "我的帳單"
+
+#: libs/dashboard_functions.php:1535
+#: templates/dashboard-templates/add_new_agent_template.php:395
+msgid "Add New Agent"
+msgstr "添加新經辦人"
+
+#: libs/dashboard_functions.php:1539
+msgid "Agent List"
+msgstr "已添加房產代理...您將被重定向到您的代理人清單..."
+
+#: libs/dashboard_functions.php:1543
+msgid "Inbox"
+msgstr "收件匣"
+
+#: libs/dashboard_functions.php:1551
+msgid "CRM"
+msgstr "CRM"
+
+#: libs/dashboard_functions.php:1587 libs/dashboard_functions.php:1669
+msgid "Logout"
+msgstr "登出"
+
+#: libs/dashboard_functions.php:1835
+#: templates/dashboard-templates/add_new_agent.php:163
+#: templates/dashboard-templates/add_new_agent.php:190
+#: templates/dashboard-templates/add_new_agent_template.php:300
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:279
+#: templates/dashboard-templates/user_profile_agent.php:299
+#: templates/submit_templates/property_categories.php:65
+#: templates/submit_templates/property_categories.php:84
+#: templates/submit_templates/property_location.php:116
+#: templates/submit_templates/property_location.php:164
+#: templates/submit_templates/property_location.php:170
+#: templates/submit_templates/property_location.php:213
+#: templates/submit_templates/property_location.php:219
+msgid "None"
+msgstr "無"
+
+#: libs/dashboard_widgets.php:6
+msgid "Your Current Logo"
+msgstr "您目前的徽標"
+
+#: libs/dashboard_widgets.php:12
+msgid "Upload New Logo"
+msgstr "上傳新的 Logo"
+
+#: libs/dashboard_widgets.php:17
+msgid "Your Current Colors"
+msgstr "您目前的顏色"
+
+#: libs/dashboard_widgets.php:47
+msgid "Change Colors"
+msgstr "變更顏色"
+
+#: libs/dashboard_widgets.php:59
+msgid "You have %d pages published."
+msgstr "您已發佈 %d 個頁面。"
+
+#: libs/dashboard_widgets.php:76
+msgid "Page Title"
+msgstr "頁面標題"
+
+#: libs/dashboard_widgets.php:81
+msgid "Page Template"
+msgstr "頁面模板"
+
+#: libs/dashboard_widgets.php:86
+msgid "See All Your Pages"
+msgstr "查看您的所有頁面"
+
+#: libs/dashboard_widgets.php:88 word_remove.php:275
+msgid "Add New Page"
+msgstr "新增頁面"
+
+#: libs/dashboard_widgets.php:318
+msgid "You have %d listings published:"
+msgstr "您已發佈 %d 個清單："
+
+#: libs/dashboard_widgets.php:383
+msgid "Your Payment system is in SANDBOX mode."
+msgstr "您的支付系統處於沙盒模式。"
+
+#: libs/dashboard_widgets.php:385
+msgid "Your Payment system is in LIVE mode."
+msgstr "您的支付系統處於上線模式。"
+
+#: libs/dashboard_widgets.php:395
+msgid "Payments will be procesed in %s.Prices are displayed in %s"
+msgstr "付款將在 %s 處理。價格顯示在 %s"
+
+#: libs/dashboard_widgets.php:403
+msgid ""
+"You did not add your Paypal Details. No Paypal payment will be processed"
+msgstr "您沒有添加您的 Paypal 詳細資訊。任何 Papal 的付款將不會被處理"
+
+#: libs/dashboard_widgets.php:405
+msgid "Paypal Api Keys are added.Payments will be processed."
+msgstr "已新增 Paypal API 金鑰。將以此方式付款"
+
+#: libs/dashboard_widgets.php:412
+msgid ""
+"You did not add your Stripe Details. No Stripe payment will be processed"
+msgstr "您沒有添加 Stripe 的詳細資訊。任何付款將不會以 Stripe 支付"
+
+#: libs/dashboard_widgets.php:414
+msgid "Stripe Api Keys are added.Payments will be processed."
+msgstr "已新增 Stripe API 金鑰。將以此方式付款"
+
+#: libs/dashboard_widgets.php:418
+msgid "Edit Payment Details"
+msgstr "編輯付款細節"
+
+#: libs/design_functions.php:2088 libs/design_functions.php:2090
+#: libs/design_functions.php:2093 libs/design_functions.php:2097
+#: templates/featured_property_3.php:141 templates/featured_property_4.php:155
+#: templates/property_cards_templates/property_card_actions_type2.php:7
+#: templates/property_cards_templates/property_card_actions_type_default.php:26
+#: templates/property_cards_templates/property_card_favorite_single.php:26
+msgid "share"
+msgstr "分享"
+
+#: libs/design_functions.php:2110
+#: templates/property_cards_templates/property_card_details_default.php:58
+#: templates/property_slider_shortcode_v3_test.php:112
+#: templates/property_unit_type3.php:56
+msgid "details"
+msgstr "細節"
+
+#: libs/design_functions.php:2146 libs/design_functions.php:2151
+#: libs/design_functions.php:2156 libs/design_functions.php:2162
+#: templates/property_cards_templates/property_card_actions_type2.php:11
+#: templates/property_cards_templates/property_card_actions_type_default.php:49
+#: templates/property_cards_templates/property_card_favorite_single.php:49
+msgid "compare"
+msgstr "比較"
+
+#: libs/design_functions.php:2153 libs/design_functions.php:2190
+#: libs/design_functions.php:2205
+msgid "featured icon"
+msgstr "精選圖示"
+
+#: libs/design_functions.php:2317
+msgid "icon"
+msgstr "圖示"
+
+#: libs/design_functions.php:2410
+msgid "Facebook"
+msgstr "Facebook"
+
+#: libs/design_functions.php:2411
+msgid "X - Twitter"
+msgstr "X-推特"
+
+#: libs/design_functions.php:2412
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: libs/design_functions.php:2413
+#: templates/realtor_templates/agent_contact_bar.php:37
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2276
+#: libs/searchfunctions.php:2450
+msgid "categories"
+msgstr "產品類別"
+
+#: libs/elementor_help_files.php:17
+msgid "county"
+msgstr "縣"
+
+#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2277
+#: libs/searchfunctions.php:2451
+msgid "cities"
+msgstr "地區"
+
+#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2278
+#: libs/searchfunctions.php:2452
+msgid "areas"
+msgstr "區域"
+
+#: libs/elementor_help_files.php:20
+msgid "wpestate location"
+msgstr "韋斯特特位置"
+
+#: libs/elementor_help_files.php:21
+msgid "price"
+msgstr "價格"
+
+#: libs/elementor_help_files.php:22
+msgid "price v2"
+msgstr "價格v2"
+
+#: libs/elementor_help_files.php:23
+msgid "price v3"
+msgstr "價格v3"
+
+#: libs/elementor_help_files.php:29
+msgid "beds&baths"
+msgstr "床和浴室"
+
+#: libs/elementor_help_files.php:30 libs/searchfunctions.php:2307
+msgid "address"
+msgstr "地址"
+
+#: libs/elementor_help_files.php:32
+msgid "country"
+msgstr "國家"
+
+#: libs/elementor_help_files.php:33
+msgid "status"
+msgstr "狀態"
+
+#: libs/elementor_help_files.php:34
+msgid "id"
+msgstr "id"
+
+#: libs/elementor_help_files.php:35 templates/directory_filters.php:306
+msgid "keyword"
+msgstr "關鍵字"
+
+#: libs/elementor_help_files.php:36
+msgid "geolocation"
+msgstr "地理定位"
+
+#: libs/elementor_help_files.php:37
+msgid "radius for geolocation"
+msgstr "地理定位半徑"
+
+#: libs/elementor_help_files2.php:14 libs/elementor_help_files2.php:347
+#: libs/help_functions.php:3963 libs/help_functions.php:4370
+#: libs/help_functions.php:4829 libs/searchfunctions.php:555
+#: libs/searchfunctions2.php:54 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_property_list_filters.php:53
+#: templates/advanced_property_list_filters.php:102
+#: templates/advanced_search/advanced_search_type2.php:33
+#: templates/advanced_search/advanced_search_type8.php:111
+#: templates/advanced_search/advanced_search_type9.php:115
+#: templates/advanced_search/advanced_search_type_half.php:211
+#: templates/advanced_search/advanced_search_type_half.php:221
+#: templates/advanced_search/adv_search_mobile.php:104
+#: templates/advanced_search/adv_search_mobile.php:174
+#: templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:203
+#: templates/advanced_search_type_half.php:213
+#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "分類"
+
+#: libs/elementor_help_files2.php:52 libs/elementor_help_files2.php:365
+#: libs/help_functions.php:3973 libs/help_functions.php:4412
+#: libs/help_functions.php:5037 property_list_half.php:101
+#: templates/advanced_property_list_filters.php:56
+#: templates/advanced_property_list_filters.php:113
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "狀態"
+
+#: libs/elementor_help_files2.php:309
+msgid "items selected"
+msgstr "項目已選中"
+
+#: libs/elementor_help_files2.php:310
+msgid "Select All"
+msgstr "全部選取"
+
+#: libs/elementor_help_files2.php:311
+msgid "Select None"
+msgstr "全不選"
+
+#: libs/elementor_help_files2.php:591
+msgid "Beds/Baths"
+msgstr "床/浴室"
+
+#: libs/elementor_help_files2.php:954 libs/elementor_help_files2.php:966
+msgid "No Value"
+msgstr "沒有價值"
+
+#: libs/events.php:11
+msgid "Once Weekly"
+msgstr "每星期一次"
+
+#: libs/gallery_functions.php:30 libs/listing_functions.php:888
+#: libs/listing_functions.php:909
+msgid "Image Gallery"
+msgstr "插入多张图片"
+
+#: libs/gallery_functions.php:641 libs/gallery_functions.php:698
+msgid "See all"
+msgstr "觀看全部"
+
+#: libs/gallery_functions.php:641 libs/gallery_functions.php:698
+msgid "photos"
+msgstr "相片"
+
+#: libs/gallery_functions.php:764 libs/gallery_functions.php:814
+#: templates/featured_property_1.php:92 templates/featured_property_1.php:112
+#: templates/featured_property_2.php:86 templates/header5.php:22
+#: templates/header_agency.php:44 templates/header_developer.php:38
+#: templates/image_gallery.php:54 templates/image_gallery.php:87
+#: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
+#: word_remove.php:11 zillow_estimate_page.php:79
+msgid "image"
+msgstr "圖片"
+
+#: libs/general-settings.php:364 libs/general-settings.php:380
+msgid " ..."
+msgstr "..."
+
+#: libs/general-settings.php:445
+msgid "Primary Menu"
+msgstr "主選單"
+
+#: libs/general-settings.php:446
+msgid "Mobile Menu"
+msgstr "手機選單"
+
+#: libs/general-settings.php:447
+msgid "Footer Menu"
+msgstr "頁尾選單"
+
+#: libs/general-settings.php:448
+msgid "Header 6 Second Menu"
+msgstr "標題 6 第二個選單"
+
+#: libs/general-settings.php:450
+msgid "Primary Widget Area"
+msgstr "主要部件區域"
+
+#: libs/general-settings.php:452
+msgid "The primary widget area"
+msgstr "主要小工具區域"
+
+#: libs/general-settings.php:461
+msgid "Secondary Widget Area"
+msgstr "輔助窗口小部件"
+
+#: libs/general-settings.php:463
+msgid "The secondary widget area"
+msgstr "輔助構件區"
+
+#: libs/general-settings.php:472
+msgid "First Footer Widget Area"
+msgstr "首頁尾小工具區域"
+
+#: libs/general-settings.php:474
+msgid "The first footer widget area"
+msgstr "第一個頁腳小部件區域"
+
+#: libs/general-settings.php:483
+msgid "Second Footer Widget Area"
+msgstr "第二腳小工具區域"
+
+#: libs/general-settings.php:485
+msgid "The second footer widget area"
+msgstr "此頁尾第二小工具區域"
+
+#: libs/general-settings.php:494
+msgid "Third Footer Widget Area"
+msgstr "第三頁腳小部件區域"
+
+#: libs/general-settings.php:496
+msgid "The third footer widget area"
+msgstr "此頁尾第三小工具區域"
+
+#: libs/general-settings.php:505
+msgid "Fourth Footer Widget Area"
+msgstr "第四腳小工具區域"
+
+#: libs/general-settings.php:507
+msgid "The fourth footer widget area"
+msgstr "此頁尾第四小工具區域"
+
+#: libs/general-settings.php:516
+msgid "Top Bar Left Widget Area"
+msgstr "網頁頂部橫條(左邊)小工具區域"
+
+#: libs/general-settings.php:518
+msgid "The top bar left widget area"
+msgstr "網頁頂部橫條(左邊)小工具區域"
+
+#: libs/general-settings.php:526
+msgid "Top Bar Right Widget Area"
+msgstr "網頁頂部橫條(右邊)小工具區域"
+
+#: libs/general-settings.php:528
+msgid "The top bar right widget area"
+msgstr "網頁頂部橫條(右邊)小工具區域"
+
+#: libs/general-settings.php:535
+msgid "Sidebar Menu Widget Area - Before Menu"
+msgstr "側邊欄選單小工具區域 - 選單之前"
+
+#: libs/general-settings.php:537
+msgid "Sidebar for header type 3 - before menu"
+msgstr "標題類型 3 的側邊欄 - 選單之前"
+
+#: libs/general-settings.php:544
+msgid "Sidebar Menu Widget Area - After Menu"
+msgstr "側邊欄選單小工具區域 - 選單後"
+
+#: libs/general-settings.php:546
+msgid "Sidebar for header type 3 - after menu"
+msgstr "標題類型 3 的側邊欄 - 選單後"
+
+#: libs/general-settings.php:556
+msgid "Header4 Widget Area"
+msgstr "Header4 小工具區域"
+
+#: libs/general-settings.php:558
+msgid "Header4 widget area"
+msgstr "header4 小部件區域"
+
+#: libs/general-settings.php:567
+msgid "Dashboard Top Bar Left Widget Area"
+msgstr "儀表板頂部欄左側小部件區域"
+
+#: libs/general-settings.php:569
+msgid "User Dashboard - The top bar left widget area"
+msgstr "使用者儀表板 - 頂部欄左側小工具區域"
+
+#: libs/general-settings.php:577
+msgid "Dashboard Top Bar Right Widget Area"
+msgstr "儀表板頂部欄右側小工具區域"
+
+#: libs/general-settings.php:579
+msgid "User Dashboard - The top bar right widget area"
+msgstr "使用者儀表板 - 頂部欄右側小工具區域"
+
+#: libs/general-settings.php:587
+msgid "Splash Page Bottom Right Widget Area"
+msgstr "初始頁面右下角小部件區域"
+
+#: libs/general-settings.php:589
+msgid "Splash Page - Bottom right area"
+msgstr "初始頁面 - 右下區域"
+
+#: libs/general-settings.php:597
+msgid "Splash Page Bottom Left Widget Area"
+msgstr "初始頁面左下角小工具區域"
+
+#: libs/general-settings.php:599
+msgid "Splash Page - Bottom left area"
+msgstr "初始頁面 - 左下區域"
+
+#: libs/header_filter_functions.php:101
+msgid "Overview"
+msgstr "概觀"
+
+#: libs/header_filter_functions.php:114 libs/listing_functions.php:1507
+msgid "Documents"
+msgstr "文件"
+
+#: libs/header_filter_functions.php:119 libs/listing_functions.php:522
+#: templates/multi_units.php:24
+msgid "Available Units"
+msgstr "可供單位"
+
+#: libs/header_filter_functions.php:124
+msgid "Enery Savings"
+msgstr "節能"
+
+#: libs/header_filter_functions.php:179
+#: templates/property_page_acc_content.php:392
+#: templates/property_page_acc_content.php:407
+#: templates/property_page_tab_content.php:353
+msgid "Page Views Statistics"
+msgstr "頁面瀏覽量統計"
+
+#: libs/header_filter_functions.php:184
+#: templates/listing_templates/property_page_schedule_tour.php:9
+#: templates/property_list_agent.php:79
+#: templates/property_page!/property_page_schedule_tour.php:7
+msgid "Schedule a tour"
+msgstr "安排遊覽"
+
+#: libs/header_filter_functions.php:194
+#: templates/listing_templates/other_agents.php:5 templates/other_agents.php:5
+#: templates/other_agents.php:7 templates/property_page!/other_agents.php:5
+#: templates/property_page!/other_agents.php:7
+msgid "Other Agents"
+msgstr "其他代理"
+
+#: libs/header_filter_functions.php:200 templates/!property_reviews.php:4
+#: templates/!property_reviews.php:22
+#: templates/listing_templates/property-page-templates/property_reviews.php:25
+#: templates/listing_templates/property_reviews.php:25
+#: templates/property_page!/property_reviews.php:4
+#: templates/property_page!/property_reviews.php:22
+msgid "Property Reviews"
+msgstr "物業評論"
+
+#: libs/header_filter_functions.php:205 libs/help_functions.php:2466
+#: templates/listing_templates/property-page-templates/similar_listings.php:159
+#: templates/listing_templates/property-page-templates/similar_listings.php:190
+#: templates/listing_templates/similar_listings.php:133
+#: templates/listing_templates/similar_listings.php:155
+#: templates/property_page!/similar_listings.php:135
+#: templates/property_page!/similar_listings.php:143
+#: templates/similar_listings.php:135 templates/similar_listings.php:143
+msgid "Similar Listings"
+msgstr "相近樓盤"
+
+#: libs/help_functions.php:17 libs/listing_functions.php:1798
+#: templates/listing_templates/single-overview-section.php:31
+#: templates/property_cards_templates/property_card_details_type3.php:30
+#: templates/property_cards_templates/property_card_details_type4.php:12
+#: templates/property_cards_templates/property_card_details_type7.php:30
+msgid "Bedrooms"
+msgstr "檢體採集模式"
+
+#: libs/help_functions.php:21 libs/listing_functions.php:1801
+#: templates/listing_templates/single-overview-section.php:42
+#: templates/property_cards_templates/property_card_details_type3.php:39
+#: templates/property_cards_templates/property_card_details_type7.php:39
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "浴室"
+
+#: libs/help_functions.php:25 libs/listing_functions.php:1795
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:32
+msgid "Rooms"
+msgstr "房間"
+
+#: libs/help_functions.php:29
+#: templates/listing_templates/single-overview-section.php:53
+msgid "Garages"
+msgstr "車位"
+
+#: libs/help_functions.php:43
+#: templates/listing_templates/single-overview-section.php:73
+msgid "Year Built:"
+msgstr "建造年份"
+
+#: libs/help_functions.php:1187 libs/help_functions.php:1190
+msgid "all"
+msgstr "全部"
+
+#: libs/help_functions.php:1194 libs/listing_functions.php:1830
+msgid "Not Available"
+msgstr "不適用"
+
+#: libs/help_functions.php:1211
+msgid "Please submit the"
+msgstr "請提交"
+
+#: libs/help_functions.php:1211
+msgid "field"
+msgstr "欄位"
+
+#: libs/help_functions.php:2136
+msgid "Transport"
+msgstr "傳輸方式"
+
+#: libs/help_functions.php:2137
+msgid "Supermarkets"
+msgstr "超級市場"
+
+#: libs/help_functions.php:2138
+msgid "Schools"
+msgstr "學校"
+
+#: libs/help_functions.php:2139 libs/help_functions.php:2343
+msgid "Restaurants"
+msgstr "餐馆"
+
+#: libs/help_functions.php:2140
+msgid "Pharmacies"
+msgstr "藥局"
+
+#: libs/help_functions.php:2141
+msgid "Hospitals"
+msgstr "醫院"
+
+#: libs/help_functions.php:2186 libs/help_functions.php:2224
+msgid "K"
+msgstr "克爾謝希爾省"
+
+#: libs/help_functions.php:2189 libs/help_functions.php:2227
+msgid "M"
+msgstr "M"
+
+#: libs/help_functions.php:2303
+msgid "Active Life"
+msgstr "戶外活動"
+
+#: libs/help_functions.php:2305
+msgid "Arts & Entertainment"
+msgstr "藝術及娛樂"
+
+#: libs/help_functions.php:2307
+msgid "Automotive"
+msgstr "汽車"
+
+#: libs/help_functions.php:2309
+msgid "Beauty & Spas"
+msgstr "美容與水療"
+
+#: libs/help_functions.php:2311
+msgid "Education"
+msgstr "教學"
+
+#: libs/help_functions.php:2313
+msgid "Event Planning & Services"
+msgstr "活動企劃與服務"
+
+#: libs/help_functions.php:2315
+msgid "Financial Services"
+msgstr "金融服務"
+
+#: libs/help_functions.php:2317
+msgid "Food"
+msgstr "食物"
+
+#: libs/help_functions.php:2319
+msgid "Health & Medical"
+msgstr "健康及醫療"
+
+#: libs/help_functions.php:2321
+msgid "Home Services "
+msgstr "家庭服務 "
+
+#: libs/help_functions.php:2323
+msgid "Hotels & Travel"
+msgstr "飯店及旅遊"
+
+#: libs/help_functions.php:2325
+msgid "Local Flavor"
+msgstr "當地風味"
+
+#: libs/help_functions.php:2327
+msgid "Local Services"
+msgstr "本地服務"
+
+#: libs/help_functions.php:2329
+msgid "Mass Media"
+msgstr "媒體"
+
+#: libs/help_functions.php:2331
+msgid "Nightlife"
+msgstr "夜生活"
+
+#: libs/help_functions.php:2333
+msgid "Pets"
+msgstr "寵物"
+
+#: libs/help_functions.php:2335
+msgid "Professional Services"
+msgstr "專業服務"
+
+#: libs/help_functions.php:2337
+msgid "Public Services & Government"
+msgstr "公共服務與政府"
+
+#: libs/help_functions.php:2339
+msgid "Real Estate"
+msgstr "地產業"
+
+#: libs/help_functions.php:2341
+msgid "Religious Organizations"
+msgstr "宗教組織"
+
+#: libs/help_functions.php:2345
+msgid "Shopping"
+msgstr "購物"
+
+#: libs/help_functions.php:2347
+msgid "Transportation"
+msgstr "交通"
+
+#: libs/help_functions.php:2401
+msgid "There are no results found for this property address. "
+msgstr "沒有找到該房產地址的結果。"
+
+#: libs/help_functions.php:3674
+msgid "All Countries"
+msgstr "所有國家"
+
+#: libs/help_functions.php:3975 libs/help_functions.php:4339
+#: libs/help_functions.php:4680 libs/help_functions.php:6103
+#: templates/directory_filters.php:298
+#: templates/submit_templates/property_status.php:42
+msgid "Property Status"
+msgstr "房產狀態"
+
+#: libs/help_functions.php:4593
+msgid "More Search Options"
+msgstr "*更多選項，以搜尋更合您心意的物業"
+
+#: libs/help_functions.php:5212
+msgid "Pay Submission Fee"
+msgstr "支付刊登費"
+
+#: libs/help_functions.php:5319
+msgid "Pay with Credit Card"
+msgstr "信用卡支付"
+
+#: libs/help_functions.php:5320
+#: templates/dashboard-templates/user_memebership_profile.php:132
+msgid "Package Payment"
+msgstr "合併付款"
+
+#: libs/help_functions.php:5867
+#: templates/submit_templates/property_description.php:65
+msgid "Property Price"
+msgstr "物件價格"
+
+#: libs/help_functions.php:5868
+msgid "Property Price Label"
+msgstr "物業價格標籤"
+
+#: libs/help_functions.php:5869
+msgid "Property Price Label Before"
+msgstr "之前的樓價標籤"
+
+#: libs/help_functions.php:5872
+msgid "After Label for Additional Price info"
+msgstr "附加價格資訊標籤後"
+
+#: libs/help_functions.php:5874
+msgid "Property Category Submit"
+msgstr "房產類別 提交"
+
+#: libs/help_functions.php:5875
+msgid "Property Action Category"
+msgstr "財產行動類別"
+
+#: libs/help_functions.php:5876
+msgid "Property Media"
+msgstr "物件圖片"
+
+#: libs/help_functions.php:5878 libs/help_functions.php:6100
+msgid "Property City"
+msgstr "房產所在城市"
+
+#: libs/help_functions.php:5879 libs/help_functions.php:6101
+msgid "Property Area"
+msgstr "物業區域"
+
+#: libs/help_functions.php:5881
+msgid "Property County"
+msgstr "物件所在國家"
+
+#: libs/help_functions.php:5882 libs/help_functions.php:6113
+msgid "Property Country"
+msgstr "物件所在國家"
+
+#: libs/help_functions.php:5883
+msgid "Property Map"
+msgstr "物業地圖"
+
+#: libs/help_functions.php:5885
+msgid "Property Longitude"
+msgstr "物件經度"
+
+#: libs/help_functions.php:5887
+msgid "Property Google View"
+msgstr "物件谷歌視圖"
+
+#: libs/help_functions.php:5889
+msgid "property Size"
+msgstr "房地產面積"
+
+#: libs/help_functions.php:5895 libs/searchfunctions.php:2290
+#: libs/searchfunctions.php:2464
+msgid "property status"
+msgstr "物件狀態"
+
+#: libs/help_functions.php:5896
+msgid "Embed Video Id"
+msgstr "嵌入影片 ID"
+
+#: libs/help_functions.php:5897
+msgid "Embed Video Type"
+msgstr "嵌入影片類型"
+
+#: libs/help_functions.php:5898
+msgid "Embed Virtual Tour"
+msgstr "嵌入虛擬旅遊"
+
+#: libs/help_functions.php:5899
+msgid "Property Subunits"
+msgstr "物業子單元"
+
+#: libs/help_functions.php:5902
+msgid "Greenhouse gas emissions Class"
+msgstr "溫室氣體排放等級"
+
+#: libs/help_functions.php:5903
+msgid "Greenhouse gas emissions Index"
+msgstr "溫室氣體排放指數"
+
+#: libs/help_functions.php:6018
+msgid "per month"
+msgstr "每月"
+
+#: libs/help_functions.php:6025
+msgid "HOA fee"
+msgstr "管理費"
+
+#: libs/help_functions.php:6035
+msgid "Homeowners Association Fee"
+msgstr "房主協會費"
+
+#: libs/help_functions.php:6043
+msgid "Home Price"
+msgstr "房屋價格"
+
+#: libs/help_functions.php:6046
+msgid "Down Payment"
+msgstr "頭期款"
+
+#: libs/help_functions.php:6053
+msgid "Term(*in years)"
+msgstr "期限（*年）"
+
+#: libs/help_functions.php:6056
+msgid "Interest"
+msgstr "利率"
+
+#: libs/help_functions.php:6097
+msgid "Leave Blank"
+msgstr "留著空白"
+
+#: libs/help_functions.php:6099
+#: templates/dashboard-templates/add_new_agent.php:174
+#: templates/dashboard-templates/add_new_agent_template.php:310
+#: templates/dashboard-templates/user_profile_agency.php:181
+#: templates/dashboard-templates/user_profile_agent.php:289
+#: templates/dashboard-templates/user_profile_developer.php:160
+msgid "Action Category"
+msgstr "動作類別"
+
+#: libs/help_functions.php:6102
+msgid "Property County/State"
+msgstr "房產縣/州"
+
+#: libs/help_functions.php:6105
+msgid "Homeowners Association Fee(Monthly)"
+msgstr "房主協會費（每月）"
+
+#: libs/help_functions.php:6114 libs/listing_functions.php:1903
+#: templates/submit_templates/property_energy_effective.php:49
+msgid "Energy Index in kWh/m2a"
+msgstr "能源指數（kWh/m2a） 表示"
+
+#: libs/help_functions.php:6117
+msgid "Greenhouse gas emissions index class "
+msgstr "溫室氣體排放指標等級"
+
+#: libs/help_functions.php:6118
+msgid "Renewable energy performance index "
+msgstr "再生能源績效指數"
+
+#: libs/help_functions.php:6121
+msgid "EPC potential rating"
+msgstr "EPC潛力評級"
+
+#: libs/help_functions_cards.php:142
+msgid "Price High to Low"
+msgstr "價格（從高至低）"
+
+#: libs/help_functions_cards.php:143
+msgid "Price Low to High"
+msgstr "價格（從低至高）"
+
+#: libs/help_functions_cards.php:144
+msgid "Newest first"
+msgstr "新消息在前"
+
+#: libs/help_functions_cards.php:145
+msgid "Oldest first"
+msgstr "舊消息在前"
+
+#: libs/help_functions_cards.php:146
+msgid "Newest Edited"
+msgstr "最新編輯"
+
+#: libs/help_functions_cards.php:147
+msgid "Oldest Edited "
+msgstr "最舊的編輯"
+
+#: libs/help_functions_cards.php:148
+msgid "Bedrooms High to Low"
+msgstr "睡房數量從多到少"
+
+#: libs/help_functions_cards.php:149
+msgid "Bedrooms Low to high"
+msgstr "睡房數量從少到多"
+
+#: libs/help_functions_cards.php:150
+msgid "Bathrooms High to Low"
+msgstr "廁所數量從多到少"
+
+#: libs/help_functions_cards.php:151
+msgid "Bathrooms Low to high"
+msgstr "廁所數量從少到多"
+
+#: libs/listing_functions.php:523 templates/multi_units.php:27
+msgid "Other units in"
+msgstr "其他單位在"
+
+#: libs/listing_functions.php:1178
+msgid "size:"
+msgstr "大小："
+
+#: libs/listing_functions.php:1184
+msgid "rooms: "
+msgstr "房間數︰"
+
+#: libs/listing_functions.php:1190
+msgid "baths:"
+msgstr "浴室數："
+
+#: libs/listing_functions.php:1214 libs/listing_functions.php:1240
+msgid "price: "
+msgstr "價格︰"
+
+#: libs/listing_functions.php:1295
+msgid "video image"
+msgstr "視訊影像"
+
+#: libs/listing_functions.php:1401
+#: templates/submit_templates/property_amenities.php:54
+msgid "Other Features"
+msgstr "熱門檢測項目"
+
+#: libs/listing_functions.php:1560 libs/listing_functions.php:1610
+#: templates/dashboard-templates/add_new_agent_template.php:70
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:164
+#: templates/dashboard-templates/user_profile_agent.php:51
+#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:143
+msgid "Address"
+msgstr "地址"
+
+#: libs/listing_functions.php:1563 libs/listing_functions.php:1613
+#: libs/searchfunctions.php:287 libs/searchfunctions.php:2181
+#: libs/searchfunctions.php:2422
+#: templates/dashboard-templates/add_new_agent.php:232
+#: templates/dashboard-templates/add_new_agent_template.php:135
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agent.php:124
+#: templates/dashboard-templates/user_profile_developer.php:125
+#: templates/submit_templates/property_location.php:134
+msgid "City"
+msgstr "城市"
+
+#: libs/listing_functions.php:1566 libs/listing_functions.php:1616
+#: libs/searchfunctions.php:299 libs/searchfunctions.php:2182
+#: libs/searchfunctions.php:2429
+#: templates/dashboard-templates/add_new_agent.php:236
+#: templates/dashboard-templates/add_new_agent_template.php:147
+#: templates/dashboard-templates/user_profile_agency.php:158
+#: templates/dashboard-templates/user_profile_agent.php:136
+#: templates/dashboard-templates/user_profile_developer.php:137
+msgid "Area"
+msgstr "面積"
+
+#: libs/listing_functions.php:1569 libs/listing_functions.php:1619
+#: templates/dashboard-templates/add_new_agent.php:243
+#: templates/dashboard-templates/add_new_agent_template.php:141
+#: templates/dashboard-templates/user_profile_agency.php:152
+#: templates/dashboard-templates/user_profile_agent.php:130
+#: templates/dashboard-templates/user_profile_developer.php:131
+msgid "State/County"
+msgstr "縣/市"
+
+#: libs/listing_functions.php:1572 libs/listing_functions.php:1623
+msgid "Zip"
+msgstr "郵遞區號"
+
+#: libs/listing_functions.php:1589
+msgid "Open In Google Maps"
+msgstr "在 Google 地圖中開啟"
+
+#: libs/listing_functions.php:1779
+msgid "Property Id "
+msgstr "物業編號"
+
+#: libs/listing_functions.php:1785
+msgid "Price Info"
+msgstr "價格資訊"
+
+#: libs/listing_functions.php:1882
+msgid "Energy class "
+msgstr "能源類"
+
+#: libs/listing_functions.php:1888
+msgid "Greenhouse gas emissions class  "
+msgstr "溫室氣體排放等級"
+
+#: libs/listing_functions.php:1910
+msgid "Greenhouse Gas Emissions kgCO2/m2a"
+msgstr "溫室氣體排放量 kgCO2/m2a"
+
+#: libs/listing_functions.php:1913
+msgid "Greenhouse Gas Emissions index class"
+msgstr "溫室氣體排放指數等級"
+
+#: libs/megamenu.php:165
+msgid "%s (Invalid)"
+msgstr "%s (無效)"
+
+#: libs/megamenu.php:168
+msgid "%s (Pending)"
+msgstr "%s (待定)"
+
+#: libs/megamenu.php:192
+msgid "Move up"
+msgstr "向上移動"
+
+#: libs/megamenu.php:205
+msgid "Move down"
+msgstr "向下移動"
+
+#: libs/megamenu.php:207 libs/megamenu.php:209
+msgid "Edit Menu Item"
+msgstr "編輯選單項目"
+
+#: libs/megamenu.php:218
+msgid "URL"
+msgstr "網址"
+
+#: libs/megamenu.php:225
+msgid "Navigation Label"
+msgstr "導航標籤"
+
+#: libs/megamenu.php:231
+msgid "Title Attribute"
+msgstr "標題屬性"
+
+#: libs/megamenu.php:238
+msgid "Open link in a new window/tab"
+msgstr "在新窗口/標籤中打開鏈接"
+
+#: libs/megamenu.php:243
+msgid "CSS Classes (optional)"
+msgstr "CSS類（可選）"
+
+#: libs/megamenu.php:249
+msgid "Link Relationship (XFN)"
+msgstr "連結關係 (XFN)"
+
+#: libs/megamenu.php:257
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "如果當前主題支持，說明將顯示在菜單中。"
+
+#: libs/megamenu.php:264
+msgid "Menu Item Icon(ex: fa fa-comment)"
+msgstr "選單項目圖示（例如：fa fa-comment）"
+
+#: libs/megamenu.php:273
+msgid "Menu Item Label(ex: \"new\")"
+msgstr "選單項目標籤（例如：「新」）"
+
+#: libs/megamenu.php:288
+msgid "Set as Mega Menu?"
+msgstr "設定為超級選單？"
+
+#: libs/megamenu.php:294
+msgid "Mega Menu Widget Area"
+msgstr "Mega Menu Widget Area"
+
+#: libs/megamenu.php:296
+msgid "Select Widget Area"
+msgstr "選擇小工具區域"
+
+#: libs/megamenu.php:307
+msgid "Upload Background Image | "
+msgstr "上傳背景圖片|"
+
+#: libs/megamenu.php:309
+msgid "Remove Image"
+msgstr "移除圖片"
+
+#: libs/megamenu.php:320
+msgid ""
+"Container Styles( *set custom styles for mega menu container only:.  Ex: "
+"background position, background repeat )"
+msgstr "容器樣式（*僅為大型選單容器設定自訂樣式：例如：背景位置、背景重複）"
+
+#: libs/megamenu.php:336
+msgid "Draw border right on mega menu column?"
+msgstr "在大型選單列上繪製邊框？"
+
+#: libs/megamenu.php:344
+msgid "Original: %s"
+msgstr "原始： %s"
+
+#: libs/megamenu.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:345
+#: templates/dashboard-templates/add_new_agent_template.php:366
+#: templates/dashboard-templates/user_profile_agent.php:324
+#: templates/dashboard-templates/user_profile_agent.php:345
+msgid "Remove"
+msgstr "刪除"
+
+#: libs/megamenu.php:358
+msgid "Cancel"
+msgstr "取消"
+
+#: libs/plugins.php:137
+msgid "Install Required Plugins"
+msgstr "安裝所需的插件"
+
+#: libs/plugins.php:138
+msgid "Install Plugins"
+msgstr "安裝外掛"
+
+#: libs/plugins.php:139
+msgid "Installing Plugin: %s"
+msgstr "安裝插件: %s"
+
+#: libs/plugins.php:140
+msgid "Something went wrong with the plugin API."
+msgstr "外掛 API 出錯"
+
+#: libs/plugins.php:141
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "這個主題需要以下外掛: %1$s."
+
+#: libs/plugins.php:142
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主題推荐以下插件: %1$s。"
+
+#: libs/plugins.php:143
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] "沒有權限安裝%s外掛."
+
+#: libs/plugins.php:144
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "目前尚未啟用的必要安裝外掛: %1$s。"
+
+#: libs/plugins.php:145
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "列出的建議安裝的外掛目前尚未啟用: %1$s。"
+
+#: libs/plugins.php:146
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"抱歉，您沒有足夠的權限啟動 %s 插件(s)。請聯繫站點的管理員來激活這些插件."
+
+#: libs/plugins.php:147
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"為確保與這個佈景主題保持最高相容性，必須更新至最新版本的外掛: %1$s。"
+
+#: libs/plugins.php:148
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] "沒有權限更新%s外掛(s)."
+
+#: libs/plugins.php:149
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "正在安装外掛"
+
+#: libs/plugins.php:150
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "啟用已安裝的外掛程式"
+
+#: libs/plugins.php:151
+msgid "Return to Required Plugins Installer"
+msgstr "返回到所需的插件安裝程序"
+
+#: libs/plugins.php:152
+msgid "Plugin activated successfully."
+msgstr "外掛啟用成功。"
+
+#: libs/plugins.php:153
+msgid "All plugins installed and activated successfully. %s"
+msgstr "成功安裝並啟動所有外掛 %s"
+
+#: libs/property-card-functions.php:380
+#: templates/agent_card_templates/agent_unit.php:11
+#: templates/agent_card_templates/agent_unit_4.php:11
+#: templates/agent_card_templates/agent_unit_featured.php:31
+#: templates/agent_unit.php:11 templates/agent_unit_featured.php:26
+#: templates/agent_unit_widget.php:61 templates/agent_unit_widget.php:71
+#: templates/blog_card_templates/blog_unit.php:33
+#: templates/blog_card_templates/blog_unit2.php:72
+#: templates/blog_card_templates/blog_unit4.php:72 templates/blog_unit.php:33
+#: templates/blog_unit2.php:72
+#: templates/dashboard-templates/add_new_agent.php:38
+#: templates/dashboard-templates/add_new_agent_template.php:418
+#: templates/dashboard-templates/dashboard_agent_unit.php:18
+#: templates/dashboard-templates/user_profile.php:145
+#: templates/dashboard-templates/user_profile_agency.php:290
+#: templates/dashboard-templates/user_profile_agent.php:401
+#: templates/dashboard-templates/user_profile_developer.php:264
+#: templates/featured_property_1.php:123 templates/featured_property_1.php:127
+#: templates/featured_property_2.php:106
+#: templates/property_animation_slider.php:70
+#: templates/submit_templates/property_images.php:98
+#: templates/submit_templates/property_images.php:104
+#: templates/submit_templates/property_images_new.php:57
+#: templates/submit_templates/property_images_new.php:67
+#: templates/submit_templates/property_images_new.php:116
+msgid "user image"
+msgstr "用戶形象"
+
+#: libs/searchfunctions.php:12
+#: templates/advanced_search/advanced_search_type_half.php:82
+#: templates/advanced_search_type_half.php:82
+#: templates/dashboard-templates/add_new_agent.php:226
+#: templates/dashboard-templates/user_profile_agency.php:250
+#: templates/dashboard-templates/user_profile_developer.php:222
+msgid "Location"
+msgstr "地點"
+
+#: libs/searchfunctions.php:62
+msgid "Radius: "
+msgstr "半徑:"
+
+#: libs/searchfunctions.php:226
+msgid "Enter an address, state, city, area or zip code"
+msgstr "輸入地址、州、城市、地區或郵遞區號"
+
+#: libs/searchfunctions.php:310
+msgid "County or State"
+msgstr "縣或州"
+
+#: libs/searchfunctions.php:459
+#: templates/advanced_search/advanced_search_type10.php:37
+#: templates/advanced_search/adv_search_mobile.php:81
+#: templates/advanced_search_type10.php:37 templates/adv_search_mobile.php:81
+msgid "Type address, state, city or area"
+msgstr "輸入位址、州、城市或區域"
+
+#: libs/searchfunctions.php:522 searchform.php:2
+#: templates/advanced_search/advanced_search_type11.php:36
+#: templates/advanced_search/adv_search_mobile.php:108
+#: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:108
+msgid "Type Keyword"
+msgstr "鍵入關鍵字"
+
+#: libs/searchfunctions.php:2175 libs/searchfunctions.php:2385
+msgid "County, City or Area is "
+msgstr "您所搜尋的城市或地區："
+
+#: libs/searchfunctions.php:2180 libs/searchfunctions.php:2415
+msgid "For"
+msgstr "有關"
+
+#: libs/searchfunctions.php:2183 libs/searchfunctions.php:2435
+#: templates/submit_templates/property_location.php:99
+msgid "County / State"
+msgstr "縣"
+
+#: libs/searchfunctions.php:2213
+msgid "Has"
+msgstr "有"
+
+#: libs/searchfunctions.php:2275 libs/searchfunctions.php:2449
+msgid "types"
+msgstr "類型"
+
+#: libs/searchfunctions.php:2279 libs/searchfunctions.php:2453
+msgid "property price"
+msgstr "物業價格"
+
+#: libs/searchfunctions.php:2280 libs/searchfunctions.php:2454
+msgid "property size"
+msgstr "物件大小"
+
+#: libs/searchfunctions.php:2281 libs/searchfunctions.php:2455
+msgid "property lot size"
+msgstr "物件批量大小"
+
+#: libs/searchfunctions.php:2282 libs/searchfunctions.php:2456
+msgid "property rooms"
+msgstr "物件房間數量"
+
+#: libs/searchfunctions.php:2283 libs/searchfunctions.php:2457
+msgid "property bedrooms"
+msgstr "物業睡房"
+
+#: libs/searchfunctions.php:2284 libs/searchfunctions.php:2458
+msgid "property bathrooms"
+msgstr "物件浴室"
+
+#: libs/searchfunctions.php:2285 libs/searchfunctions.php:2459
+msgid "property address"
+msgstr "盤源地址"
+
+#: libs/searchfunctions.php:2286 libs/searchfunctions.php:2460
+msgid "property county"
+msgstr "物件所在國家"
+
+#: libs/searchfunctions.php:2287 libs/searchfunctions.php:2461
+msgid "property state"
+msgstr "物件所在省"
+
+#: libs/searchfunctions.php:2288 libs/searchfunctions.php:2462
+msgid "property zip"
+msgstr "郵遞區號"
+
+#: libs/searchfunctions.php:2289 libs/searchfunctions.php:2463
+msgid "property country"
+msgstr "所在國家"
+
+#: libs/searchfunctions.php:2327
+msgid "between "
+msgstr "協議雙方"
+
+#: libs/searchfunctions.php:2327 libs/searchfunctions.php:2329
+#: libs/searchfunctions.php:2333
+msgid "and"
+msgstr "和"
+
+#: libs/searchfunctions.php:2329 libs/searchfunctions.php:2333
+msgid "between"
+msgstr "介於"
+
+#: libs/searchfunctions.php:2337 libs/searchfunctions.php:2490
+msgid " similar with "
+msgstr " 與......類似"
+
+#: libs/searchfunctions.php:2339 libs/searchfunctions.php:2494
+#: libs/searchfunctions.php:2528
+msgid " has"
+msgstr "此網頁連結還沒有記錄"
+
+#: libs/searchfunctions.php:2341 libs/searchfunctions.php:2498
+msgid " equal with "
+msgstr " 等於"
+
+#: libs/searchfunctions.php:2343 libs/searchfunctions.php:2506
+#: libs/searchfunctions.php:2535
+msgid "smaller than "
+msgstr "小於"
+
+#: libs/searchfunctions.php:2345
+msgid "bigger than "
+msgstr "大於"
+
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2544
+msgid "price range from: "
+msgstr "價格範圍︰"
+
+#: libs/searchfunctions.php:2486 libs/searchfunctions.php:2514
+#: libs/searchfunctions.php:2546
+msgid "bigger than"
+msgstr "大於"
+
+#: libs/searchfunctions.php:2512
+msgid "price range from "
+msgstr "價格從"
+
+#: libs/searchfunctions2.php:354
+#: templates/advanced_search/advanced_search_type2.php:58
+#: templates/advanced_search/advanced_search_type4.php:83
+#: templates/advanced_search/advanced_search_type4.php:89
+#: templates/advanced_search/advanced_search_type5.php:85
+#: templates/advanced_search/advanced_search_type5.php:91
+#: templates/advanced_search/advanced_search_type7.php:112
+#: templates/advanced_search/advanced_search_type7.php:151
+#: templates/advanced_search/advanced_search_type8.php:168
+#: templates/advanced_search/advanced_search_type9.php:170
+#: templates/advanced_search/adv_search_mobile.php:218
+#: templates/advanced_search_type2.php:58
+#: templates/advanced_search_type4.php:74
+#: templates/advanced_search_type4.php:80
+#: templates/advanced_search_type5.php:77
+#: templates/advanced_search_type5.php:83
+#: templates/advanced_search_type7.php:112
+#: templates/advanced_search_type7.php:151
+#: templates/advanced_search_type8.php:168
+#: templates/advanced_search_type9.php:170 templates/adv_search_mobile.php:211
+msgid "Search Properties"
+msgstr "搜尋物件"
+
+#: libs/theme-cache.php:5
+msgid "Cache was cleared"
+msgstr "快取已清除"
+
+#. Template Name of the theme
+msgid "Property page template"
+msgstr "房地產頁的範本"
+
+#. Template Name of the theme
+msgid "Paypal Processor"
+msgstr "Paypal 付款"
+
+#. Template Name of the theme
+msgid "Properties list"
+msgstr "物件清單"
+
+#. Template Name of the theme
+msgid "Properties list directory"
+msgstr "屬性列表目錄"
+
+#. Template Name of the theme
+msgid "Properties list half"
+msgstr "屬性列表一半"
+
+#: search.php:22
+msgid "Search Results for : "
+msgstr "搜尋結果："
+
+#: search.php:28 templates/normal_directory.php:196
+#: templates/normal_map_core.php:236
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters. "
+msgstr "沒有找到符合您的物業。請再用不同的關鍵詞再試一次。"
+
+#: single-estate_agency.php:42
+msgid "About Us"
+msgstr "關於我們"
+
+#: single-estate_agency.php:97 templates/header_agency.php:56
+#: templates/header_developer.php:55 zillow_estimate_page.php:83
+msgid "Address:"
+msgstr "地址："
+
+#. Template Name of the theme
+msgid "Idx Page"
+msgstr "索引頁"
+
+#: single-idx.php:34 single.php:51
+msgid "Pages:"
+msgstr "頁面:"
+
+#: single-idx.php:39 single.php:56
+msgid "Next page"
+msgstr "下一頁"
+
+#: single-idx.php:40 single.php:57
+msgid "Previous page"
+msgstr "上一頁"
+
+#: single.php:42 templates/!property_reviews.php:79
+#: templates/agency_reviews.php:74
+#: templates/agency_templates/agency_reviews.php:74
+#: templates/agent_reviews.php:61 templates/developer_reviews.php:60
+#: templates/developer_templates/developer_reviews.php:64
+#: templates/listing_templates/property-page-templates/property_reviews.php:87
+#: templates/listing_templates/property_reviews.php:82
+#: templates/property_page!/property_reviews.php:79
+msgid "Posted by "
+msgstr "撰寫"
+
+#: single.php:42
+msgid "on"
+msgstr "開"
+
+#. Template Name of the theme
+msgid "Splash Page"
+msgstr "啟動頁面"
+
+#. Template Name of the theme
+msgid "Stripe Charge Page"
+msgstr "Stripe收費頁"
+
+#: templates/!property_reviews.php:92 templates/agency_reviews.php:88
+#: templates/agency_templates/agency_reviews.php:88
+#: templates/agent_reviews.php:74 templates/developer_reviews.php:74
+#: templates/developer_templates/developer_reviews.php:78
+#: templates/listing_templates/property-page-templates/property_reviews.php:100
+#: templates/listing_templates/property_reviews.php:95
+#: templates/property_page!/property_reviews.php:92
+msgid "of"
+msgstr "的"
+
+#: templates/!property_reviews.php:96 templates/agency_reviews.php:92
+#: templates/agency_templates/agency_reviews.php:92
+#: templates/agent_reviews.php:78 templates/developer_reviews.php:78
+#: templates/developer_templates/developer_reviews.php:82
+#: templates/listing_templates/property-page-templates/property_reviews.php:104
+#: templates/listing_templates/property_reviews.php:99
+#: templates/property_page!/property_reviews.php:96
+msgid "Posted on "
+msgstr "發表於 "
+
+#: templates/!property_reviews.php:169 templates/agency_reviews.php:179
+#: templates/agency_templates/agency_reviews.php:179
+#: templates/agent_reviews.php:156 templates/developer_reviews.php:159
+#: templates/developer_templates/developer_reviews.php:163
+#: templates/listing_templates/property-page-templates/property_reviews.php:177
+#: templates/listing_templates/property_reviews.php:172
+#: templates/property_page!/property_reviews.php:169
+msgid "Update Review "
+msgstr "更新評價"
+
+#: templates/!property_reviews.php:171 templates/agency_reviews.php:181
+#: templates/agency_templates/agency_reviews.php:181
+#: templates/agent_reviews.php:158 templates/developer_reviews.php:161
+#: templates/developer_templates/developer_reviews.php:165
+#: templates/listing_templates/property-page-templates/property_reviews.php:179
+#: templates/listing_templates/property_reviews.php:174
+#: templates/property_page!/property_reviews.php:171
+msgid "pending approval"
+msgstr "待批准"
+
+#: templates/!property_reviews.php:175 templates/agency_reviews.php:185
+#: templates/agency_templates/agency_reviews.php:185
+#: templates/agent_reviews.php:162 templates/developer_reviews.php:165
+#: templates/developer_templates/developer_reviews.php:169
+#: templates/listing_templates/property-page-templates/property_reviews.php:183
+#: templates/listing_templates/property_reviews.php:178
+#: templates/property_page!/property_reviews.php:175
+msgid "Write a Review "
+msgstr "寫一條評論"
+
+#: templates/!property_reviews.php:182 templates/agency_reviews.php:192
+#: templates/agency_templates/agency_reviews.php:192
+#: templates/agent_reviews.php:169 templates/developer_reviews.php:172
+#: templates/developer_templates/developer_reviews.php:176
+#: templates/listing_templates/property-page-templates/property_reviews.php:190
+#: templates/listing_templates/property_reviews.php:185
+#: templates/property_page!/property_reviews.php:182
+msgid "Your Rating & Review"
+msgstr "您的評分和評論"
+
+#: templates/!property_reviews.php:200 templates/agency_reviews.php:211
+#: templates/agency_templates/agency_reviews.php:211
+#: templates/agent_reviews.php:188 templates/developer_reviews.php:191
+#: templates/developer_templates/developer_reviews.php:195
+#: templates/listing_templates/property-page-templates/property_reviews.php:208
+#: templates/listing_templates/property_reviews.php:203
+#: templates/property_page!/property_reviews.php:200
+msgid "Review Title"
+msgstr "評價的標題"
+
+#: templates/!property_reviews.php:201 templates/agency_reviews.php:212
+#: templates/agency_templates/agency_reviews.php:212
+#: templates/agent_reviews.php:189 templates/developer_reviews.php:192
+#: templates/developer_templates/developer_reviews.php:196
+#: templates/listing_templates/property-page-templates/property_reviews.php:209
+#: templates/listing_templates/property_reviews.php:204
+#: templates/property_page!/property_reviews.php:201
+msgid "Your Review"
+msgstr "您的評價"
+
+#: templates/!property_reviews.php:207 templates/agency_reviews.php:223
+#: templates/agency_templates/agency_reviews.php:223
+#: templates/agent_reviews.php:200 templates/developer_reviews.php:203
+#: templates/developer_templates/developer_reviews.php:207
+#: templates/listing_templates/property-page-templates/property_reviews.php:215
+#: templates/listing_templates/property_reviews.php:210
+#: templates/property_page!/property_reviews.php:207
+msgid "Edit Review"
+msgstr "編輯評論"
+
+#: templates/!property_reviews.php:210 templates/agency_reviews.php:226
+#: templates/agency_templates/agency_reviews.php:226
+#: templates/agent_reviews.php:203 templates/developer_reviews.php:206
+#: templates/developer_templates/developer_reviews.php:210
+#: templates/listing_templates/property-page-templates/property_reviews.php:218
+#: templates/listing_templates/property_reviews.php:213
+#: templates/property_page!/property_reviews.php:210
+msgid "Submit Review"
+msgstr "提交評論"
+
+#: templates/!property_reviews.php:222 templates/agency_reviews.php:237
+#: templates/agency_templates/agency_reviews.php:237
+#: templates/agent_reviews.php:213 templates/developer_reviews.php:217
+#: templates/developer_templates/developer_reviews.php:221
+#: templates/listing_templates/property-page-templates/property_reviews.php:230
+#: templates/listing_templates/property_reviews.php:225
+#: templates/property_page!/property_reviews.php:222
+msgid "You need to "
+msgstr "你需要傳遞有效的計劃ID。"
+
+#: templates/!property_reviews.php:223 templates/agency_reviews.php:237
+#: templates/agency_templates/agency_reviews.php:237
+#: templates/agent_reviews.php:213 templates/developer_reviews.php:217
+#: templates/developer_templates/developer_reviews.php:221
+#: templates/listing_templates/property-page-templates/property_reviews.php:231
+#: templates/listing_templates/property_reviews.php:226
+#: templates/property_page!/property_reviews.php:223
+msgid "login"
+msgstr "登入"
+
+#: templates/!property_reviews.php:224 templates/agency_reviews.php:237
+#: templates/agency_templates/agency_reviews.php:237
+#: templates/agent_reviews.php:213 templates/developer_reviews.php:217
+#: templates/developer_templates/developer_reviews.php:221
+#: templates/listing_templates/property-page-templates/property_reviews.php:232
+#: templates/listing_templates/property_reviews.php:227
+#: templates/property_page!/property_reviews.php:224
+msgid "in order to post a review "
+msgstr "為了發表評論"
+
+#: templates/advanced_property_list_filters.php:20
+#: templates/normal_directory.php:64 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "排序方式"
+
+#: templates/advanced_search/advanced_search_type1.php:29
+#: templates/advanced_search/advanced_search_type3.php:22
+#: templates/advanced_search/advanced_search_type5.php:31
+#: templates/advanced_search/adv_search_mobile.php:36
+#: templates/advanced_search_type1.php:29
+#: templates/advanced_search_type3.php:22
+#: templates/advanced_search_type5.php:31 templates/adv_search_mobile.php:36
+msgid "Advanced Search"
+msgstr "進階搜尋"
+
+#: templates/advanced_search/advanced_search_type1.php:92
+#: templates/advanced_search/advanced_search_type_half.php:406
+#: templates/advanced_search_type1.php:78
+#: templates/advanced_search_type_half.php:398
+msgid "SEARCH PROPERTIES"
+msgstr "搜尋物業"
+
+#: templates/advanced_search/advanced_search_type2.php:24
+#: templates/advanced_search/advanced_search_type8.php:95
+#: templates/advanced_search/advanced_search_type9.php:98
+#: templates/advanced_search/adv_search_mobile.php:168
+#: templates/advanced_search_type2.php:24
+#: templates/advanced_search_type8.php:95
+#: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:161
+msgid "Search State, City or Area"
+msgstr "按城市或地區來搜尋"
+
+#: templates/advanced_search/advanced_search_type4.php:29
+#: templates/advanced_search_type4.php:29
+msgid "Advanced Search "
+msgstr "進階搜尋"
+
+#: templates/advanced_search/advanced_search_type_half.php:87
+#: templates/advanced_search_type_half.php:87
+msgid "Radius:"
+msgstr "半徑:"
+
+#: templates/advanced_search/advanced_search_type_half.php:411
+#: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
+msgid "We found "
+msgstr "我們找到"
+
+#: templates/advanced_search/advanced_search_type_half.php:411
+#: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
+msgid "results."
+msgstr "個搜索结果："
+
+#: templates/advanced_search/adv_search_mobile.php:222
+#: templates/adv_search_mobile.php:215
+msgid "we found"
+msgstr "我們找到"
+
+#: templates/advanced_search/adv_search_mobile.php:222
+#: templates/adv_search_mobile.php:215
+msgid "results"
+msgstr "清除結果"
+
+#: templates/agency_agents.php:43
+#: templates/agency_templates/agency_agents.php:43
+msgid "We don't have any agents yet!"
+msgstr "我們還沒有代理！"
+
+#: templates/agency_agents.php:45
+#: templates/agency_templates/agency_agents.php:45
+msgid "Our Agents"
+msgstr "我們的營業員"
+
+#: templates/agency_listings.php:175
+#: templates/agency_templates/agency_listings.php:175
+#: templates/agent_listings.php:204 templates/developer_listings.php:131
+#: templates/developer_templates/developer_listings.php:131
+msgid "Load More Properties"
+msgstr "載入更多物件"
+
+#: templates/agency_reviews.php:3
+#: templates/agency_templates/agency_reviews.php:3
+msgid "Agency Reviews "
+msgstr "機構評論"
+
+#: templates/agency_unit.php:140
+#: templates/agent_card_templates/agent_unit.php:26
+#: templates/agent_card_templates/agent_unit_4.php:26
+#: templates/agent_unit.php:24 templates/agent_unit_widget.php:111
+msgid "listing"
+msgstr "清單"
+
+#: templates/agent_card_templates/agent_unit_featured.php:83
+#: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
+#: templates/featured_property_1.php:131
+msgid "My Listings"
+msgstr "我貢獻的優惠清單"
+
+#: templates/agent_contact.php:92
+#: templates/listing_templates/contact_form/contact_form_simple.php:5
+#: templates/property_page!/contact_form/contact_form_simple.php:10
+msgid "I'm interested in"
+msgstr "我對......有興趣"
+
+#: templates/agent_contact.php:101
+#: templates/listing_templates/contact_form/contact_form_simple.php:25
+#: templates/property_page!/contact_form/contact_form_simple.php:18
+#: templates/realtor_templates/agent_contact_bar.php:13
+msgid "Send Email"
+msgstr "發送郵件設置"
+
+#: templates/agent_contact.php:115
+#: templates/listing_templates/contact_form/contact_form_simple.php:43
+#: templates/property_page!/contact_form/contact_form_simple.php:35
+msgid "Send Private Message"
+msgstr "悄悄話"
+
+#: templates/agent_contact.php:116
+#: templates/listing_templates/contact_form/contact_form_simple.php:44
+#: templates/property_page!/contact_form/contact_form_simple.php:36
+msgid ""
+"You can reply to private messages from \"Inbox\" page in your user account."
+msgstr "您可以在您的使用者帳戶的「收件匣」頁面回覆私人訊息。"
+
+#: templates/agent_reviews.php:2
+msgid "Agent Reviews "
+msgstr "代理評論"
+
+#: templates/ajax_container.php:2
+msgid "Your search results"
+msgstr "您的搜尋結果"
+
+#: templates/blog_card_templates/blog_unit.php:66 templates/blog_unit.php:64
+msgid "Continue Reading"
+msgstr "繼續閱讀"
+
+#: templates/blog_card_templates/blog_unit2.php:113
+#: templates/blog_card_templates/blog_unit3.php:79 templates/blog_unit2.php:113
+#: templates/blog_unit3.php:79
+msgid "Continue reading"
+msgstr "繼續閱讀"
+
+#: templates/breadcrumbs.php:27
+#: templates/listing_templates/property-page-templates/property-page-breadcrumbs.php:35
+msgid "Home"
+msgstr "首頁"
+
+#: templates/breadcrumbs.php:32
+msgid "Archives"
+msgstr "彙整"
+
+#: templates/compare_list.php:16
+msgid "Compare"
+msgstr "比較"
+
+#: templates/dashboard-templates/add_new_agent.php:19
+#: templates/dashboard-templates/user_menu.php:7
+#: templates/dashboard-templates/user_profile_agency.php:327
+#: templates/dashboard-templates/user_profile_agent.php:441
+#: templates/dashboard-templates/user_profile_developer.php:324
+msgid "Your account is pending approval. Please wait for admin to approve it. "
+msgstr "您的帳戶正在等待批准。請等待管理員批准。"
+
+#: templates/dashboard-templates/add_new_agent.php:22
+#: templates/dashboard-templates/user_menu.php:10
+#: templates/dashboard-templates/user_profile_agency.php:330
+#: templates/dashboard-templates/user_profile_agent.php:444
+#: templates/dashboard-templates/user_profile_developer.php:327
+msgid "Your account is disabled."
+msgstr "您的帳戶已被停用。"
+
+#: templates/dashboard-templates/add_new_agent.php:33
+#: templates/dashboard-templates/add_new_agent_template.php:416
+#: templates/dashboard-templates/user_profile.php:141
+#: templates/dashboard-templates/user_profile_agency.php:286
+#: templates/dashboard-templates/user_profile_agent.php:399
+#: templates/dashboard-templates/user_profile_developer.php:260
+msgid "Photo"
+msgstr "照片"
+
+#: templates/dashboard-templates/add_new_agent.php:34
+msgid "Upload your profile photo."
+msgstr "上傳您的個人資料照片。"
+
+#: templates/dashboard-templates/add_new_agent.php:44
+#: templates/dashboard-templates/add_new_agent_template.php:423
+#: templates/dashboard-templates/user_profile.php:149
+#: templates/dashboard-templates/user_profile_agency.php:295
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:269
+msgid "Upload  profile image."
+msgstr "上傳個人資料圖片。"
+
+#: templates/dashboard-templates/add_new_agent.php:50
+#: templates/dashboard-templates/add_new_agent_template.php:429
+#: templates/dashboard-templates/user_profile.php:157
+#: templates/dashboard-templates/user_profile_agency.php:302
+#: templates/dashboard-templates/user_profile_agent.php:412
+#: templates/dashboard-templates/user_profile_developer.php:276
+msgid "*minimum 500px x 500px"
+msgstr "*最小 500 像素 x 500 像素"
+
+#: templates/dashboard-templates/add_new_agent.php:56
+#: templates/dashboard-templates/add_new_agent.php:98
+#: templates/dashboard-templates/add_new_agent.php:251
+#: templates/dashboard-templates/user_profile.php:117
+msgid "User Details"
+msgstr "用戶詳情"
+
+#: templates/dashboard-templates/add_new_agent.php:57
+msgid "Add your contact information."
+msgstr "新增您的聯絡資訊。"
+
+#: templates/dashboard-templates/add_new_agent.php:63
+#: templates/dashboard-templates/add_new_agent_template.php:32
+#: templates/dashboard-templates/user_profile.php:18
+#: templates/dashboard-templates/user_profile_agent.php:14
+msgid "First Name"
+msgstr "名字"
+
+#: templates/dashboard-templates/add_new_agent.php:68
+#: templates/dashboard-templates/add_new_agent_template.php:37
+#: templates/dashboard-templates/user_profile.php:23
+#: templates/dashboard-templates/user_profile_agent.php:19
+msgid "Last Name"
+msgstr "姓氏"
+
+#: templates/dashboard-templates/add_new_agent.php:83
+#: templates/dashboard-templates/add_new_agent_template.php:47
+#: templates/dashboard-templates/user_profile.php:38
+#: templates/dashboard-templates/user_profile_agency.php:30
+#: templates/dashboard-templates/user_profile_agent.php:35
+#: templates/dashboard-templates/user_profile_developer.php:28
+msgid "Mobile"
+msgstr "手機"
+
+#: templates/dashboard-templates/add_new_agent.php:88
+#: templates/dashboard-templates/add_new_agent_template.php:59
+#: templates/dashboard-templates/user_profile.php:43
+#: templates/dashboard-templates/user_profile_agency.php:35
+#: templates/dashboard-templates/user_profile_agent.php:40
+#: templates/dashboard-templates/user_profile_developer.php:33
+msgid "Skype"
+msgstr "Skype"
+
+#: templates/dashboard-templates/add_new_agent.php:99
+msgid "Add your social media information."
+msgstr "添加您的社交媒體訊息。"
+
+#: templates/dashboard-templates/add_new_agent.php:104
+#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/user_profile.php:52
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:133
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
+msgid "Facebook Url"
+msgstr "Facebook Url"
+
+#: templates/dashboard-templates/add_new_agent.php:109
+#: templates/dashboard-templates/add_new_agent_template.php:90
+#: templates/dashboard-templates/user_profile.php:57
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "X - Twitter Url"
+msgstr "X - Twitter 網址"
+
+#: templates/dashboard-templates/add_new_agent.php:114
+#: templates/dashboard-templates/add_new_agent_template.php:100
+#: templates/dashboard-templates/user_profile.php:62
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
+msgid "Linkedin Url"
+msgstr "Linkedin Url"
+
+#: templates/dashboard-templates/add_new_agent.php:120
+#: templates/dashboard-templates/add_new_agent_template.php:85
+#: templates/dashboard-templates/user_profile.php:67
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agency.php:138
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
+msgid "Instagram Url"
+msgstr "Instagram Url"
+
+#: templates/dashboard-templates/add_new_agent.php:125
+#: templates/dashboard-templates/add_new_agent_template.php:95
+#: templates/dashboard-templates/user_profile.php:72
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
+msgid "Pinterest Url"
+msgstr "Pinterest Url"
+
+#: templates/dashboard-templates/add_new_agent.php:130
+#: templates/dashboard-templates/add_new_agent_template.php:125
+#: templates/dashboard-templates/user_profile.php:78
+#: templates/dashboard-templates/user_profile_agency.php:125
+#: templates/dashboard-templates/user_profile_agent.php:114
+#: templates/dashboard-templates/user_profile_developer.php:117
+msgid "Website Url (without http)"
+msgstr "網站 URL（不含 http）"
+
+#: templates/dashboard-templates/add_new_agent.php:140
+#: templates/dashboard-templates/add_new_agent_template.php:285
+#: templates/dashboard-templates/user_profile_agent.php:250
+msgid "Agent Area/Categories"
+msgstr "代理領域/類別"
+
+#: templates/dashboard-templates/add_new_agent.php:141
+msgid "What kind of listings do you handle?"
+msgstr "您處理哪些類型的物件？"
+
+#: templates/dashboard-templates/add_new_agent.php:205
+#: templates/dashboard-templates/add_new_agent_template.php:333
+#: templates/dashboard-templates/user_profile_agent.php:312
+msgid "Agent Custom Data"
+msgstr "代理自訂數據"
+
+#: templates/dashboard-templates/add_new_agent.php:206
+msgid "Any custom parameters for agent"
+msgstr "代理程式的任何自訂參數"
+
+#: templates/dashboard-templates/add_new_agent.php:210
+#: templates/dashboard-templates/add_new_agent_template.php:373
+#: templates/dashboard-templates/user_profile_agent.php:352
+msgid "Add Custom Field"
+msgstr "新增自訂欄位"
+
+#: templates/dashboard-templates/add_new_agent.php:215
+msgid "User Param 1"
+msgstr "使用者參數1"
+
+#: templates/dashboard-templates/add_new_agent.php:227
+msgid "In what area are your properties"
+msgstr "您的物件位於哪些區域"
+
+#: templates/dashboard-templates/add_new_agent.php:252
+msgid "Add some information about yourself."
+msgstr "添加一些有關您自己的資訊。"
+
+#: templates/dashboard-templates/add_new_agent.php:256
+#: templates/dashboard-templates/add_new_agent_template.php:157
+#: templates/dashboard-templates/user_profile.php:87
+#: templates/dashboard-templates/user_profile_agent.php:148
+msgid "Title/Position"
+msgstr "您的工作職稱"
+
+#: templates/dashboard-templates/add_new_agent.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:163
+#: templates/dashboard-templates/user_profile_agent.php:154
+msgid "About Me"
+msgstr "關於我"
+
+#: templates/dashboard-templates/add_new_agent.php:265
+#: templates/dashboard-templates/user_profile.php:122
+#: templates/dashboard-templates/user_profile_agency.php:267
+#: templates/dashboard-templates/user_profile_agent.php:371
+#: templates/dashboard-templates/user_profile_developer.php:239
+msgid "Update profile"
+msgstr "更新設定檔"
+
+#: templates/dashboard-templates/add_new_agent.php:266
+#: templates/dashboard-templates/user_profile.php:123
+#: templates/dashboard-templates/user_profile_agency.php:277
+#: templates/dashboard-templates/user_profile_agent.php:383
+#: templates/dashboard-templates/user_profile_developer.php:251
+msgid "Delete profile"
+msgstr "刪除設定檔"
+
+#: templates/dashboard-templates/add_new_agent_template.php:22
+msgid "Agent Password"
+msgstr "代理密碼"
+
+#: templates/dashboard-templates/add_new_agent_template.php:27
+msgid "Re-type Password"
+msgstr "重新輸入密碼"
+
+#: templates/dashboard-templates/add_new_agent_template.php:65
+#: templates/dashboard-templates/user_profile_agent.php:46
+msgid "Member of"
+msgstr "成員 "
+
+#: templates/dashboard-templates/add_new_agent_template.php:105
+#: templates/dashboard-templates/user_profile_agency.php:103
+#: templates/dashboard-templates/user_profile_agent.php:93
+#: templates/dashboard-templates/user_profile_developer.php:97
+msgid "Youtube Url"
+msgstr "Youtube Url"
+
+#: templates/dashboard-templates/add_new_agent_template.php:110
+#: templates/dashboard-templates/user_profile_agency.php:108
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:102
+msgid "TikTok Url"
+msgstr "抖音網址"
+
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:113
+#: templates/dashboard-templates/user_profile_agent.php:103
+#: templates/dashboard-templates/user_profile_developer.php:107
+msgid "Telegram Url"
+msgstr "電報網址"
+
+#: templates/dashboard-templates/add_new_agent_template.php:120
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:108
+#: templates/dashboard-templates/user_profile_developer.php:112
+msgid "Vimeo Url"
+msgstr "Vimeo網址"
+
+#: templates/dashboard-templates/add_new_agent_template.php:170
+#: templates/dashboard-templates/user_profile_agency.php:201
+#: templates/dashboard-templates/user_profile_agent.php:161
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Private Notes"
+msgstr "私人筆記"
+
+#: templates/dashboard-templates/add_new_agent_template.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:386
+#: templates/dashboard-templates/user_profile_agent.php:362
+msgid "Agent Details"
+msgstr "經紀業詳細信息"
+
+#: templates/dashboard-templates/add_new_agent_template.php:265
+msgid "Agent Username"
+msgstr "代理用戶名"
+
+#: templates/dashboard-templates/add_new_agent_template.php:269
+msgid "Username:"
+msgstr "使用者名稱:"
+
+#: templates/dashboard-templates/add_new_agent_template.php:269
+msgid "is not editable"
+msgstr "不可編輯"
+
+#: templates/dashboard-templates/add_new_agent_template.php:279
+msgid "Agent Social Details"
+msgstr "代理社交詳情"
+
+#: templates/dashboard-templates/add_new_agent_template.php:337
+#: templates/dashboard-templates/add_new_agent_template.php:358
+#: templates/dashboard-templates/user_profile_agent.php:316
+#: templates/dashboard-templates/user_profile_agent.php:337
+msgid "Parameter Label"
+msgstr "參數標籤"
+
+#: templates/dashboard-templates/add_new_agent_template.php:341
+#: templates/dashboard-templates/add_new_agent_template.php:362
+#: templates/dashboard-templates/user_profile_agent.php:320
+#: templates/dashboard-templates/user_profile_agent.php:341
+msgid "Parameter Value"
+msgstr "參數值"
+
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/user_profile_agent.php:357
+msgid "Agent Location"
+msgstr "代理位置"
+
+#: templates/dashboard-templates/add_new_agent_template.php:397
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
+msgid "Edit Agent"
+msgstr "編輯代理人"
+
+#: templates/dashboard-templates/change_pass_template.php:2
+msgid "Change Password"
+msgstr "更改密碼"
+
+#: templates/dashboard-templates/change_pass_template.php:6
+msgid "Old Password"
+msgstr "舊密碼"
+
+#: templates/dashboard-templates/change_pass_template.php:11
+msgid "New Password "
+msgstr "新密碼"
+
+#: templates/dashboard-templates/change_pass_template.php:15
+msgid "Confirm New Password"
+msgstr "確認新密碼"
+
+#: templates/dashboard-templates/change_pass_template.php:21
+#: templates/login_register_modal.php:149
+#: templates/login_register_modal.php:160 templates/mobile_menu.php:180
+#: templates/mobile_menu.php:188
+msgid "Reset Password"
+msgstr "重設密碼"
+
+#: templates/dashboard-templates/dashboard-left-col.php:17
+msgid "Welcome back, "
+msgstr "歡迎回來, "
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:3
+msgid "Order By"
+msgstr "排序"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:8
+msgid "Default Order"
+msgstr "預設排序"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:12
+msgid "Price -  High to Low"
+msgstr "價格 – 從高到低"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:16
+msgid "Price -  Low to High"
+msgstr "價格 – 從低到高"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:20
+msgid "Bathrooms -  High to Low"
+msgstr "廁所數量從多到少"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:24
+msgid "Bathrooms -Low to High"
+msgstr "廁所數量從少到多"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:28
+msgid "Date - Old to New"
+msgstr "日期 - 從舊到新"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:32
+msgid "Date - New to Old"
+msgstr "日期 - 從新到舊"
+
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:34
+msgid "Filter By Status"
+msgstr "按狀態篩選"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+msgid "Delete Agent"
+msgstr "刪除業主"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:35
+msgid "Edit property"
+msgstr "編輯物件"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:40
+msgid "Delete property"
+msgstr "刪除物業"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:54
+msgid "Duplicate Property"
+msgstr "重複屬性"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:62
+msgid "Not enough listings to duplicate "
+msgstr "列表數量不足，無法重複"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:70
+msgid "Views Stats"
+msgstr "檢視統計資訊"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:77
+msgid "Resend for approval"
+msgstr "重新提交審核"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:88
+msgid "Paid & Featured"
+msgstr "付費 + 精選"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:122
+msgid ""
+"Set as featured,  *Listings set as featured are subtracted from your package"
+msgstr "設置為特色，*設置為特色樓盤，將會從你的套餐扣除"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:122
+msgid "Set as featured"
+msgstr "設定為精選"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:18
+msgid "Submission Fee"
+msgstr "提交費用"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:42
+#: templates/dashboard-templates/user_memebership_profile.php:193
+msgid "Wire Transfer"
+msgstr "轉帳"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:51
+msgid "Featured  Fee"
+msgstr "精選費用"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:67
+msgid "Upgrade to featured"
+msgstr "更新至推薦"
+
+#: templates/dashboard-templates/dashboard_agent_unit.php:36
+msgid "user id:"
+msgstr "會員 ID"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:56
+#: templates/dashboard-templates/user_memebership_profile.php:140
+#: templates/featured_property_1.php:50 templates/featured_property_2.php:47
+#: templates/featured_property_3.php:54 templates/featured_property_4.php:63
+#: templates/property_cards_templates/property_card_featured_label.php:7
+#: templates/property_cards_templates/property_card_tags.php:6
+#: templates/property_slider_shortcode_v3.php:73
+#: templates/property_slider_shortcode_v3_test.php:47
+msgid "Featured"
+msgstr "特色"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:80
+msgid "Expires on "
+msgstr "有效期至"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:120
+msgid "Remove From Favorites"
+msgstr "從最愛移除"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:26
+msgid "Publish Listing with Feature"
+msgstr "發布帶有功能的列表"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:39
+msgid "One Time"
+msgstr "一次性付款"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:41
+msgid "Recurring"
+msgstr "定期"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:68
+#: templates/listing_templates/overview_template.php:35
+msgid "Print"
+msgstr "列印"
+
+#: templates/dashboard-templates/message-listing-unit.php:20
+msgid "new message"
+msgstr "新訊息"
+
+#: templates/dashboard-templates/message-listing-unit.php:27
+msgid "Conversation started by you "
+msgstr "對話由您發起"
+
+#: templates/dashboard-templates/message-listing-unit.php:29
+msgid "From"
+msgstr "從"
+
+#: templates/dashboard-templates/message-listing-unit.php:44
+msgid "reply to message"
+msgstr "回覆訊息"
+
+#: templates/dashboard-templates/message-listing-unit.php:48
+msgid "delete message"
+msgstr "刪除訊息"
+
+#: templates/dashboard-templates/message-listing-unit.php:84
+msgid "From: "
+msgstr "從: "
+
+#: templates/dashboard-templates/message-listing-unit.php:102
+msgid "Send Reply"
+msgstr "發送回覆"
+
+#: templates/dashboard-templates/search_unit.php:18
+#: templates/half_map_core.php:84 templates/normal_map_core.php:90
+msgid "Search Parameters: "
+msgstr "搜尋的特點："
+
+#: templates/dashboard-templates/search_unit.php:24
+msgid "delete search"
+msgstr "删除搜尋"
+
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "cancel stripe subscription"
+msgstr "取消stripe訂購"
+
+#: templates/dashboard-templates/user_memebership_profile.php:52
+msgid "See Available Packages and Payment Methods"
+msgstr "查看可用套餐和付款方式"
+
+#: templates/dashboard-templates/user_memebership_profile.php:62
+msgid "Packages Available"
+msgstr "各項會員套餐"
+
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "User"
+msgstr "使用者"
+
+#: templates/dashboard-templates/user_memebership_profile.php:127
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "Unlimited"
+msgstr "無限"
+
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "listings "
+msgstr "廣告"
+
+#: templates/dashboard-templates/user_memebership_profile.php:141
+msgid "Images / per listing"
+msgstr "圖片/每個列表"
+
+#: templates/dashboard-templates/user_memebership_profile.php:144
+msgid "Select package"
+msgstr "選擇套餐"
+
+#: templates/dashboard-templates/user_memebership_profile.php:162
+msgid "Payment Method"
+msgstr "付款方式"
+
+#: templates/dashboard-templates/user_memebership_profile.php:176
+msgid "make payment recurring "
+msgstr "定期支付"
+
+#: templates/dashboard-templates/user_memebership_profile.php:221
+msgid "days"
+msgstr "天"
+
+#: templates/dashboard-templates/user_memebership_profile.php:224
+msgid "weeks"
+msgstr "週"
+
+#: templates/dashboard-templates/user_memebership_profile.php:227
+msgid "months"
+msgstr "月"
+
+#: templates/dashboard-templates/user_memebership_profile.php:230
+msgid "year"
+msgstr "年"
+
+#: templates/dashboard-templates/user_memebership_profile.php:232
+msgid "years"
+msgstr "年"
+
+#: templates/dashboard-templates/user_profile.php:111
+msgid "Social Media"
+msgstr "社群媒體"
+
+#: templates/dashboard-templates/user_profile_agency.php:14
+msgid "Agency Name"
+msgstr "機構名稱"
+
+#: templates/dashboard-templates/user_profile_agency.php:40
+msgid "Languages"
+msgstr "語言"
+
+#: templates/dashboard-templates/user_profile_agency.php:45
+#: templates/dashboard-templates/user_profile_developer.php:48
+msgid "Taxes"
+msgstr "稅"
+
+#: templates/dashboard-templates/user_profile_agency.php:50
+#: templates/dashboard-templates/user_profile_developer.php:53
+msgid "License"
+msgstr "授權"
+
+#: templates/dashboard-templates/user_profile_agency.php:60
+#: templates/google-map-contact-details.php:49
+msgid "Opening Hours"
+msgstr "營業時間"
+
+#: templates/dashboard-templates/user_profile_agency.php:69
+#: templates/dashboard-templates/user_profile_agent.php:59
+#: templates/dashboard-templates/user_profile_developer.php:62
+msgid "HubSpot Private Application Token"
+msgstr "HubSpot 私人應用程式令牌"
+
+#: templates/dashboard-templates/user_profile_agency.php:194
+#: templates/dashboard-templates/user_profile_agency.php:263
+#: templates/dashboard-templates/user_profile_developer.php:172
+#: templates/dashboard-templates/user_profile_developer.php:235
+msgid "About Agency"
+msgstr "關於代理"
+
+#: templates/dashboard-templates/user_profile_agency.php:239
+#: templates/dashboard-templates/user_profile_agent.php:244
+#: templates/dashboard-templates/user_profile_developer.php:211
+msgid "Social Information"
+msgstr "社交資訊"
+
+#: templates/dashboard-templates/user_profile_agency.php:255
+#: templates/dashboard-templates/user_profile_developer.php:227
+msgid "Place Pin with Agency Address"
+msgstr "放置帶有機構地址的 Pin 圖"
+
+#: templates/dashboard-templates/user_profile_agency.php:274
+#: templates/dashboard-templates/user_profile_agent.php:379
+#: templates/dashboard-templates/user_profile_developer.php:248
+msgid "View public profile"
+msgstr "查看公開設定檔"
+
+#: templates/dashboard-templates/user_profile_developer.php:12
+msgid "Developer Name"
+msgstr "物件開發人名"
+
+#: templates/developer_reviews.php:2
+#: templates/developer_templates/developer_reviews.php:2
+msgid "Developer Reviews "
+msgstr "開發者評論"
+
+#: templates/directory_filters.php:190
+msgid "Size:"
+msgstr "尺寸："
+
+#: templates/directory_filters.php:207
+msgid "Lot Size:"
+msgstr "佔地大小："
+
+#: templates/directory_filters.php:226
+msgid "Property Rooms:"
+msgstr "物業房間："
+
+#: templates/directory_filters.php:245
+msgid "Property Bedrooms:"
+msgstr "物業臥室："
+
+#: templates/directory_filters.php:264
+msgid "Property Bathrooms:"
+msgstr "物業浴室："
+
+#: templates/directory_filters.php:296
+msgid "Property Status:"
+msgstr "物業狀態"
+
+#: templates/directory_filters.php:305
+msgid "Property Keyword:"
+msgstr "物業關鍵字："
+
+#: templates/email_templates/contact_email_template.php:18
+#: templates/email_templates/contact_email_template_elementor.php:18
+#: templates/email_templates/schedule_tour_email_template.php:17
+msgid "Hello there,"
+msgstr "嗨，你好,"
+
+#: templates/email_templates/contact_email_template.php:20
+#: templates/email_templates/contact_email_template_elementor.php:20
+msgid "New Message"
+msgstr "新消息"
+
+#: templates/email_templates/contact_email_template.php:24
+#: templates/email_templates/contact_email_template_elementor.php:24
+msgid "You have received a new contact message from "
+msgstr "您收到了一條新的聯絡訊息"
+
+#: templates/email_templates/contact_email_template.php:30
+#: templates/email_templates/contact_email_template_elementor.php:30
+#: templates/email_templates/schedule_tour_email_template.php:28
+msgid "These are the details:"
+msgstr "這些是詳細資訊："
+
+#: templates/email_templates/contact_email_template.php:40
+#: templates/email_templates/contact_email_template_elementor.php:37
+#: templates/email_templates/schedule_tour_email_template.php:42
+msgid "Message"
+msgstr "訊息"
+
+#: templates/email_templates/contact_email_template.php:46
+#: templates/email_templates/contact_email_template_elementor.php:43
+#: templates/email_templates/schedule_tour_email_template.php:48
+msgid "Sent From"
+msgstr "來自"
+
+#: templates/email_templates/schedule_tour_email_template.php:19
+msgid "Schedule a Tour"
+msgstr "安排遊覽"
+
+#: templates/email_templates/schedule_tour_email_template.php:22
+msgid "You have received a request for a property tour on "
+msgstr "您已收到參觀房產的請求"
+
+#: templates/email_templates/schedule_tour_email_template.php:38
+msgid "Hour"
+msgstr "小時"
+
+#: templates/email_templates/schedule_tour_email_template.php:40
+msgid "Mode"
+msgstr "模式"
+
+#: templates/featured_property_4.php:144
+#: templates/property_cards_templates/property_card_details_type.php:30
+msgid "full info"
+msgstr "完整資訊"
+
+#: templates/featured_property_4.php:145
+msgid "map"
+msgstr "地圖"
+
+#: templates/featured_property_4b.php:13
+msgid "Featured Property"
+msgstr "精選物業"
+
+#: templates/featured_property_4b.php:17 templates/featured_property_5.php:51
+msgid "discover more"
+msgstr "發現更多"
+
+#: templates/footer_buttons.php:22
+msgid "Use the form below to contact us!"
+msgstr "使用以下表格與我們聯絡！"
+
+#: templates/footer_buttons.php:31
+msgid "Type your message..."
+msgstr "輸入你的信息..."
+
+#: templates/footer_buttons.php:36
+msgid "Send"
+msgstr "發送"
+
+#: templates/front_end_submission.php:152
+#: templates/front_end_submission.php:157
+#: templates/front_end_submission.php:194
+#: templates/front_end_submission.php:199 user_dashboard_add.php:111
+#: user_dashboard_add.php:255
+msgid "Save as Draft"
+msgstr "儲存為草稿"
+
+#: templates/front_end_submission.php:156
+#: templates/front_end_submission.php:198
+msgid "Add Property"
+msgstr "添加樓盤"
+
+#: templates/google-map-contact-details.php:33
+msgid "How To Find Us"
+msgstr "如何找到我們"
+
+#: templates/google_maps_base.php:67
+msgid "click to enable zoom"
+msgstr "按這裏以啟用縮放功能"
+
+#: templates/google_maps_base.php:69 templates/google_maps_base_map_list.php:16
+msgid "loading..."
+msgstr "載入中..."
+
+#: templates/google_maps_base.php:93 templates/google_maps_base_map_list.php:5
+msgid "View"
+msgstr "查看"
+
+#: templates/google_maps_base.php:94 templates/google_maps_base_map_list.php:6
+msgid "Roadmap"
+msgstr "路線圖"
+
+#: templates/google_maps_base.php:95 templates/google_maps_base_map_list.php:7
+msgid "Satellite"
+msgstr "衛星"
+
+#: templates/google_maps_base.php:96 templates/google_maps_base_map_list.php:8
+msgid "Hybrid"
+msgstr "混合"
+
+#: templates/google_maps_base.php:97 templates/google_maps_base_map_list.php:9
+msgid "Terrain"
+msgstr "地形"
+
+#: templates/google_maps_base.php:98 templates/google_maps_base_map_list.php:11
+msgid "My Location"
+msgstr "我的位置"
+
+#: templates/google_maps_base.php:102
+msgid "Prev"
+msgstr "上一頁"
+
+#: templates/google_maps_base.php:103
+msgid "Next"
+msgstr "下一頁"
+
+#: templates/google_maps_base.php:113
+msgid "Google Maps Search"
+msgstr "Google地圖搜索"
+
+#: templates/half_map_core.php:90 templates/normal_map_core.php:95
+msgid "Save this Search?"
+msgstr "儲存搜尋結果"
+
+#: templates/half_map_core.php:91 templates/normal_map_core.php:96
+msgid "Search name"
+msgstr "搜尋名稱"
+
+#: templates/half_map_core.php:92 templates/normal_map_core.php:97
+msgid "Save Search"
+msgstr "儲存搜尋"
+
+#: templates/half_map_core.php:108 templates/login_register_modal.php:65
+#: templates/mobile_menu.php:89 templates/mobile_menu.php:100
+#: templates/normal_map_core.php:113
+msgid "Login"
+msgstr "登入"
+
+#: templates/half_map_core.php:108 templates/normal_map_core.php:113
+msgid ""
+"to save search and you will receive an email notification when new "
+"properties matching your search will be published."
+msgstr "以保存搜索．當與搜索匹配的新物件發佈時，您將收到電子郵件通知。"
+
+#: templates/half_map_core.php:127 templates/normal_map_core.php:167
+msgid "Properties listed in "
+msgstr "我收藏的物業清單："
+
+#: templates/half_map_core.php:179
+msgid "Map View"
+msgstr "地圖檢視"
+
+#: templates/header_agency.php:85 templates/header_developer.php:111
+msgid "Website:"
+msgstr "網站："
+
+#: templates/header_agency.php:91
+msgid "We Speak:"
+msgstr "我們說："
+
+#: templates/header_agency.php:97
+msgid "Opening Hours:"
+msgstr "營業時間："
+
+#: templates/header_agency.php:103 templates/header_developer.php:121
+msgid "License:"
+msgstr "許可証:"
+
+#: templates/header_agency.php:109 templates/header_developer.php:126
+msgid "Our Taxes:"
+msgstr "我們的稅費："
+
+#: templates/image_gallery.php:103
+msgid "Want to find out more?"
+msgstr "想了解更多？"
+
+#: templates/listing_templates/agent_section/agent_details_2.php:52
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "關於我"
+
+#: templates/listing_templates/contact_form/contact_form_simple.php:10
+msgid "I would like to schedule a tour for "
+msgstr "我想安排一次旅行"
+
+#: templates/listing_templates/favorite_under_title.php:21
+#: templates/listing_templates/property-page-templates/favorite_under_title.php:21
+msgid "Favorite"
+msgstr "收藏"
+
+#: templates/listing_templates/overview_template.php:24
+msgid "share this page"
+msgstr "分享此頁面"
+
+#: templates/listing_templates/overview_template.php:25
+msgid "Share"
+msgstr "分享"
+
+#: templates/listing_templates/overview_template.php:34
+msgid "print page"
+msgstr "列印頁面"
+
+#: templates/listing_templates/property-page-templates/single-overview-section.php:21
+#: templates/listing_templates/single-overview-section.php:20
+msgid "Updated On:"
+msgstr "更新於："
+
+#: templates/listing_templates/property_multi_units.php:103
+#: templates/multi_units.php:137
+msgid "Category: "
+msgstr "分類: "
+
+#: templates/listing_templates/property_multi_units.php:105
+#: templates/multi_units.php:139
+msgid "Rooms: "
+msgstr "房型： "
+
+#: templates/listing_templates/property_multi_units.php:108
+#: templates/multi_units.php:142
+msgid "Bedrooms: "
+msgstr "臥室："
+
+#: templates/listing_templates/property_multi_units.php:111
+#: templates/multi_units.php:145
+msgid "Baths: "
+msgstr "浴室："
+
+#: templates/listing_templates/property_multi_units.php:114
+#: templates/multi_units.php:148
+msgid "Size: "
+msgstr "評等圖示尺寸:："
+
+#: templates/listing_templates/property_page_schedule_tour.php:48
+#: templates/listing_templates/property_page_schedule_tour_layout_v2.php:45
+msgid "Your information"
+msgstr "您的資訊"
+
+#: templates/listing_templates/schedule_tour/schedule_tour_options.php:10
+#: templates/property_page!/schedule_tour/schedule_tour_options.php:10
+msgid "Please select the time"
+msgstr "請選擇時間"
+
+#: templates/listing_templates/schedule_tour/schedule_tour_options.php:26
+#: templates/property_page!/schedule_tour/schedule_tour_options.php:25
+msgid "In Person"
+msgstr "親自在"
+
+#: templates/listing_templates/schedule_tour/schedule_tour_options.php:31
+#: templates/property_page!/schedule_tour/schedule_tour_options.php:29
+msgid "Video Chat"
+msgstr "視訊通訊"
+
+#: templates/login_register_modal.php:51
+msgid "Sign into your account"
+msgstr "登入您的帳戶"
+
+#: templates/login_register_modal.php:56 templates/login_register_modal.php:85
+#: templates/mobile_menu.php:93 templates/mobile_menu.php:118
+msgid "Username"
+msgstr "使用者名稱"
+
+#: templates/login_register_modal.php:58 templates/login_register_modal.php:93
+#: templates/mobile_menu.php:94 templates/mobile_menu.php:124
+msgid "Password"
+msgstr "密碼"
+
+#: templates/login_register_modal.php:70
+msgid "or"
+msgstr "或"
+
+#: templates/login_register_modal.php:83
+msgid "Create an account"
+msgstr "建立帳號"
+
+#: templates/login_register_modal.php:95 templates/mobile_menu.php:126
+msgid "Retype Password"
+msgstr "重覆輸入密碼"
+
+#: templates/login_register_modal.php:115 templates/mobile_menu.php:143
+msgid "Select User Type"
+msgstr "選擇用戶類型"
+
+#: templates/login_register_modal.php:130 templates/mobile_menu.php:159
+msgid "I agree with "
+msgstr "我同意"
+
+#: templates/login_register_modal.php:130 templates/mobile_menu.php:159
+msgid "terms & conditions"
+msgstr "條款與細則"
+
+#: templates/login_register_modal.php:139 templates/mobile_menu.php:168
+msgid "A password will be e-mailed to you"
+msgstr "密碼將會透過Email傳給您"
+
+#: templates/login_register_modal.php:143 templates/mobile_menu.php:114
+#: templates/mobile_menu.php:174
+msgid "Register"
+msgstr "註冊"
+
+#: templates/login_register_modal.php:152 templates/mobile_menu.php:184
+msgid "Enter Your Email Address"
+msgstr "輸入您的電子郵件地址..."
+
+#: templates/login_register_modal.php:165
+msgid "Register here!"
+msgstr "在這裡註冊！"
+
+#: templates/login_register_modal.php:166
+msgid "Forgot password?"
+msgstr "忘記密碼？"
+
+#: templates/login_register_modal.php:168
+#: templates/login_register_modal.php:169
+msgid "Back to login"
+msgstr "回到登入"
+
+#: templates/mobile_menu.php:43 templates/top_user_menu.php:53
+msgid "Add Listing"
+msgstr "添加清單"
+
+#: templates/mobile_menu.php:102
+msgid "Need an account? Register here!"
+msgstr "還沒有帳號？請在此註冊！"
+
+#: templates/mobile_menu.php:103
+msgid "Forgot Password?"
+msgstr "忘記密碼？"
+
+#: templates/mobile_menu.php:176
+msgid "Back to Login"
+msgstr "回到登入"
+
+#: templates/mobile_menu.php:190
+msgid "Return to Login"
+msgstr "返回登入"
+
+#: templates/normal_directory.php:212 templates/normal_map_core.php:271
+msgid ""
+"There are no properties listed on this page at this moment. Please try again "
+"later. "
+msgstr "當前頁面沒有物業列表。請稍後再試。"
+
+#: templates/normal_directory.php:214 templates/normal_map_core.php:273
+msgid ""
+"There are no agents listed on this page at this moment. Please try again "
+"later. "
+msgstr "目前此頁上沒有列出任何代理人。請稍後再試。"
+
+#: templates/normal_directory.php:226
+msgid "Load More Listings"
+msgstr "載入更多物件"
+
+#: templates/normal_map_core.php:158
+msgid "Agents in "
+msgstr "代理人於"
+
+#: templates/normal_map_core.php:161
+msgid "Agencies in "
+msgstr "代理商於"
+
+#: templates/normal_map_core.php:164
+msgid "Developers in "
+msgstr "開發人於"
+
+#: templates/places_card_templates/places_unit.php:91
+#: templates/places_card_templates/places_unit_elementor.php:59
+#: templates/places_card_templates/places_unit_type3.php:93
+#: templates/places_card_templates/places_unit_type3_elementor.php:97
+#: templates/places_unit.php:91 templates/places_unit_elementor.php:60
+#: templates/places_unit_type3.php:93
+msgid "%d listing"
+msgid_plural "%d listings"
+msgstr[0] "% d 清單"
+
+#: templates/places_card_templates/places_unit_type2.php:107
+#: templates/places_card_templates/places_unit_type2_elementor.php:63
+#: templates/places_unit_type2.php:107
+#: templates/places_unit_type2_elementor.php:63
+msgid "%d Listing"
+msgid_plural "%d Listings"
+msgstr[0] "%d 個清單"
+
+#: templates/preview_template.php:9
+msgid "View results"
+msgstr "查看結果"
+
+#: templates/property_cards_templates/property_card_category_type1.php:7
+#: templates/property_slider_shortcode.php:57
+msgid "in"
+msgstr "在"
+
+#: templates/property_cards_templates/property_card_contact.php:15
+#: templates/realtor_templates/agent_contact_bar.php:32
+msgid "Call"
+msgstr "撥號"
+
+#: templates/property_cards_templates/property_card_contact.php:43
+msgid "Call us"
+msgstr "聯絡我們"
+
+#: templates/property_cards_templates/property_card_contact.php:63
+msgid "Email Agent"
+msgstr "Email代理"
+
+#: templates/property_cards_templates/property_card_contact.php:83
+msgid ""
+"Looks like the property is assigned to an administrator. Please assign it to "
+"an agent or user with complete contact details."
+msgstr ""
+"看起來該屬性已指派給管理員。請將其指派給具有完整聯絡資訊的代理商或使用者。"
+
+#: templates/property_cards_templates/property_card_details_type1.php:9
+msgid "<span class=\"property_details_type1_value\">%d</span> Room"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Rooms"
+msgstr[0] ""
+
+#: templates/property_cards_templates/property_card_details_type1.php:22
+msgid "<span class=\"property_details_type1_value\">%d</span> Bath"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Baths"
+msgstr[0] ""
+
+#: templates/property_cards_templates/property_card_details_type1.php:34
+msgid "ID"
+msgstr "ID"
+
+#: templates/property_cards_templates/property_card_details_type1.php:42
+#: templates/property_cards_templates/property_card_details_type4.php:29
+#: templates/property_cards_templates/property_card_details_type8.php:26
+#: templates/property_slider_shortcode.php:70
+msgid "Size"
+msgstr "尺寸"
+
+#: templates/property_cards_templates/property_card_details_type3.php:58
+#: templates/property_cards_templates/property_card_details_type7.php:58
+msgid "Garage Size"
+msgstr "車房尺寸"
+
+#: templates/property_cards_templates/property_card_details_type4.php:22
+#: templates/property_cards_templates/property_card_details_type6.php:34
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:33
+msgid "Baths"
+msgstr "浴室"
+
+#: templates/property_cards_templates/property_card_details_type6.php:25
+msgid "Beds"
+msgstr "睡床"
+
+#: templates/property_cards_templates/property_card_details_type7.php:68
+msgid "Lot Size"
+msgstr "土地大小"
+
+#: templates/property_cards_templates/property_card_details_type8.php:10
+msgid "<span class=\"property_details_type1_value\">%d</span> Bedroom"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Bedrooms"
+msgstr[0] ""
+
+#: templates/property_cards_templates/property_card_details_type8.php:18
+msgid "<span class=\"property_details_type1_value\">%d</span> Bathroom"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Bathrooms"
+msgstr[0] ""
+
+#: templates/property_list_agent.php:76
+msgid "Request Info"
+msgstr "索取資訊"
+
+#: templates/property_slider_shortcode.php:56
+msgid "category"
+msgstr "分類"
+
+#: templates/property_slider_shortcode.php:60
+msgid "location"
+msgstr "地點"
+
+#: templates/realtor_templates/agent_taxonomies.php:15
+msgid "Specialties & Service Areas"
+msgstr "專業及服務領域"
+
+#: templates/related_posts.php:38
+msgid "Related Posts"
+msgstr "相關文章"
+
+#: templates/submit_templates/floor_plans.php:56
+#: templates/submit_templates/floor_plans.php:143
+msgid "Upload Image"
+msgstr "上傳圖片"
+
+#: templates/submit_templates/floor_plans.php:77
+msgid "Select Images"
+msgstr "選擇圖片"
+
+#: templates/submit_templates/property_categories.php:50
+#: templates/submit_templates/property_categories_new.php:16
+msgid "Select Categories"
+msgstr "選擇類別"
+
+#: templates/submit_templates/property_categories.php:74
+msgid "Listed In "
+msgstr "列出"
+
+#: templates/submit_templates/property_description.php:7
+#: templates/submit_templates/property_description_new.php:26
+msgid "Property Description"
+msgstr "物業描述"
+
+#: templates/submit_templates/property_description.php:99
+msgid "Second Price in "
+msgstr "第二個價格"
+
+#: templates/submit_templates/property_description.php:107
+msgid "After Second Price Label (ex: \"/month\")"
+msgstr "第二個價格標籤之後（例如：「/月」）"
+
+#: templates/submit_templates/property_description.php:115
+msgid "Before Second Price Label (ex: \"from \")"
+msgstr "在第二個價格標籤之前（例如：「來自」）"
+
+#: templates/submit_templates/property_details.php:79
+msgid "Listing Details"
+msgstr "列表詳情"
+
+#: templates/submit_templates/property_details.php:83
+msgid "Size in"
+msgstr "面積"
+
+#: templates/submit_templates/property_details.php:83
+#: templates/submit_templates/property_details.php:91
+msgid " (*only numbers)"
+msgstr " （*僅限數字）"
+
+#: templates/submit_templates/property_details.php:91
+msgid "Lot Size in"
+msgstr "地皮尺寸"
+
+#: templates/submit_templates/property_details.php:99
+msgid "Rooms (*only numbers)"
+msgstr "房間（僅限數字）"
+
+#: templates/submit_templates/property_details.php:107
+msgid "Bedrooms (*only numbers)"
+msgstr "臥室（僅限數字）"
+
+#: templates/submit_templates/property_details.php:115
+msgid "Bathrooms (*only numbers)"
+msgstr "浴室（僅限數字）"
+
+#: templates/submit_templates/property_details.php:129
+msgid "Owner/Agent notes (*not visible on front end)"
+msgstr "業主/代理注意事項（*不會在網頁中看見）"
+
+#: templates/submit_templates/property_energy_effective.php:32
+msgid "Select Energy Class"
+msgstr "選擇能耗等級"
+
+#: templates/submit_templates/property_energy_effective.php:37
+msgid "Select Energy Class (EU regulation)"
+msgstr "選擇能耗等級（歐盟法規）"
+
+#: templates/submit_templates/property_energy_effective.php:60
+msgid "Select greenhouse gas emissions index class"
+msgstr "選擇溫室氣體排放指數類別"
+
+#: templates/submit_templates/property_energy_effective.php:72
+msgid "Greenhouse Gas Emissions KgCO2/M2a"
+msgstr "溫室氣體排放量 KgCO2/M2a"
+
+#: templates/submit_templates/property_featured.php:10
+msgid "Featured Submission"
+msgstr "提交本公司推薦物業"
+
+#: templates/submit_templates/property_featured.php:13
+msgid "Make this listing featured from property list."
+msgstr "將此精選列表列入物件列表。"
+
+#: templates/submit_templates/property_floor_plans.php:73
+msgid "Use Floor Plans"
+msgstr "物業平面圖"
+
+#: templates/submit_templates/property_floor_plans.php:197
+msgid "Add another plan"
+msgstr "新增另一個計劃"
+
+#: templates/submit_templates/property_images.php:70
+#: templates/submit_templates/property_images_new.php:87
+msgid "Listing Media"
+msgstr "廣告媒體庫"
+
+#: templates/submit_templates/property_images.php:117
+#: templates/submit_templates/property_images_new.php:132
+msgid "Drag and Drop Images or "
+msgstr "拖放圖像或"
+
+#: templates/submit_templates/property_images.php:119
+#: templates/submit_templates/property_images_new.php:134
+msgid "Select Media"
+msgstr "選擇媒體"
+
+#: templates/submit_templates/property_images.php:127
+#: templates/submit_templates/property_images_new.php:142
+msgid ""
+"* At least 1 image is required for a valid submission.Minimum size is "
+"500/500px."
+msgstr "* 有效提交至少需要 1 張圖片。最小尺寸為 500/500 像素。"
+
+#: templates/submit_templates/property_images.php:144
+#: templates/submit_templates/property_images_new.php:159
+msgid " You can upload maximum %s images"
+msgstr "您最多可以上傳 %s 圖像"
+
+#: templates/submit_templates/property_images.php:147
+#: templates/submit_templates/property_images_new.php:162
+msgid "** Double click on the image to select featured."
+msgstr "** 按兩下圖片來選擇精選"
+
+#: templates/submit_templates/property_images.php:148
+#: templates/submit_templates/property_images_new.php:163
+msgid "*** Change images order with Drag & Drop."
+msgstr "*** 更改圖像順序與 & 拖拽。"
+
+#: templates/submit_templates/property_images.php:149
+#: templates/submit_templates/property_images_new.php:164
+msgid "**** PDF files upload supported as well."
+msgstr "**** PDF 檔上傳也受支援。"
+
+#: templates/submit_templates/property_images.php:150
+#: templates/submit_templates/property_images_new.php:165
+msgid "***** Images might take longer to be processed."
+msgstr "***** 處理圖像可能需要更長時間。"
+
+#: templates/submit_templates/property_images_new.php:119
+msgid "user document"
+msgstr "使用者文件"
+
+#: templates/submit_templates/property_images_new.php:175
+msgid "manage floorplans"
+msgstr "管理平面圖"
+
+#: templates/submit_templates/property_location.php:86
+msgid "Listing Location"
+msgstr "項目地區"
+
+#: templates/submit_templates/property_location.php:90
+msgid "*Address"
+msgstr "*地址"
+
+#: templates/submit_templates/property_location.php:91
+msgid "Enter address"
+msgstr "輸入地址"
+
+#: templates/submit_templates/property_location.php:179
+msgid "Enter city"
+msgstr "輸入地區"
+
+#: templates/submit_templates/property_location.php:190
+msgid "Neighborhood"
+msgstr "鄰近地區"
+
+#: templates/submit_templates/property_location.php:238
+msgid "Zip "
+msgstr "郵遞區號"
+
+#: templates/submit_templates/property_location.php:252
+msgid "Country "
+msgstr "國家 "
+
+#: templates/submit_templates/property_location.php:261
+msgid "Place Pin with Property Address"
+msgstr "將\"指示針\"放在物業的位置"
+
+#: templates/submit_templates/property_location.php:274
+msgid "Latitude (for Google Maps)"
+msgstr "緯度 (Google地圖)"
+
+#: templates/submit_templates/property_location.php:283
+msgid "Longitude (for Google Maps)"
+msgstr "經度 (Google地圖)"
+
+#: templates/submit_templates/property_location.php:293
+msgid "Google Street View - Camera Angle (value from 0 to 360)"
+msgstr "Google街景 - 相機角度 (0到360度)"
+
+#: templates/submit_templates/property_location.php:304
+msgid "Enable Google Street View"
+msgstr "啟用Google街景"
+
+#: templates/submit_templates/property_slider.php:6
+msgid "Slider Option"
+msgstr "投影片輪播選項"
+
+#: templates/submit_templates/property_slider.php:9
+msgid "Slider type "
+msgstr "投影片類型"
+
+#: templates/submit_templates/property_status.php:39
+msgid "Select Property Status"
+msgstr "選擇物業狀況"
+
+#: templates/submit_templates/property_status.php:44
+msgid "no status"
+msgstr "無狀態"
+
+#: templates/submit_templates/property_subunits.php:23
+msgid "Subunits"
+msgstr "亞基"
+
+#: templates/submit_templates/property_subunits.php:34
+msgid "Enable "
+msgstr "啟用"
+
+#: templates/submit_templates/property_subunits.php:40
+msgid "Select Subunits From the list: "
+msgstr "從清單中選擇子單元："
+
+#: templates/submit_templates/property_video.php:38
+msgid "Video Option"
+msgstr "影片選項"
+
+#: templates/submit_templates/property_video.php:44
+msgid "Video from"
+msgstr "影片從"
+
+#: templates/submit_templates/property_video.php:56
+msgid "Embed Video id: "
+msgstr "嵌入影片ID ："
+
+#: templates/submit_templates/user_memebership_form.php:21
+msgid "Membership"
+msgstr "會員"
+
+#: templates/submit_templates/user_memebership_form.php:30
+msgid "Paid submission"
+msgstr "收費提交"
+
+#: templates/submit_templates/user_memebership_form.php:32
+msgid "This is a paid submission."
+msgstr "這是一個需要收費提交。"
+
+#: templates/submit_templates/user_memebership_form.php:33
+msgid "Price: "
+msgstr "價格： "
+
+#: templates/submit_templates/user_memebership_form.php:34
+msgid "Featured (extra): "
+msgstr "精選（額外）："
+
+#: templates/submit_templates/video_tour.php:31
+msgid "Virtual Tour: "
+msgstr "虛擬導覽："
+
+#. Template Name of the theme
+msgid "User Dashboard"
+msgstr "用戶控制面板"
+
+#. Template Name of the theme
+msgid "User Dashboard Submit"
+msgstr "使用者儀表板提交"
+
+#. Template Name of the theme
+msgid "User Dashboard Add agent"
+msgstr "使用者儀表板新增代理"
+
+#. Template Name of the theme
+msgid "User Dashboard Agent List"
+msgstr "使用者儀表板代理程式列表"
+
+#. Template Name of the theme
+msgid "User Dashboard Stats"
+msgstr "使用者儀錶板統計"
+
+#: user_dashboard_analytics.php:45
+msgid "Analytics"
+msgstr "分析"
+
+#: user_dashboard_analytics.php:61
+msgid "Back to properties list"
+msgstr "返回屬性清單"
+
+#: user_dashboard_analytics.php:64
+msgid "Total number of views:"
+msgstr "檢視總數："
+
+#. Template Name of the theme
+msgid "User Dashboard Favorite"
+msgstr "用戶儀表板收藏夾"
+
+#: user_dashboard_favorite.php:67
+msgid "You don't have any favorite properties yet!"
+msgstr "您還沒有關注任何物件"
+
+#. Template Name of the theme
+msgid "User Dashboard Inbox"
+msgstr "使用者儀表板收件匣"
+
+#: user_dashboard_inbox.php:31
+msgid "You have"
+msgstr "您有"
+
+#: user_dashboard_inbox.php:31
+msgid "unread messages"
+msgstr "未讀訊息"
+
+#. Template Name of the theme
+msgid "User Dashboard Invoices"
+msgstr "用戶儀表板發票"
+
+#. Template Name of the theme
+msgid "User Dashboard Main"
+msgstr "用戶儀錶板主"
+
+#. Template Name of the theme
+msgid "User Dashboard Profile Page"
+msgstr "使用者儀表板設定檔頁面"
+
+#. Template Name of the theme
+msgid "User Dashboard  Saved Searches"
+msgstr "用戶儀表板儲存的搜尋"
+
+#: user_dashboard_searches.php:60
+msgid "You don't have any saved searches yet!"
+msgstr "您尚未儲存任何搜尋！"
+
+#: word_remove.php:16
+msgid "Update the theme & plugins"
+msgstr "更新主題和插件"
+
+#: word_remove.php:17
+msgid "Buy new license"
+msgstr "購買新許可證"
+
+#: word_remove.php:18
+msgid "Change log"
+msgstr "變更記錄"
+
+#: word_remove.php:19
+msgid "Get help"
+msgstr "取得說明"
+
+#: word_remove.php:21
+msgid "Open ticket"
+msgstr "開啟支援工單"
+
+#: word_remove.php:22
+msgid "Documentation"
+msgstr "文件"
+
+#: word_remove.php:23
+msgid "Rate us"
+msgstr "評價我們"
+
+#: word_remove.php:31
+msgid "Current Version: "
+msgstr "當前版本:"
+
+#: word_remove.php:41
+msgid "Start Now"
+msgstr "立刻開始"
+
+#: word_remove.php:42
+msgid "Site Settings "
+msgstr "網站設置"
+
+#: word_remove.php:50
+msgid ""
+"We recommend doing demo import first and then finishing this setup. Adding "
+"Demo import AFTER completing this setup changes your settings options to "
+"demo options. "
+msgstr ""
+"我們建議先進行演示導入，然後完成此設定。完成此設定後新增演示導入會將您的設定"
+"選項變更為演示選項。"
+
+#: word_remove.php:52
+msgid "Continue"
+msgstr "繼續"
+
+#: word_remove.php:52
+msgid "OR"
+msgstr "或"
+
+#: word_remove.php:53
+msgid "Import Demo Content"
+msgstr "導入演示內容"
+
+#: word_remove.php:58
+msgid "Map Settings"
+msgstr "地圖設定"
+
+#: word_remove.php:62
+msgid "Google Maps API KEY"
+msgstr "Google地圖的API"
+
+#: word_remove.php:67 word_remove.php:213 word_remove.php:247
+msgid "Previous Step"
+msgstr "上一步"
+
+#: word_remove.php:74
+msgid "General Settings"
+msgstr "一般設定"
+
+#: word_remove.php:78
+msgid "Select default country"
+msgstr "選擇默認國家"
+
+#: word_remove.php:84
+msgid "Currency symbol"
+msgstr "貨幣符號"
+
+#: word_remove.php:85
+msgid "Set currency symbol for property price."
+msgstr "設定房產價格的貨幣符號。"
+
+#: word_remove.php:113
+msgid "square"
+msgstr "直接地; 正面地; 不偏不倚地"
+
+#: word_remove.php:118
+msgid "Measurement Unit"
+msgstr "測量單位"
+
+#: word_remove.php:119
+msgid "Select the measurement unit you will use on the website"
+msgstr "選擇您將在網站上使用的測量單位"
+
+#: word_remove.php:205
+msgid "Language for datepicker"
+msgstr "語言選擇器"
+
+#: word_remove.php:206
+msgid "This applies for the calendar field type available for properties."
+msgstr "這適用於屬性可用的日曆欄位類型。"
+
+#: word_remove.php:218
+msgid "Apperance Options"
+msgstr "外觀選項"
+
+#: word_remove.php:220
+msgid "standard "
+msgstr "標準"
+
+#: word_remove.php:221
+msgid "half map"
+msgstr "半地圖"
+
+#: word_remove.php:226
+msgid "Property List Type for Advanced Search"
+msgstr "進階搜尋的物件清單類型"
+
+#: word_remove.php:227
+msgid "Select standard or half map style for advanced search results page."
+msgstr "為進階搜尋結果頁選擇標準或半地圖樣式。"
+
+#: word_remove.php:234
+msgid "grid"
+msgstr "方格"
+
+#: word_remove.php:235
+msgid "list"
+msgstr "列表"
+
+#: word_remove.php:240
+msgid "Property List display(*global option)"
+msgstr "屬性清單顯示（*全域選項）"
+
+#: word_remove.php:241
+msgid "Select grid or list style for properties list pages."
+msgstr "為物件清單頁選擇網格或清單樣式。"
+
+#: word_remove.php:253
+msgid ""
+"For further setup see our help files, knowledgebase articles and tutorials "
+"to help make this process easier and more enjoyable for you: "
+msgstr ""
+"如需進一步設置，請參閱我們的說明文件、知識庫文章和教程，以幫助您更輕鬆、更愉"
+"快地完成此過程："
+
+#: word_remove.php:253
+msgid "http://help.wpresidence.net/"
+msgstr "http://help.wpresidence.net/"
+
+#: word_remove.php:274
+msgid "Personalize Your Website"
+msgstr "個人化您的網站"
+
+#: word_remove.php:276
+msgid "Payments"
+msgstr "付款"
+
+#: word_remove.php:358
+msgid "Powered by "
+msgstr "技術支援 "
+
+#. Template Name of the theme
+msgid "Zillow Estimate"
+msgstr "Zillow 估計"
+
+#: zillow_estimate_page.php:22
+msgid "The state field is empty !"
+msgstr "省的選項為空白！"
+
+#: zillow_estimate_page.php:32
+msgid "The City field is empty !"
+msgstr "市的選項為空白！"
+
+#: zillow_estimate_page.php:41
+msgid "Your address field is empty!"
+msgstr "您的地址為空白！"
+
+#: zillow_estimate_page.php:80
+msgid "On"
+msgstr "開"
+
+#: zillow_estimate_page.php:80
+msgid "this property is estimated at"
+msgstr "該房產估計為"
+
+#: zillow_estimate_page.php:84
+msgid "City:"
+msgstr "城市:"
+
+#: zillow_estimate_page.php:85
+msgid "State:"
+msgstr "狀態:"
+
+#: zillow_estimate_page.php:89
+msgid ""
+"We are sorry, but we don't have an estimation for this property at this "
+"moment!  "
+msgstr "非常抱歉，我們目前還沒有這個物件的評估信息！"
+
+#: zillow_estimate_page.php:93
+msgid "Please fill in the form correctly and try again!"
+msgstr "請正確填寫並且再試一次！"
+
+#~ msgid "Terms and Conditions"
+#~ msgstr "條款及規則"
+
+#~ msgid "Publish Listing with Featured"
+#~ msgstr "發布盤源至推薦"
+
+#~ msgid "Your energy class is "
+#~ msgstr "你的耗能等級是"
+
+#~ msgid "Your energy class "
+#~ msgstr "耗能等級"
+
+#~ msgid "Your energy class is"
+#~ msgstr "你的耗能等級是"
+
+#~ msgid "Adress:"
+#~ msgstr "地址："
+
+#~ msgid "more details here"
+#~ msgstr "更詳细訊息..."
+
+#~ msgid "slider"
+#~ msgstr "滑塊"
+
+#~ msgid "Single Agent"
+#~ msgstr "單一仲介"
+
+#~ msgid "Afghanistan"
+#~ msgstr "阿富汗"
+
+#~ msgid "Albania"
+#~ msgstr "阿爾巴尼亞"
+
+#~ msgid "Algeria"
+#~ msgstr "阿爾及利亞"
+
+#~ msgid "American Samoa"
+#~ msgstr "美屬薩摩亞"
+
+#~ msgid "Andorra"
+#~ msgstr "安道爾"
+
+#~ msgid "Angola"
+#~ msgstr "安哥拉"
+
+#~ msgid "Anguilla"
+#~ msgstr "安圭拉"
+
+#~ msgid "Antarctica"
+#~ msgstr "南極洲"
+
+#~ msgid "Antigua and Barbuda"
+#~ msgstr "安提瓜和巴布達"
+
+#~ msgid "Argentina"
+#~ msgstr "阿根廷"
+
+#~ msgid "Armenia"
+#~ msgstr "亞美尼亞"
+
+#~ msgid "Aruba"
+#~ msgstr "阿魯巴"
+
+#~ msgid "Australia"
+#~ msgstr "澳大利亞"
+
+#~ msgid "Austria"
+#~ msgstr "奧地利"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "阿塞拜疆"
+
+#~ msgid "Bahamas"
+#~ msgstr "巴哈馬"
+
+#~ msgid "Bahrain"
+#~ msgstr "巴林"
+
+#~ msgid "Bangladesh"
+#~ msgstr "孟加拉國"
+
+#~ msgid "Barbados"
+#~ msgstr "巴巴多斯"
+
+#~ msgid "Belarus"
+#~ msgstr "白俄羅斯"
+
+#~ msgid "Belgium"
+#~ msgstr "比利時"
+
+#~ msgid "Belize"
+#~ msgstr "伯利茲"
+
+#~ msgid "Benin"
+#~ msgstr "貝寧"
+
+#~ msgid "Bermuda"
+#~ msgstr "百慕大"
+
+#~ msgid "Bhutan"
+#~ msgstr "不丹"
+
+#~ msgid "Bolivia"
+#~ msgstr "玻利維亞"
+
+#~ msgid "Botswana"
+#~ msgstr "博茨瓦納"
+
+#~ msgid "Bouvet Island"
+#~ msgstr "布威島"
+
+#~ msgid "Brazil"
+#~ msgstr "巴西"
+
+#~ msgid "British Indian Ocean Territory"
+#~ msgstr "英屬印度洋領地"
+
+#~ msgid "Brunei Darussalam"
+#~ msgstr "文萊"
+
+#~ msgid "Bulgaria"
+#~ msgstr "保加利亞"
+
+#~ msgid "Burkina Faso"
+#~ msgstr "布基納法索"
+
+#~ msgid "Burundi"
+#~ msgstr "布隆迪"
+
+#~ msgid "Cambodia"
+#~ msgstr "柬埔寨"
+
+#~ msgid "Cameroon"
+#~ msgstr "喀麥隆"
+
+#~ msgid "Canada"
+#~ msgstr "加拿大"
+
+#~ msgid "Cape Verde"
+#~ msgstr "佛得角"
+
+#~ msgid "Cayman Islands"
+#~ msgstr "開曼群島"
+
+#~ msgid "Central African Republic"
+#~ msgstr "中非共和國"
+
+#~ msgid "Chad"
+#~ msgstr "乍得"
+
+#~ msgid "Chile"
+#~ msgstr "智利"
+
+#~ msgid "China"
+#~ msgstr "中國"
+
+#~ msgid "Christmas Island"
+#~ msgstr "聖誕島"
+
+#~ msgid "Cocos (Keeling) Islands"
+#~ msgstr "科科斯群島"
+
+#~ msgid "Colombia"
+#~ msgstr "哥倫比亞"
+
+#~ msgid "Comoros"
+#~ msgstr "科摩羅"
+
+#~ msgid "Congo"
+#~ msgstr "剛果"
+
+#~ msgid "Congo, the Democratic Republic of the"
+#~ msgstr "剛果民主共和國"
+
+#~ msgid "Cook Islands"
+#~ msgstr "庫克群島"
+
+#~ msgid "Costa Rica"
+#~ msgstr "哥斯達黎加"
+
+#~ msgid "Cote d'Ivoire"
+#~ msgstr "科特迪平鋪"
+
+#~ msgid "Cyprus"
+#~ msgstr "塞浦路斯"
+
+#~ msgid "Czech Republic"
+#~ msgstr "捷克共和國"
+
+#~ msgid "Denmark"
+#~ msgstr "丹麥"
+
+#~ msgid "Djibouti"
+#~ msgstr "吉布提"
+
+#~ msgid "Dominica"
+#~ msgstr "多米尼加"
+
+#~ msgid "Dominican Republic"
+#~ msgstr "多明尼加共和國"
+
+#~ msgid "East Timor"
+#~ msgstr "東帝汶"
+
+#~ msgid "Ecuador"
+#~ msgstr "厄瓜多爾"
+
+#~ msgid "Egypt"
+#~ msgstr "埃及"
+
+#~ msgid "El Salvador"
+#~ msgstr "薩爾瓦多"
+
+#~ msgid "Equatorial Guinea"
+#~ msgstr "赤道幾內亞"
+
+#~ msgid "Eritrea"
+#~ msgstr "厄立特里亞"
+
+#~ msgid "Estonia"
+#~ msgstr "愛沙尼亞"
+
+#~ msgid "Ethiopia"
+#~ msgstr "埃塞俄比亞"
+
+#~ msgid "Falkland Islands (Malvinas)"
+#~ msgstr "福克蘭群島"
+
+#~ msgid "Faroe Islands"
+#~ msgstr "法羅群島"
+
+#~ msgid "Fiji"
+#~ msgstr "斐濟"
+
+#~ msgid "Finland"
+#~ msgstr "芬蘭"
+
+#~ msgid "France"
+#~ msgstr "法國"
+
+#~ msgid "French Guiana"
+#~ msgstr "法屬圭亞那"
+
+#~ msgid "French Polynesia"
+#~ msgstr "法屬波利尼西亞"
+
+#~ msgid "French Southern Territories"
+#~ msgstr "法國南部領土"
+
+#~ msgid "Gabon"
+#~ msgstr "加蓬"
+
+#~ msgid "Gambia"
+#~ msgstr "岡比亞"
+
+#~ msgid "Georgia"
+#~ msgstr "喬治亞州"
+
+#~ msgid "Germany"
+#~ msgstr "德國"
+
+#~ msgid "Ghana"
+#~ msgstr "加納"
+
+#~ msgid "Gibraltar"
+#~ msgstr "直布羅陀"
+
+#~ msgid "Greece"
+#~ msgstr "希臘"
+
+#~ msgid "Greenland"
+#~ msgstr "格陵蘭"
+
+#~ msgid "Grenada"
+#~ msgstr "格林納達"
+
+#~ msgid "Guadeloupe"
+#~ msgstr "瓜德羅普島"
+
+#~ msgid "Guam"
+#~ msgstr "關島"
+
+#~ msgid "Guatemala"
+#~ msgstr "瓜地馬拉"
+
+#~ msgid "Guinea"
+#~ msgstr "幾內亞"
+
+#~ msgid "Guinea-Bissau"
+#~ msgstr "幾內亞比紹"
+
+#~ msgid "Guyana"
+#~ msgstr "圭亞那"
+
+#~ msgid "Haiti"
+#~ msgstr "海地"
+
+#~ msgid "Holy See (Vatican City State)"
+#~ msgstr "梵帝岡（梵蒂岡城國）"
+
+#~ msgid "Honduras"
+#~ msgstr "宏都拉斯"
+
+#~ msgid "Hong Kong"
+#~ msgstr "香港"
+
+#~ msgid "Hungary"
+#~ msgstr "匈牙利"
+
+#~ msgid "Iceland"
+#~ msgstr "冰島"
+
+#~ msgid "India"
+#~ msgstr "印度"
+
+#~ msgid "Indonesia"
+#~ msgstr "印尼"
+
+#~ msgid "Iran (Islamic Republic of)"
+#~ msgstr "伊朗 (伊斯蘭共和國 )"
+
+#~ msgid "Iraq"
+#~ msgstr "伊拉克"
+
+#~ msgid "Ireland"
+#~ msgstr "愛爾蘭"
+
+#~ msgid "Israel"
+#~ msgstr "以色列"
+
+#~ msgid "Italy"
+#~ msgstr "義大利"
+
+#~ msgid "Jamaica"
+#~ msgstr "牙買加"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Jordan"
+#~ msgstr "約旦"
+
+#~ msgid "Kazakhstan"
+#~ msgstr "哈薩克斯坦"
+
+#~ msgid "Kenya"
+#~ msgstr "肯尼亞"
+
+#~ msgid "Kiribati"
+#~ msgstr "基里巴斯"
+
+#~ msgid "Korea, Democratic People's Republic of"
+#~ msgstr "北韓"
+
+#~ msgid "Korea, Republic of"
+#~ msgstr "南韓"
+
+#~ msgid "Kuwait"
+#~ msgstr "科威特"
+
+#~ msgid "Kyrgyzstan"
+#~ msgstr "吉爾吉斯斯坦"
+
+#~ msgid "Latvia"
+#~ msgstr "拉脫維亞"
+
+#~ msgid "Lebanon"
+#~ msgstr "黎巴嫩"
+
+#~ msgid "Lesotho"
+#~ msgstr "萊索托"
+
+#~ msgid "Liberia"
+#~ msgstr "利比里亞"
+
+#~ msgid "Libyan Arab Jamahiriya"
+#~ msgstr "阿拉伯聯合大公國"
+
+#~ msgid "Liechtenstein"
+#~ msgstr "列支敦士登"
+
+#~ msgid "Lithuania"
+#~ msgstr "立陶宛"
+
+#~ msgid "Luxembourg"
+#~ msgstr "盧森堡"
+
+#~ msgid "Macau"
+#~ msgstr "澳門"
+
+#~ msgid "Macedonia (FYROM)"
+#~ msgstr "馬其頓"
+
+#~ msgid "Madagascar"
+#~ msgstr "馬達加斯加"
+
+#~ msgid "Malawi"
+#~ msgstr "馬拉維"
+
+#~ msgid "Malaysia"
+#~ msgstr "馬來西亞"
+
+#~ msgid "Maldives"
+#~ msgstr "馬爾地夫"
+
+#~ msgid "Mali"
+#~ msgstr "馬里"
+
+#~ msgid "Malta"
+#~ msgstr "馬耳他"
+
+#~ msgid "Marshall Islands"
+#~ msgstr "馬紹爾群島"
+
+#~ msgid "Martinique"
+#~ msgstr "馬提尼克島"
+
+#~ msgid "Mauritania"
+#~ msgstr "毛里塔尼亞"
+
+#~ msgid "Mauritius"
+#~ msgstr "毛里求斯"
+
+#~ msgid "Mayotte"
+#~ msgstr "馬約特島"
+
+#~ msgid "Mexico"
+#~ msgstr "墨西哥"
+
+#~ msgid "Micronesia, Federated States of"
+#~ msgstr "密克羅尼西亞聯邦"
+
+#~ msgid "Moldova, Republic of"
+#~ msgstr "摩爾多瓦"
+
+#~ msgid "Monaco"
+#~ msgstr "摩納哥"
+
+#~ msgid "Mongolia"
+#~ msgstr "蒙古"
+
+#~ msgid "Montserrat"
+#~ msgstr "蒙特塞拉特"
+
+#~ msgid "Morocco"
+#~ msgstr "摩洛哥"
+
+#~ msgid "Mozambique"
+#~ msgstr "莫三比克"
+
+#~ msgid "Montenegro"
+#~ msgstr "黑山"
+
+#~ msgid "Myanmar"
+#~ msgstr "緬甸"
+
+#~ msgid "Namibia"
+#~ msgstr "納米比亞"
+
+#~ msgid "Nauru"
+#~ msgstr "瑙魯"
+
+#~ msgid "Nepal"
+#~ msgstr "尼泊爾"
+
+#~ msgid "Netherlands"
+#~ msgstr "荷蘭"
+
+#~ msgid "Netherlands Antilles"
+#~ msgstr "荷屬安的列斯群島"
+
+#~ msgid "New Caledonia"
+#~ msgstr "新喀裡多尼亞"
+
+#~ msgid "New Zealand"
+#~ msgstr "紐西蘭"
+
+#~ msgid "Nicaragua"
+#~ msgstr "尼加拉瓜"
+
+#~ msgid "Niger"
+#~ msgstr "尼日爾"
+
+#~ msgid "Nigeria"
+#~ msgstr "尼日利亞"
+
+#~ msgid "Niue"
+#~ msgstr "紐埃"
+
+#~ msgid "Norfolk Island"
+#~ msgstr "諾福克島"
+
+#~ msgid "Northern Mariana Islands"
+#~ msgstr "北馬里亞納群島"
+
+#~ msgid "Norway"
+#~ msgstr "挪威"
+
+#~ msgid "Oman"
+#~ msgstr "阿曼"
+
+#~ msgid "Pakistan"
+#~ msgstr "巴基斯坦"
+
+#~ msgid "Palau"
+#~ msgstr "帕勞"
+
+#~ msgid "Panama"
+#~ msgstr "巴拿馬"
+
+#~ msgid "Papua New Guinea"
+#~ msgstr "巴布亞新幾內亞"
+
+#~ msgid "Paraguay"
+#~ msgstr "巴拉圭"
+
+#~ msgid "Peru"
+#~ msgstr "秘魯"
+
+#~ msgid "Philippines"
+#~ msgstr "菲律賓"
+
+#~ msgid "Pitcairn"
+#~ msgstr "皮特凱恩"
+
+#~ msgid "Poland"
+#~ msgstr "波蘭"
+
+#~ msgid "Portugal"
+#~ msgstr "葡萄牙"
+
+#~ msgid "Puerto Rico"
+#~ msgstr "波多黎各"
+
+#~ msgid "Qatar"
+#~ msgstr "卡塔爾"
+
+#~ msgid "Reunion"
+#~ msgstr "留尼旺島"
+
+#~ msgid "Romania"
+#~ msgstr "羅馬尼亞"
+
+#~ msgid "Russian Federation"
+#~ msgstr "俄羅斯盧布"
+
+#~ msgid "Rwanda"
+#~ msgstr "盧旺達"
+
+#~ msgid "Saint Kitts and Nevis"
+#~ msgstr "聖基茨和尼維斯"
+
+#~ msgid "Saint Martin"
+#~ msgstr "聖馬丁島"
+
+#~ msgid "Saint Lucia"
+#~ msgstr "聖盧西亞"
+
+#~ msgid "Saint Vincent and the Grenadines"
+#~ msgstr "聖文森特和格林納丁斯"
+
+#~ msgid "Samoa"
+#~ msgstr "薩摩亞"
+
+#~ msgid "San Marino"
+#~ msgstr "聖馬力諾"
+
+#~ msgid "Sao Tome and Principe"
+#~ msgstr "聖多美普林西比"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "沙烏地阿拉伯"
+
+#~ msgid "Senegal"
+#~ msgstr "塞內加爾"
+
+#~ msgid "Seychelles"
+#~ msgstr "塞舌爾"
+
+#~ msgid "Serbia"
+#~ msgstr "塞爾維亞"
+
+#~ msgid "Sierra Leone"
+#~ msgstr "塞拉利昂"
+
+#~ msgid "Singapore"
+#~ msgstr "新加坡"
+
+#~ msgid "Slovakia (Slovak Republic)"
+#~ msgstr "斯洛伐克 (斯洛伐克共和國)"
+
+#~ msgid "Slovenia"
+#~ msgstr "斯洛文尼亞"
+
+#~ msgid "Solomon Islands"
+#~ msgstr "索羅門群島"
+
+#~ msgid "Somalia"
+#~ msgstr "索馬里"
+
+#~ msgid "South Africa"
+#~ msgstr "南非"
+
+#~ msgid "South Georgia and the South Sandwich Islands"
+#~ msgstr "南喬治亞與南桑威奇"
+
+#~ msgid "Spain"
+#~ msgstr "西班牙"
+
+#~ msgid "Sri Lanka"
+#~ msgstr "斯里蘭卡"
+
+#~ msgid "St. Helena"
+#~ msgstr "聖赫勒拿"
+
+#~ msgid "Sudan"
+#~ msgstr "蘇丹"
+
+#~ msgid "Suriname"
+#~ msgstr "蘇里南"
+
+#~ msgid "Svalbard and Jan Mayen Islands"
+#~ msgstr "斯瓦爾巴群島和揚馬延島"
+
+#~ msgid "Swaziland"
+#~ msgstr "斯威士蘭"
+
+#~ msgid "Sweden"
+#~ msgstr "瑞典"
+
+#~ msgid "Switzerland"
+#~ msgstr "瑞士"
+
+#~ msgid "Syrian Arab Republic"
+#~ msgstr "愛爾蘭共和國"
+
+#~ msgid "Taiwan, Province of China"
+#~ msgstr "台灣"
+
+#~ msgid "Tajikistan"
+#~ msgstr "塔吉克斯坦"
+
+#~ msgid "Tanzania, United Republic of"
+#~ msgstr "坦尚尼亞"
+
+#~ msgid "Thailand"
+#~ msgstr "泰國"
+
+#~ msgid "Togo"
+#~ msgstr "多哥"
+
+#~ msgid "Tokelau"
+#~ msgstr "托克勞"
+
+#~ msgid "Tonga"
+#~ msgstr "湯加"
+
+#~ msgid "Trinidad and Tobago"
+#~ msgstr "特立尼達和多巴哥"
+
+#~ msgid "Tunisia"
+#~ msgstr "突尼西亞"
+
+#~ msgid "Turkey"
+#~ msgstr "土耳其"
+
+#~ msgid "Turkmenistan"
+#~ msgstr "土庫曼斯坦"
+
+#~ msgid "Turks and Caicos Islands"
+#~ msgstr "土克凱可群島"
+
+#~ msgid "Tuvalu"
+#~ msgstr "圖瓦盧"
+
+#~ msgid "Uganda"
+#~ msgstr "烏干達"
+
+#~ msgid "Ukraine"
+#~ msgstr "烏克蘭"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "阿拉伯聯合大公國"
+
+#~ msgid "United Kingdom"
+#~ msgstr "英國"
+
+#~ msgid "United States"
+#~ msgstr "美國"
+
+#~ msgid "United States Minor Outlying Islands"
+#~ msgstr "美國小島嶼離島"
+
+#~ msgid "Uruguay"
+#~ msgstr "烏拉圭"
+
+#~ msgid "Uzbekistan"
+#~ msgstr "烏茲別克斯坦"
+
+#~ msgid "Vanuatu"
+#~ msgstr "瓦努阿圖"
+
+#~ msgid "Venezuela"
+#~ msgstr "委內瑞拉"
+
+#~ msgid "Vietnam"
+#~ msgstr "越南"
+
+#~ msgid "Virgin Islands (British)"
+#~ msgstr "英屬維京群島"
+
+#~ msgid "Virgin Islands (U.S.)"
+#~ msgstr "美屬維爾京群島"
+
+#~ msgid "Wallis and Futuna Islands"
+#~ msgstr "瓦利斯群岛和富图纳群岛"
+
+#~ msgid "Western Sahara"
+#~ msgstr "西撒哈拉"
+
+#~ msgid "Yemen"
+#~ msgstr "葉門"
+
+#~ msgid "Zambia"
+#~ msgstr "贊比亞"
+
+#~ msgid "Zimbabwe"
+#~ msgstr "津巴布韋"
+
+#, fuzzy
+#~| msgid "User Dashboard"
+#~ msgid "User Dashboard Analytics oauth"
+#~ msgstr "用戶控制面板"
+
+#~ msgid "Log Out"
+#~ msgstr "登出"
+
+#~ msgid "*After you change the password you will have to login again."
+#~ msgstr "*您更新密碼後，必須重新登入"
+
+#~ msgid "by"
+#~ msgstr "由"
+
+#~ msgid "Listed in"
+#~ msgstr "列於 "
+
+#~ msgid "Item has 0 views"
+#~ msgstr "物件有 0 次檢視"
+
+#~ msgid "Pay with Paypal"
+#~ msgstr "使用paypal付款"
+
+#~ msgid "Updated on"
+#~ msgstr "更新"
+
+#~ msgid "Select what features and amenities apply for your property. "
+#~ msgstr "選擇適用于您的房產的特色和設施。"
+
+#~ msgid ""
+#~ "Selecting a category will make it easier for users to find you property "
+#~ "in search results."
+#~ msgstr "選擇類別將使使用者能夠更輕鬆地在搜尋結果中找到您的物件。"
+
+#~ msgid ""
+#~ "This description will appear first in page. Keeping it as a brief "
+#~ "overview makes it easier to read."
+#~ msgstr "此說明將首先顯示在頁面中。越是簡要，越便於閱讀。"
+
+#~ msgid "Property Description & Price"
+#~ msgstr "物件描述&價格"
+
+#~ msgid "Add a little more info about your property. "
+#~ msgstr "添加有關您的物件的詳細資訊。"
+
+#~ msgid "Some energy class description"
+#~ msgstr "能耗等級的描述"
+
+#~ msgid "Highlight your property."
+#~ msgstr "突出顯示您的物件"
+
+#~ msgid ""
+#~ "Select what properties you wish to show as subunits from those published."
+#~ msgstr "從已發佈的物件中選擇要作為子單元顯示的屬性。"
+
+#~ msgid "Copy/paste the iframe code of your property video tour."
+#~ msgstr "複製/粘貼物件視頻的 iframe 代碼。"
+
+#~ msgid "Switch to this package"
+#~ msgstr "更換到此套餐"
+
+#~ msgid "Agency Details"
+#~ msgstr "代理詳細資訊"
+
+#~ msgid "License "
+#~ msgstr "許可證"
+
+#~ msgid "Developer Details"
+#~ msgstr "物件開發的詳細資訊"
+
+#~ msgid "Developer Location"
+#~ msgstr "開發人位置"
+
+#~ msgid "for"
+#~ msgstr "對於"

@@ -1,0 +1,5953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpresidence\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
+"POT-Creation-Date: 2024-02-20T08:54:54+00:00\n"
+"PO-Revision-Date: 2024-02-20 12:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+
+#. Theme Name of the theme
+msgid "WpResidence"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://themeforest.net/user/wpestate"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP Residence is a premium & responsive WordPress theme designed for Real "
+"Estate companies and independent agents."
+msgstr ""
+
+#. Author of the theme
+msgid "wpestate"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.wpestate.org"
+msgstr ""
+
+#: 404.php:13
+msgid "Page not found"
+msgstr "העמוד לא נמצא"
+
+#: 404.php:17
+msgid ""
+"We're sorry. Your page could not be found, But you can check our latest "
+"listings & articles"
+msgstr ""
+"אנו מצטערים. הדף שביקשתם לא נמצא, אבל אתם יכול לבדוק את מאמרים והנכסים "
+"האחרונים שלנו"
+
+#: 404.php:21
+msgid "Latest Listings"
+msgstr "נכסים אחרונים"
+
+#: 404.php:41
+msgid "Latest Articles"
+msgstr "כתבות אחרונות"
+
+#. Template Name of the theme
+msgid "Agents Agencies Developers Search Results"
+msgstr "סוכנים סוכנויות מפתחים תוצאות חיפוש"
+
+#: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
+#: agents_list.php:5 compare_listings.php:6 contact_page.php:6
+#: developers_list.php:6 front_property_submit.php:6
+#: libs/dashboard_functions.php:1335 page_property_design.php:5 processor.php:5
+#: property_list.php:5 property_list_directory.php:5 property_list_half.php:5
+#: single-idx.php:6 splash_page.php:5 zillow_estimate_page.php:5
+msgid ""
+"This page will not work without WpResidence Core Plugin, Please activate it "
+"from the plugins menu!"
+msgstr ""
+"דף זה לא יעבוד ללא WpResidence Core Plugin, אנא הפעל אותו מתפריט plugins!"
+
+#: aag_search_results.php:165
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters."
+msgstr "לא מצאנו תוצאות. נסה שוב עם פרמטרים שונים של חיפוש."
+
+#. Template Name of the theme
+msgid "Advanced Search Results"
+msgstr "תוצאות חיפוש מתקדם"
+
+#. Template Name of the theme
+msgid "Agency list"
+msgstr "רשימת סוכנויות"
+
+#. Template Name of the theme
+msgid "Agents list"
+msgstr "רשימת סוכנים"
+
+#: api/test.php:305 libs/help_functions.php:5438 libs/help_functions.php:5585
+#: word_remove.php:92
+msgid "feet"
+msgstr "רגל"
+
+#: api/test.php:305 api/test.php:314 api/test.php:315 api/test.php:316
+#: api/test.php:317 api/test.php:318 api/test.php:320 api/test.php:325
+#: api/test.php:330 api/test.php:335 libs/help_functions.php:5438
+#: libs/help_functions.php:5519 libs/help_functions.php:5520
+#: libs/help_functions.php:5521 libs/help_functions.php:5522
+#: libs/help_functions.php:5523 libs/help_functions.php:5525
+#: libs/help_functions.php:5530 libs/help_functions.php:5535
+#: libs/help_functions.php:5540 libs/help_functions.php:5585
+#: libs/help_functions.php:5594 libs/help_functions.php:5595
+#: libs/help_functions.php:5596 libs/help_functions.php:5597
+#: libs/help_functions.php:5598 libs/help_functions.php:5600
+#: libs/help_functions.php:5605 libs/help_functions.php:5610
+#: libs/help_functions.php:5615 word_remove.php:92
+msgid "ft"
+msgstr "ft"
+
+#: api/test.php:306 libs/help_functions.php:5439 libs/help_functions.php:5586
+#: word_remove.php:93
+msgid "meters"
+msgstr "מטר"
+
+#: api/test.php:306 api/test.php:315 api/test.php:319 api/test.php:320
+#: api/test.php:321 api/test.php:322 api/test.php:323 api/test.php:326
+#: api/test.php:331 api/test.php:336 libs/help_functions.php:5439
+#: libs/help_functions.php:5520 libs/help_functions.php:5524
+#: libs/help_functions.php:5525 libs/help_functions.php:5526
+#: libs/help_functions.php:5527 libs/help_functions.php:5528
+#: libs/help_functions.php:5531 libs/help_functions.php:5536
+#: libs/help_functions.php:5541 libs/help_functions.php:5586
+#: libs/help_functions.php:5595 libs/help_functions.php:5599
+#: libs/help_functions.php:5600 libs/help_functions.php:5601
+#: libs/help_functions.php:5602 libs/help_functions.php:5603
+#: libs/help_functions.php:5606 libs/help_functions.php:5611
+#: libs/help_functions.php:5616 word_remove.php:93
+msgid "m"
+msgstr "M"
+
+#: api/test.php:307 libs/help_functions.php:5440 libs/help_functions.php:5587
+#: word_remove.php:94
+msgid "acres"
+msgstr "דונם"
+
+#: api/test.php:307 api/test.php:316 api/test.php:321 api/test.php:324
+#: api/test.php:325 api/test.php:326 api/test.php:327 api/test.php:328
+#: api/test.php:332 api/test.php:337 libs/help_functions.php:5440
+#: libs/help_functions.php:5521 libs/help_functions.php:5526
+#: libs/help_functions.php:5529 libs/help_functions.php:5530
+#: libs/help_functions.php:5531 libs/help_functions.php:5532
+#: libs/help_functions.php:5533 libs/help_functions.php:5537
+#: libs/help_functions.php:5542 libs/help_functions.php:5587
+#: libs/help_functions.php:5596 libs/help_functions.php:5601
+#: libs/help_functions.php:5604 libs/help_functions.php:5605
+#: libs/help_functions.php:5606 libs/help_functions.php:5607
+#: libs/help_functions.php:5608 libs/help_functions.php:5612
+#: libs/help_functions.php:5617 word_remove.php:94
+msgid "ac"
+msgstr "ac"
+
+#: api/test.php:308 libs/help_functions.php:5441 libs/help_functions.php:5588
+#: word_remove.php:95
+msgid "yards"
+msgstr "מטרים"
+
+#: api/test.php:308 api/test.php:317 api/test.php:322 api/test.php:327
+#: api/test.php:329 api/test.php:330 api/test.php:331 api/test.php:332
+#: api/test.php:333 api/test.php:338 libs/help_functions.php:5441
+#: libs/help_functions.php:5522 libs/help_functions.php:5527
+#: libs/help_functions.php:5532 libs/help_functions.php:5534
+#: libs/help_functions.php:5535 libs/help_functions.php:5536
+#: libs/help_functions.php:5537 libs/help_functions.php:5538
+#: libs/help_functions.php:5543 libs/help_functions.php:5588
+#: libs/help_functions.php:5597 libs/help_functions.php:5602
+#: libs/help_functions.php:5607 libs/help_functions.php:5609
+#: libs/help_functions.php:5610 libs/help_functions.php:5611
+#: libs/help_functions.php:5612 libs/help_functions.php:5613
+#: libs/help_functions.php:5618 word_remove.php:95
+msgid "yd"
+msgstr "yd"
+
+#: api/test.php:309 libs/help_functions.php:5442 libs/help_functions.php:5589
+#: word_remove.php:96
+msgid "hectares"
+msgstr "דונם"
+
+#: api/test.php:309 api/test.php:318 api/test.php:323 api/test.php:328
+#: api/test.php:333 api/test.php:334 api/test.php:335 api/test.php:336
+#: api/test.php:337 api/test.php:338 libs/help_functions.php:5442
+#: libs/help_functions.php:5523 libs/help_functions.php:5528
+#: libs/help_functions.php:5533 libs/help_functions.php:5538
+#: libs/help_functions.php:5539 libs/help_functions.php:5540
+#: libs/help_functions.php:5541 libs/help_functions.php:5542
+#: libs/help_functions.php:5543 libs/help_functions.php:5589
+#: libs/help_functions.php:5598 libs/help_functions.php:5603
+#: libs/help_functions.php:5608 libs/help_functions.php:5613
+#: libs/help_functions.php:5614 libs/help_functions.php:5615
+#: libs/help_functions.php:5616 libs/help_functions.php:5617
+#: libs/help_functions.php:5618 word_remove.php:96
+msgid "ha"
+msgstr "חה"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "קטגוריה ארכיון: %s"
+
+#: archive.php:24
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי: %s"
+
+#: archive.php:26
+msgid "Monthly Archives: %s"
+msgstr "ארכיונים חודשיים: %s"
+
+#: archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "l j \\בF Y, h:ia"
+
+#: archive.php:28
+msgid "Yearly Archives: %s"
+msgstr "הארכיון השנתי: %s"
+
+#: archive.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr "ארכיון הבלוג"
+
+#. Template Name of the theme
+msgid "User Dashboard Search Results"
+msgstr "תוצאות חיפוש של לוח המחוונים למשתמש"
+
+#: auser_dashboard_search_result.php:23 libs/dashboard_widgets.php:292
+#: user_dashboard_add.php:69 user_dashboard_add.php:197
+#: user_dashboard_agent_list.php:7
+msgid "Sorry, your nonce did not verify."
+msgstr "מצטער, הפעם לא אומת."
+
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:160
+msgid "You don't have any properties yet!"
+msgstr "אין לך עדיין מאפיינים!"
+
+#: auser_dashboard_search_result.php:103
+#: libs/dashboard_actions_functions.php:742
+msgid "Search a listing"
+msgstr "חפש רישום"
+
+#: auser_dashboard_search_result.php:104
+#: libs/dashboard_actions_functions.php:628
+#: libs/dashboard_actions_functions.php:743 search.php:30 search.php:31
+#: searchform.php:3 templates/advanced_search/advanced_search_type3.php:72
+#: templates/advanced_search/advanced_search_type10.php:94
+#: templates/advanced_search/advanced_search_type11.php:106
+#: templates/advanced_search_type3.php:62
+#: templates/advanced_search_type10.php:81
+#: templates/advanced_search_type11.php:106
+msgid "Search"
+msgstr "לחפש"
+
+#. Template Name of the theme
+msgid "Blog list page"
+msgstr "דף רשימת הבלוגים"
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "הודעה זו מוגנת באמצעות סיסמה. הזן את הסיסמה כדי להציג הערות."
+
+#: comments.php:16
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "מחשבה אחת על &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "ניווט בהערות"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&quot; תגובות ישנות יותר"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "תגובות חדשות יותר &quot;"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr "השאר תגובה"
+
+#: comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "השאירו תגובה ל- %s"
+
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr "בטל תגובה"
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr "פרסם תגובה"
+
+#: comments.php:60
+msgid "Your email address will not be published.  "
+msgstr "כתובת האימייל שלך לא תפורסם."
+
+#: comments.php:65
+msgid "Comment"
+msgstr "תגובה"
+
+#: comments.php:72 crm_functions/crm_functions.php:316
+#: templates/email_templates/contact_email_template.php:36
+#: templates/email_templates/schedule_tour_email_template.php:35
+msgid "Name"
+msgstr "שֵׁם"
+
+#: comments.php:78 crm_functions/crm_functions.php:317
+#: libs/dashboard_actions_functions.php:637 libs/design_functions.php:2414
+#: templates/dashboard-templates/add_new_agent.php:72
+#: templates/dashboard-templates/add_new_agent_template.php:53
+#: templates/dashboard-templates/user_profile.php:28
+#: templates/dashboard-templates/user_profile_agency.php:24
+#: templates/dashboard-templates/user_profile_agent.php:29
+#: templates/dashboard-templates/user_profile_developer.php:22
+#: templates/email_templates/contact_email_template.php:37
+#: templates/email_templates/schedule_tour_email_template.php:36
+#: templates/login_register_modal.php:86 templates/mobile_menu.php:119
+#: templates/property_cards_templates/property_card_contact.php:28
+msgid "Email"
+msgstr "אֶלֶקטרוֹנִי"
+
+#: comments.php:83
+msgid "Website"
+msgstr "אתר אינטרנט"
+
+#. Template Name of the theme
+#: compare_listings.php:101 templates/compare_list.php:15
+msgid "Compare Listings"
+msgstr "השווה רישומים"
+
+#: compare_listings.php:15
+msgid "page should be accesible only via the compare button"
+msgstr "הדף אמור להיות נגיש רק באמצעות לחצן ההשוואה"
+
+#: compare_listings.php:113
+msgid "Type: "
+msgstr "סוּג:"
+
+#: compare_listings.php:121
+msgid "city"
+msgstr "עִיר"
+
+#: compare_listings.php:122
+msgid "area"
+msgstr "אֵזוֹר"
+
+#: compare_listings.php:123 libs/elementor_help_files.php:31
+msgid "zip"
+msgstr "רוכסן"
+
+#: compare_listings.php:124 libs/elementor_help_files.php:24
+msgid "size"
+msgstr "גודל"
+
+#: compare_listings.php:125 libs/elementor_help_files.php:25
+msgid "lot size"
+msgstr "גודל מגרש"
+
+#: compare_listings.php:126 libs/elementor_help_files.php:26
+msgid "rooms"
+msgstr "חדרים"
+
+#: compare_listings.php:127 libs/elementor_help_files.php:27
+msgid "bedrooms"
+msgstr "חדרי שינה"
+
+#: compare_listings.php:128 libs/elementor_help_files.php:28
+msgid "bathrooms"
+msgstr "חדרי אמבטיה"
+
+#: compare_listings.php:129 libs/dashboard_actions_functions.php:174
+#: libs/help_functions.php:5901
+msgid "Energy Index"
+msgstr "מדד האנרגיה"
+
+#: compare_listings.php:130 libs/dashboard_actions_functions.php:166
+#: libs/help_functions.php:5900 libs/help_functions.php:6115
+#: libs/listing_functions.php:1906
+#: templates/submit_templates/property_energy_effective.php:35
+msgid "Energy Class"
+msgstr "מחלקת אנרגיה"
+
+#: compare_listings.php:131 libs/help_functions.php:55
+msgid "Property ID"
+msgstr "מזהה נכס"
+
+#. Template Name of the theme
+msgid "Contact Page"
+msgstr "דלגו לדף יצירת קשר"
+
+#: contact_page.php:72 single-estate_agency.php:112
+#: templates/header_agency.php:71 templates/header_developer.php:73
+msgid "Phone:"
+msgstr "טלפון:"
+
+#: contact_page.php:76 single-estate_agency.php:107
+#: templates/header_agency.php:66 templates/header_developer.php:68
+msgid "Mobile:"
+msgstr "נייד:"
+
+#: contact_page.php:80 single-estate_agency.php:102
+#: templates/header_agency.php:61 templates/header_developer.php:61
+msgid "Email:"
+msgstr "אֶלֶקטרוֹנִי:"
+
+#: contact_page.php:84
+msgid "Fax:"
+msgstr "פקס:"
+
+#: contact_page.php:88 single-estate_agency.php:118
+#: templates/header_agency.php:77 templates/header_developer.php:116
+msgid "Skype:"
+msgstr "סקייפ:"
+
+#: contact_page.php:104 libs/dashboard_widgets.php:8
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:984
+#: libs/help_functions.php:986
+msgid "company logo"
+msgstr "לוגו חברה"
+
+#: crm_functions/crm_functions.php:14
+msgid "Lead Info"
+msgstr "מידע לידים"
+
+#: crm_functions/crm_functions.php:29
+#: crm_functions/templates/dashboard_contact_unit.php:29
+#: crm_functions/templates/dashboard_lead_unit.php:61
+msgid "New"
+msgstr "חדש"
+
+#: crm_functions/crm_functions.php:96 crm_functions/crm_functions.php:238
+msgid "You are not allowed to edit this!!!"
+msgstr "אסור לך לערוך את זה!!!"
+
+#: crm_functions/crm_functions.php:165 crm_functions/crm_functions.php:193
+msgid "You are not allowed to delete this !"
+msgstr "אסור לך למחוק את זה!"
+
+#: crm_functions/crm_functions.php:312
+msgid "Your Contacts"
+msgstr "אנשי הקשר שלך"
+
+#: crm_functions/crm_functions.php:314
+msgid "Create Contact"
+msgstr "יצירת איש קשר"
+
+#: crm_functions/crm_functions.php:318
+#: templates/dashboard-templates/add_new_agent.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:42
+#: templates/dashboard-templates/user_profile.php:33
+#: templates/dashboard-templates/user_profile_agency.php:19
+#: templates/dashboard-templates/user_profile_agent.php:24
+#: templates/dashboard-templates/user_profile_developer.php:17
+#: templates/email_templates/contact_email_template.php:38
+#: templates/email_templates/schedule_tour_email_template.php:37
+msgid "Phone"
+msgstr "טלפון"
+
+#: crm_functions/crm_functions.php:319
+msgid "Added on"
+msgstr "הוסף בתאריך"
+
+#: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
+#: libs/dashboard_actions_functions.php:580
+#: libs/dashboard_actions_functions.php:638
+#: libs/dashboard_actions_functions.php:757
+#: libs/dashboard_actions_functions.php:763 libs/elementor_help_files2.php:62
+#: libs/elementor_help_files2.php:370 libs/searchfunctions.php:2184
+#: user_dashboard_favorite.php:42
+msgid "Status"
+msgstr "סטָטוּס"
+
+#: crm_functions/crm_functions.php:321 crm_functions/crm_functions.php:371
+#: crm_functions/templates/crm_contact_unit_actions.php:12
+#: crm_functions/templates/crm_lead_unit_actions.php:14
+#: libs/dashboard_actions_functions.php:639
+#: libs/dashboard_actions_functions.php:768
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:30
+#: user_dashboard_favorite.php:44
+msgid "Actions"
+msgstr "פעולות"
+
+#: crm_functions/crm_functions.php:325 crm_functions/crm_functions.php:375
+msgid "You don't have any Leads!"
+msgstr "אין לך שום לידים!"
+
+#: crm_functions/crm_functions.php:360
+msgid "Your Leads/Deals"
+msgstr "הלידים/המבצעים שלך"
+
+#: crm_functions/crm_functions.php:361
+msgid "Add New Lead/Deal"
+msgstr "הוסף הפניה/עסקה חדשה"
+
+#: crm_functions/crm_functions.php:364
+msgid "Lead No"
+msgstr "מספר הפניה"
+
+#: crm_functions/crm_functions.php:365
+msgid "Request By"
+msgstr "בקשה מאת"
+
+#: crm_functions/crm_functions.php:366
+msgid "Agent in Charge"
+msgstr "הסוכן האחראי"
+
+#: crm_functions/crm_functions.php:367 libs/dashboard_actions_functions.php:577
+#: libs/dashboard_actions_functions.php:1319
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+#: crm_functions/templates/crm_add_contact.php:29
+#: crm_functions/templates/crm_add_lead.php:30
+#: templates/front_end_submission.php:151
+#: templates/front_end_submission.php:193
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: crm_functions/templates/crm_add_contact.php:33
+msgid "Add Contact"
+msgstr "רשק שיא תפסוה"
+
+#: crm_functions/templates/crm_add_lead.php:34
+msgid "Add Lead"
+msgstr "הוסף ליד"
+
+#: crm_functions/templates/crm_contact_submit.php:1
+#: templates/dashboard-templates/user_profile.php:105
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:236
+#: templates/dashboard-templates/user_profile_developer.php:205
+msgid "Contact Information"
+msgstr "פרטי יצירת קשר"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:17
+msgid "View/Edit Contact"
+msgstr "הצג/ערוך איש קשר"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:21
+#: crm_functions/templates/crm_lead_unit_actions.php:23
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:39
+msgid "Are you sure you wish to delete "
+msgstr "האם אתה בטוח שברצונך למחוק"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:23
+msgid "Delete Contact"
+msgstr "מחק איש קשר"
+
+#: crm_functions/templates/crm_leads_submit.php:2
+msgid "Lead Information"
+msgstr "מידע נוסף"
+
+#: crm_functions/templates/crm_leads_submit.php:13
+msgid "Contact"
+msgstr "צור קשר"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:19
+msgid "View/Edit Lead"
+msgstr "הצג/ערוך הפניה"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:25
+msgid "Delete Lead"
+msgstr "מחק הפניה"
+
+#: crm_functions/templates/dashboard_lead_unit.php:3
+msgid "Lead no "
+msgstr "מספר הפניה "
+
+#: crm_functions/templates/dashboard_lead_unit.php:23
+msgid "added manually"
+msgstr "נוסף באופן ידני"
+
+#. Template Name of the theme
+msgid "Developer list"
+msgstr "רשימת מפתחים"
+
+#. Template Name of the theme
+msgid "Front Property Submit"
+msgstr "שליחת מקום אירוח מחזית האתר"
+
+#: front_property_submit.php:206 templates/front_end_submission.php:60
+msgid ""
+"Your current package doesn't let you publish more properties! You need to "
+"upgrade your membership."
+msgstr ""
+"החבילה הנוכחית שלך לא מאפשרת לך לפרסם נכסים נוספים! אתה צריך לשדרג את החברות "
+"שלך."
+
+#: front_property_submit.php:534 user_dashboard_add.php:88
+#: user_dashboard_add.php:220
+msgid "Please submit a title for your property"
+msgstr "שלח כותרת לנכס שלך"
+
+#: front_property_submit.php:815
+msgid "1. Description"
+msgstr "1. תיאור"
+
+#: front_property_submit.php:816
+msgid "2. Media"
+msgstr "2. מדיה"
+
+#: front_property_submit.php:817
+msgid "3. Location"
+msgstr "3. מיקום"
+
+#: front_property_submit.php:818
+msgid "4. Details"
+msgstr "4. פרטים"
+
+#: front_property_submit.php:819
+msgid "5. Amenities"
+msgstr "5. שירותים"
+
+#: front_property_submit.php:832 templates/front_end_submission.php:106
+#: templates/front_end_submission.php:169
+msgid "These fields are mandatory: Title"
+msgstr "שדות אלה הם חובה: כותרת"
+
+#: front_property_submit.php:840 templates/front_end_submission.php:80
+msgid ""
+"This is a paid submission.The listing will be live after payment is received."
+msgstr "זהו שילם הגשת. הרישום יהיה חי לאחר התשלום הוא קיבל."
+
+#: front_property_submit.php:888
+msgid "Prev Step"
+msgstr "שלב קודם"
+
+#: front_property_submit.php:889 word_remove.php:68 word_remove.php:214
+#: word_remove.php:248
+msgid "Next Step"
+msgstr "השלב הבא"
+
+#: front_property_submit.php:890
+msgid "Submit Property"
+msgstr "שלח נכס"
+
+#: functions.php:98
+msgid ""
+"For better speed results, the theme offers a built-in caching system for "
+"properties and categories. Check this article how to enable - disable theme "
+"cache: "
+msgstr ""
+"לתוצאות מהירות טובות יותר, ערכת הנושא מציעה מערכת מטמון מובנית עבור מאפיינים "
+"וקטגוריות. בדוק מאמר זה כיצד להפעיל - השבת מטמון ערכת נושא:"
+
+#: functions.php:98
+msgid "help article"
+msgstr "מאמר עזרה"
+
+#: functions.php:110 word_remove.php:63
+msgid ""
+"The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
+"Get an APIs Console key and post the code in Theme Options. You can get it "
+"from"
+msgstr ""
+"ממשק API של JavaScript למפות Google v3 דורש מפתח API לתפקד כראוי. קבל מפתח "
+"קונסולת APIs ופרסם את הקוד באפשרויות ערכת נושא. אתה יכול לקבל את זה"
+
+#: functions.php:111 word_remove.php:63
+msgid "here"
+msgstr "כאן"
+
+#: functions.php:123
+msgid "WordPress Memory Limit is set to "
+msgstr "מגבלת הזיכרון של WordPress מוגדרת"
+
+#: functions.php:123
+msgid "Recommended memory limit should be at least 96MB. Please refer to : "
+msgstr "מגבלת הזיכרון המומלצת צריכה להיות 96MB לפחות. בבקשה התייחס ל :"
+
+#: functions.php:123
+msgid "Increasing memory allocated to PHP"
+msgstr "הגדלת זיכרון שהוקצה PHP"
+
+#: functions.php:143
+msgid "Your PHP version is "
+msgstr "גירסת PHP שלך היא"
+
+#: functions.php:156
+msgid ""
+"PHP GD library is NOT installed on your web server and because of that the "
+"theme will not be able to work with images. Please contact your hosting "
+"company in order to activate this library."
+msgstr ""
+"PHP GD הספרייה אינה מותקנת בשרת האינטרנט שלך ובגלל זה הנושא לא יוכל לעבוד עם "
+"תמונות. אנא צור קשר עם חברת האירוח שלך כדי להפעיל את הספריה."
+
+#: functions.php:168
+msgid ""
+"MbString extension not detected. Please contact your hosting provider in "
+"order to enable it."
+msgstr "תוסף MbString לא זוהה. צור קשר עם ספק האירוח שלך כדי להפעיל אותו."
+
+#: functions.php:186
+msgid ""
+"Half Map Template - make sure your page has the \"media header type\" set as "
+"google map "
+msgstr ""
+"חצי תבנית תבנית - ודא שהדף שלך מכיל את &quot;סוג כותרת המדיה&quot; שהוגדר "
+"כמפת Google"
+
+#: functions.php:202
+msgid ""
+"Please do not manually change the slugs when adding new terms. If you need "
+"to edit a term name copy the new name in the slug field also."
+msgstr ""
+"אל תשנה את החריצים באופן ידני בעת הוספת מונחים חדשים. אם אתה צריך לערוך שם "
+"מונח להעתיק את השם החדש בשדה הקליע גם."
+
+#: functions.php:374
+msgid "Post navigation"
+msgstr "פרסם את הניווט"
+
+#: functions.php:375
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">→</span> ישן יותר הודעות"
+
+#: functions.php:376
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "פוסטים חדשים יותר <span class=\"meta-nav\">←</span>"
+
+#: functions.php:400
+msgid "Pingback:"
+msgstr "פינגבאק:"
+
+#: functions.php:400 functions.php:416
+msgid "Edit"
+msgstr "לַעֲרוֹך"
+
+#: functions.php:411 templates/dashboard-templates/message-listing-unit.php:92
+#: templates/dashboard-templates/message-listing-unit.php:98
+msgid "Reply"
+msgstr "תשובה"
+
+#: functions.php:421
+msgid " on "
+msgstr "עַל"
+
+#: functions.php:426
+msgid "Your comment is awaiting moderation."
+msgstr "ההערה שלך ממתינה למתינות."
+
+#: functions.php:459 functions.php:463
+msgid "Please edit your profile page from site interface."
+msgstr "ערוך את דף הפרופיל שלך מממשק האתר."
+
+#: functions.php:581
+msgid "Your new password for the account at:"
+msgstr "הסיסמה החדשה שלך עבור החשבון:"
+
+#: functions.php:583
+msgid "Username: %s"
+msgstr "שם משתמש: %s"
+
+#: functions.php:584
+msgid "Password: %s"
+msgstr "סיסמה: %s"
+
+#: functions.php:585
+msgid "You can now login with your new password at: "
+msgstr "כעת תוכל להתחבר עם הסיסמה החדשה שלך בכתובת:"
+
+#: functions.php:596
+msgid "A new password was sent via email!"
+msgstr "סיסמה חדשה נשלחה בדוא&quot;ל!"
+
+#: functions.php:603
+msgid "We have just sent you a new password. Please check your email!"
+msgstr "כרגע שלחנו לך סיסמה חדשה. בדוק את הדוא&quot;ל שלך!"
+
+#: functions.php:626 functions.php:641
+msgid "Message sent from page: "
+msgstr "ההודעה נשלחה מהדף:"
+
+#: functions.php:746 functions.php:773 libs/elementor_help_files.php:15
+#: libs/elementor_help_files2.php:23 libs/elementor_help_files2.php:351
+#: libs/help_functions.php:3965 libs/help_functions.php:3971
+#: libs/help_functions.php:4355 libs/help_functions.php:4744
+#: libs/searchfunctions.php:486 libs/searchfunctions.php:537
+#: libs/searchfunctions2.php:53 property_list_directory.php:79
+#: property_list_half.php:69 templates/advanced_property_list_filters.php:52
+#: templates/advanced_property_list_filters.php:92
+#: templates/advanced_search/advanced_search_type2.php:46
+#: templates/advanced_search/advanced_search_type8.php:144
+#: templates/advanced_search/advanced_search_type9.php:146
+#: templates/advanced_search/advanced_search_type_half.php:129
+#: templates/advanced_search/advanced_search_type_half.php:171
+#: templates/advanced_search/advanced_search_type_half.php:182
+#: templates/advanced_search/adv_search_mobile.php:77
+#: templates/advanced_search/adv_search_mobile.php:102
+#: templates/advanced_search/adv_search_mobile.php:186
+#: templates/advanced_search_type2.php:46
+#: templates/advanced_search_type8.php:144
+#: templates/advanced_search_type9.php:146
+#: templates/advanced_search_type_half.php:130
+#: templates/advanced_search_type_half.php:163
+#: templates/advanced_search_type_half.php:174
+#: templates/adv_search_mobile.php:77 templates/adv_search_mobile.php:102
+#: templates/adv_search_mobile.php:179 templates/directory_filters.php:28
+#: templates/property_ajax_tax_hidden_filters.php:24
+#: templates/property_ajax_tax_hidden_filters.php:60
+#: templates/property_list_filters.php:52
+#: templates/property_list_filters.php:92
+#: templates/taxonomy_agent_hidden_filters.php:21
+msgid "Types"
+msgstr "סוגים"
+
+#: functions.php:799 libs/elementor_help_files2.php:32
+#: libs/elementor_help_files2.php:355 libs/help_functions.php:3967
+#: libs/help_functions.php:4384 libs/help_functions.php:4980
+#: property_list_directory.php:130 property_list_half.php:86
+#: templates/advanced_property_list_filters.php:54
+#: templates/advanced_property_list_filters.php:134
+#: templates/advanced_search/advanced_search_type_half.php:255
+#: templates/advanced_search/advanced_search_type_half.php:265
+#: templates/advanced_search_type_half.php:247
+#: templates/advanced_search_type_half.php:257
+#: templates/directory_filters.php:49
+#: templates/property_ajax_tax_hidden_filters.php:26
+#: templates/property_ajax_tax_hidden_filters.php:90
+#: templates/property_list_filters.php:54
+#: templates/property_list_filters.php:134
+#: templates/submit_templates/property_location.php:165
+#: templates/submit_templates/property_location.php:171
+#: templates/taxonomy_agent_hidden_filters.php:23
+msgid "Cities"
+msgstr "ערים"
+
+#: functions.php:827 libs/elementor_help_files2.php:42
+#: libs/elementor_help_files2.php:360 libs/help_functions.php:3969
+#: libs/help_functions.php:4398 libs/help_functions.php:5087
+#: property_list_directory.php:155 property_list_directory.php:182
+#: property_list_half.php:93 templates/advanced_property_list_filters.php:55
+#: templates/advanced_property_list_filters.php:124
+#: templates/advanced_search/advanced_search_type_half.php:293
+#: templates/advanced_search/advanced_search_type_half.php:303
+#: templates/advanced_search_type_half.php:285
+#: templates/advanced_search_type_half.php:295
+#: templates/directory_filters.php:59
+#: templates/property_ajax_tax_hidden_filters.php:27
+#: templates/property_ajax_tax_hidden_filters.php:80
+#: templates/property_list_filters.php:55
+#: templates/property_list_filters.php:124
+#: templates/submit_templates/property_location.php:214
+#: templates/submit_templates/property_location.php:220
+#: templates/taxonomy_agent_hidden_filters.php:24
+msgid "Areas"
+msgstr "איזורים"
+
+#: functions.php:851 libs/css_js_include.php:810
+#: libs/css_js_include_bkc.php:803
+#: templates/advanced_search/advanced_search_type_half.php:327
+#: templates/advanced_search_type_half.php:319
+msgid "Type Bedrooms No."
+msgstr "מספר חדרי שינה"
+
+#: functions.php:860 libs/css_js_include.php:811
+#: libs/css_js_include_bkc.php:804
+#: templates/advanced_search/advanced_search_type_half.php:332
+#: templates/advanced_search_type_half.php:324
+msgid "Type Bathrooms No."
+msgstr "IT מספר"
+
+#: functions.php:891 libs/help_functions.php:3780 libs/searchfunctions2.php:142
+#: libs/searchfunctions2.php:267
+#: templates/advanced_search/advanced_search_type_half.php:359
+#: templates/advanced_search_type_half.php:351
+#: templates/directory_filters.php:159
+msgid "Price range:"
+msgstr "טווח מחירים:"
+
+#: functions.php:912 libs/css_js_include.php:812
+#: libs/css_js_include_bkc.php:805
+#: templates/advanced_search/advanced_search_type_half.php:370
+#: templates/advanced_search_type_half.php:362
+msgid "Type Min. Price"
+msgstr "הקלד Min. מחיר"
+
+#: functions.php:916 libs/css_js_include.php:813
+#: libs/css_js_include_bkc.php:806
+#: templates/advanced_search/advanced_search_type_half.php:374
+#: templates/advanced_search_type_half.php:366
+msgid "Type Max. Price"
+msgstr "הקלד מקסימום. מחיר"
+
+#: functions.php:1563 functions.php:1577 functions.php:1593 functions.php:1609
+#: functions.php:1628 functions.php:1643 functions.php:1657 functions.php:1671
+#: functions.php:1686 functions.php:1700 functions.php:1714 functions.php:1729
+#: functions.php:1745 functions.php:1761 functions.php:1777 functions.php:1792
+#: functions.php:1808 functions.php:1824 functions.php:1841 functions.php:1856
+#: functions.php:1872 functions.php:1890 functions.php:1905 functions.php:1920
+#: functions.php:1932 functions.php:1948 functions.php:1965 functions.php:1981
+#: functions.php:1996 functions.php:2013 functions.php:2030 functions.php:2046
+#: functions.php:2061 functions.php:2076 functions.php:2091 functions.php:2106
+#: functions.php:2121 functions.php:2136 functions.php:2152 functions.php:2167
+#: functions.php:2184 functions.php:2199 functions.php:2214 functions.php:2230
+msgid "Clear theme cache after demo import is complete!"
+msgstr "נקה מטמון הנושא לאחר ייבוא ​​הדגמה הושלמה!"
+
+#. Template Name of the theme
+#: libs/contact_functions.php:120
+msgid "GDPR Terms"
+msgstr "תנאי GDPR"
+
+#: index.php:36
+msgid "There are no posts published!"
+msgstr "אין הודעות שפורסמו!"
+
+#: libs/3rdparty.php:88
+msgid "right now"
+msgstr "עכשיו"
+
+#: libs/3rdparty.php:90
+msgid " seconds ago"
+msgstr "לפני שניות"
+
+#: libs/3rdparty.php:92
+msgid "about 1 minute ago"
+msgstr "לפני 1 שעה"
+
+#: libs/3rdparty.php:94
+msgid " minutes ago"
+msgstr "לפני דקות"
+
+#: libs/3rdparty.php:96
+msgid "about 1 hour ago"
+msgstr "בערך 1 שעה"
+
+#: libs/3rdparty.php:98
+msgid " hours ago"
+msgstr "לפני שעות"
+
+#: libs/3rdparty.php:100
+msgid "yesterday"
+msgstr "אתמול"
+
+#: libs/3rdparty.php:102
+msgid " days ago"
+msgstr "לפני מספר ימים"
+
+#: libs/3rdparty.php:104
+msgid "over a year ago"
+msgstr "לפני יותר משנה"
+
+#: libs/3rdparty.php:227 libs/3rdparty.php:232
+msgid " package on "
+msgstr "החבילה ב"
+
+#: libs/3rdparty.php:347 libs/3rdparty.php:348
+msgid "PayPal payment agreement"
+msgstr "הסכם תשלום PayPal"
+
+#: libs/agent_functions.php:16
+msgid "Hello I'm interested in one of your listings."
+msgstr "שלום, אני מתעניין באחד הרישומים שלך."
+
+#: libs/agent_functions.php:18
+msgid "Hello I'm interested in "
+msgstr "שלום אני מתעניין "
+
+#: libs/agent_functions.php:377 templates/agentdetails.php:87
+#: templates/listing_templates/agent_section/agent_details_2.php:27
+msgid "Member of:"
+msgstr "חבר ב:"
+
+#: libs/agent_functions.php:440 templates/!property_reviews.php:118
+#: templates/agency_reviews.php:124
+#: templates/agency_templates/agency_reviews.php:124
+#: templates/agent_reviews.php:102 templates/developer_reviews.php:105
+#: templates/developer_templates/developer_reviews.php:109
+#: templates/listing_templates/property-page-templates/property_reviews.php:126
+#: templates/listing_templates/property_reviews.php:121
+#: templates/property_page!/property_reviews.php:118
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: libs/ajax_functions.php:19 libs/gallery_functions.php:33
+#: libs/header_filter_functions.php:149 libs/listing_functions.php:878
+#: libs/listing_functions.php:902 templates/property_page_acc_content.php:207
+#: templates/property_page_acc_content.php:221
+#: templates/property_page_tab_content.php:204
+msgid "Map"
+msgstr "מַפָּה"
+
+#: libs/ajax_functions.php:97 libs/ajax_functions.php:209
+#: libs/css_js_include.php:931 libs/css_js_include_bkc.php:917
+#: libs/design_functions.php:2124 templates/featured_property_3.php:34
+#: templates/featured_property_4.php:48
+#: templates/listing_templates/favorite_under_title.php:8
+#: templates/listing_templates/property-page-templates/favorite_under_title.php:8
+#: templates/property_cards_templates/property_card_actions_type_default.php:11
+#: templates/property_cards_templates/property_card_favorite.php:8
+#: templates/property_cards_templates/property_card_favorite_single.php:11
+msgid "add to favorites"
+msgstr "הוסף למועדפים"
+
+#: libs/ajax_functions.php:112 libs/ajax_functions.php:214
+#: libs/css_js_include.php:930 libs/css_js_include_bkc.php:916
+msgid "favorite"
+msgstr "אהוב"
+
+#: libs/ajax_functions.php:183
+msgid "Number of Page Views"
+msgstr "מספר צפיות בדף"
+
+#: libs/ajax_functions.php:246 libs/header_filter_functions.php:169
+#: templates/property_page_acc_content.php:334
+#: templates/property_page_acc_content.php:348
+#: templates/property_page_tab_content.php:325
+msgid "Payment Calculator"
+msgstr "מחשבון תשלומים"
+
+#: libs/ajax_functions.php:265 libs/header_filter_functions.php:174
+#: templates/property_page_acc_content.php:363
+#: templates/property_page_acc_content.php:378
+#: templates/property_page_tab_content.php:75
+#: templates/submit_templates/floor_plans.php:16
+#: templates/submit_templates/property_floor_plans.php:71
+msgid "Floor Plans"
+msgstr "קומה תוכניות"
+
+#: libs/ajax_functions.php:286 libs/header_filter_functions.php:164
+#: templates/property_page_acc_content.php:306
+#: templates/property_page_acc_content.php:320
+#: templates/property_page_tab_content.php:299
+msgid "What's Nearby"
+msgstr "מה נמצא בקרבת מקום"
+
+#: libs/ajax_functions.php:313 libs/header_filter_functions.php:159
+#: templates/property_page_acc_content.php:270
+#: templates/property_page_acc_content.php:287
+#: templates/property_page_tab_content.php:265
+msgid "WalkScore"
+msgstr "ווקסקור"
+
+#: libs/ajax_functions.php:341 libs/dashboard_actions_functions.php:295
+#: libs/gallery_functions.php:47 libs/header_filter_functions.php:154
+#: templates/property_page_acc_content.php:240
+#: templates/property_page_acc_content.php:254
+#: templates/property_page_tab_content.php:236
+#: templates/submit_templates/video_tour.php:29
+msgid "Virtual Tour"
+msgstr "סיור וירטואלי"
+
+#: libs/ajax_functions.php:371 libs/gallery_functions.php:42
+#: libs/header_filter_functions.php:144
+#: templates/property_page_acc_content.php:164
+#: templates/property_page_tab_content.php:161
+msgid "Video"
+msgstr "וִידֵאוֹ"
+
+#: libs/ajax_functions.php:398 libs/header_filter_functions.php:139
+#: templates/property_page_acc_content.php:126
+#: templates/property_page_tab_content.php:62
+#: templates/submit_templates/property_amenities.php:109
+msgid "Amenities and Features"
+msgstr "מפרט טכני ומאפיינים"
+
+#: libs/ajax_functions.php:428 libs/header_filter_functions.php:134
+#: templates/property_page_acc_content.php:92
+#: templates/property_page_tab_content.php:49
+msgid "Property Details"
+msgstr "פרטי נכס"
+
+#: libs/ajax_functions.php:456 libs/dashboard_actions_functions.php:140
+#: libs/header_filter_functions.php:129 libs/help_functions.php:5877
+#: libs/help_functions.php:6111 templates/property_page_acc_content.php:64
+#: templates/property_page_tab_content.php:39
+msgid "Property Address"
+msgstr "כתובת הנכס"
+
+#: libs/ajax_functions.php:487 libs/dashboard_actions_functions.php:16
+#: libs/header_filter_functions.php:108 libs/help_functions.php:5866
+#: libs/megamenu.php:255 templates/property_page_acc_content.php:23
+#: templates/property_page_tab_content.php:26
+#: templates/submit_templates/property_description.php:17
+msgid "Description"
+msgstr "תיאור"
+
+#: libs/ajax_functions.php:710 libs/ajax_functions.php:888
+#: libs/ajax_functions.php:1246 libs/ajax_functions.php:1783
+#: libs/ajax_functions.php:2508 libs/ajax_functions.php:4224
+#: libs/ajax_functions.php:4477 libs/ajax_functions.php:4760
+#: templates/google_maps_base.php:75
+msgid "We didn't find any results"
+msgstr "לא מצאנו תוצאות"
+
+#: libs/ajax_functions.php:1239 templates/agency_unit.php:138
+#: templates/agent_card_templates/agent_unit.php:24
+#: templates/agent_card_templates/agent_unit_4.php:24
+#: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
+msgid "listings"
+msgstr "רישומים"
+
+#: libs/ajax_functions.php:1791 libs/ajax_functions.php:4784
+#: templates/dashboard-templates/user_memebership_profile.php:138
+#: templates/half_map_core.php:178
+msgid "Listings"
+msgstr "רישומים"
+
+#: libs/ajax_functions.php:2273 libs/ajax_functions.php:2387
+#: libs/help_functions.php:5340
+msgid "Hi there,"
+msgstr "שלום שם,"
+
+#: libs/ajax_functions.php:2274
+msgid ""
+"We received your  Wire Transfer payment request on %s ! Please follow the "
+"instructions below in order to start submitting properties as soon as "
+"possible."
+msgstr ""
+"קיבלנו את בקשת התשלום שלך באמצעות העברה בנקאית ב- %s! בצע את ההנחיות הבאות "
+"כדי להתחיל לשלוח נכסים בהקדם האפשרי."
+
+#: libs/ajax_functions.php:2275
+msgid "The invoice number is: "
+msgstr "מספר החשבונית הוא:"
+
+#: libs/ajax_functions.php:2275
+msgid "Amount:"
+msgstr "כמות:"
+
+#: libs/ajax_functions.php:2276
+msgid "Instructions: "
+msgstr "הוראות:"
+
+#: libs/ajax_functions.php:2560
+msgid "you don't have the right to delete this"
+msgstr "אין לך את הזכות למחוק זאת"
+
+#: libs/ajax_functions.php:2618
+msgid ""
+"Search has been saved. You will receive an email notification when new "
+"properties matching your search have been published"
+msgstr ""
+"החיפוש נשמר. תקבל הודעת אימייל כאשר נכסים חדשים התואמים את החיפוש שלך פורסמו"
+
+#: libs/ajax_functions.php:2804
+msgid "Wrong captcha"
+msgstr "טעות בקאפצ'ה"
+
+#: libs/ajax_functions.php:2822
+msgid "Captcha Invalidated - Refresh and try again."
+msgstr "Captcha Invalidated - רענן ונסה שוב."
+
+#: libs/ajax_functions.php:2840 libs/dashboard_actions_functions.php:907
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "שם משתמש לא חוקי (אל תשתמש בתווים או רווחים מיוחדים)!"
+
+#: libs/ajax_functions.php:2848 libs/dashboard_actions_functions.php:911
+#: libs/dashboard_actions_functions.php:937
+msgid "Username and/or Email field is empty!"
+msgstr "שם המשתמש ו / או שדה הדוא&quot;ל ריק!"
+
+#: libs/ajax_functions.php:2856 libs/dashboard_actions_functions.php:952
+msgid "The email doesn't look right !"
+msgstr "הדוא&quot;ל לא נראה בסדר!"
+
+#: libs/ajax_functions.php:2865 libs/dashboard_actions_functions.php:957
+msgid "The email's domain doesn't look right."
+msgstr "הדומיין של האימייל לא נראה כמו שצריך."
+
+#: libs/ajax_functions.php:2875 libs/dashboard_actions_functions.php:916
+msgid "Username already exists.  Please choose a new one."
+msgstr "שם משתמש כבר קיים. בחר אחד חדש."
+
+#: libs/ajax_functions.php:2887 libs/dashboard_actions_functions.php:923
+msgid "One of the password field is empty!"
+msgstr "אחד משדות הסיסמה ריק!"
+
+#: libs/ajax_functions.php:2895 libs/ajax_functions.php:3936
+#: libs/dashboard_actions_functions.php:927
+msgid "Passwords do not match"
+msgstr "סיסמאות לא תואמות"
+
+#: libs/ajax_functions.php:2918
+msgid "Your account was created and you can login now!"
+msgstr "החשבון שלך נוצר ואתה יכול להתחבר עכשיו!"
+
+#: libs/ajax_functions.php:2923
+msgid "An email with the generated password was sent!"
+msgstr "הודעת דוא&quot;ל עם הסיסמה שנוצרה נשלחה!"
+
+#: libs/ajax_functions.php:2940 libs/dashboard_actions_functions.php:931
+#: libs/dashboard_actions_functions.php:941
+msgid "Email already exists.  Please choose a new one."
+msgstr "האימייל כבר קיים. בחר אחד חדש."
+
+#: libs/ajax_functions.php:2961 libs/dashboard_actions_functions.php:635
+#: libs/header_filter_functions.php:189 single-estate_property-obsolete.php:218
+#: single-estate_property-obsolete.php:223
+#: templates/dashboard-templates/user_memebership_profile.php:73
+#: templates/property_cards_templates/property_card_agent_details.php:19
+msgid "Agent"
+msgstr "סוֹכֵן"
+
+#: libs/ajax_functions.php:2965
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Agency"
+msgstr "סוֹכְנוּת"
+
+#: libs/ajax_functions.php:2969
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Developer"
+msgstr "מפתח"
+
+#: libs/ajax_functions.php:3023 libs/ajax_functions.php:3078
+#: libs/ajax_functions.php:3135
+msgid "You are already logged in! redirecting..."
+msgstr "אתה כבר מחובר! מפנה מחדש ..."
+
+#: libs/ajax_functions.php:3033 libs/ajax_functions.php:3089
+#: libs/ajax_functions.php:3146
+msgid "Username and/or Password field is empty!"
+msgstr "שם המשתמש ו / או שדה הסיסמה ריקים!"
+
+#: libs/ajax_functions.php:3053 libs/ajax_functions.php:3110
+#: libs/ajax_functions.php:3158
+msgid "Wrong username or password!"
+msgstr "שם משתמש או סיסמא אינם נכונים!"
+
+#: libs/ajax_functions.php:3059 libs/ajax_functions.php:3116
+#: libs/ajax_functions.php:3166
+msgid "Login successful, redirecting..."
+msgstr "התחבר בהצלחה, מפנה מחדש ..."
+
+#: libs/ajax_functions.php:3195
+msgid "Email field is empty!"
+msgstr "שדה האימייל ריק!"
+
+#: libs/ajax_functions.php:3204
+msgid "Invalid E-mail address!"
+msgstr "כתובת דואר אלקטרוני לא חוקית!"
+
+#: libs/ajax_functions.php:3212
+msgid "Invalid Username!"
+msgstr "שם משתמש לא חוקי!"
+
+#: libs/ajax_functions.php:3234
+msgid "We have just sent you an email with Password reset instructions."
+msgstr "כרגע שלחנו אליך הודעת אימייל עם הוראות לאיפוס סיסמה."
+
+#: libs/ajax_functions.php:3365 libs/ajax_functions.php:3555
+#: libs/ajax_functions.php:3736
+msgid "The email was not saved because it is used by another user."
+msgstr "הדוא&quot;ל לא נשמר מפני שהוא משתמש בו על ידי משתמש אחר."
+
+#: libs/ajax_functions.php:3380 libs/ajax_functions.php:3570
+#: libs/ajax_functions.php:3751
+msgid "Profile updated"
+msgstr "הפרופיל עודכן"
+
+#: libs/ajax_functions.php:3931
+msgid "The new password is blank"
+msgstr "הסיסמה החדשה ריקה"
+
+#: libs/ajax_functions.php:3944
+msgid "Password Updated"
+msgstr "הסיסמה עודכנה"
+
+#: libs/ajax_functions.php:3946
+msgid "Old Password is not correct"
+msgstr "הסיסמה הישנה אינה נכונה"
+
+#: libs/ajax_functions.php:3987 libs/ajax_functions.php:3993
+msgid "addded"
+msgstr "נוסף"
+
+#: libs/ajax_functions.php:4000
+msgid "removed"
+msgstr "הוסר"
+
+#: libs/ajax_functions.php:4923
+msgid "Listing payment on "
+msgstr "רישום תשלום ב"
+
+#: libs/ajax_functions.php:4935
+msgid "Upgrade to featured listing on "
+msgstr "שדרג לרישום מוצג ב-"
+
+#: libs/ajax_functions.php:5022
+msgid "Upgrade to Featured Listing"
+msgstr "שדרג לרישום מוצלח"
+
+#: libs/ajax_functions.php:5031
+msgid "Listing Payment"
+msgstr "רישום תשלום"
+
+#: libs/ajax_functions.php:5041
+msgid "Listing Payment with Featured option"
+msgstr "רישום תשלום עם אפשרות מוצגת"
+
+#: libs/ajax_functions.php:5154
+msgid "Sent for approval"
+msgstr "נשלח לאישור"
+
+#: libs/ajax_functions.php:5166
+msgid "no listings available"
+msgstr "אין רישומים זמינים"
+
+#: libs/ajax_functions.php:5195
+msgid "The date & time is already booked. Please choose a new one"
+msgstr "התאריך והשעה כבר הוזמנו. בחר אחד חדש"
+
+#: libs/ajax_functions.php:5284
+msgid "membership payment on "
+msgstr "תשלום חברות ב"
+
+#: libs/ajax_functions.php:5291 libs/ajax_functions.php:5294
+msgid "Membership Payment"
+msgstr "תשלום חברות"
+
+#: libs/ajax_functions.php:5356
+msgid "Unable to login. Please, check login/password and try again"
+msgstr "לא מצליח להתחבר. אנא, בדוק כניסה / סיסמה ונסה שוב"
+
+#: libs/ajax_functions.php:5364
+msgid "Please, enter correct email"
+msgstr "אנא, הזן דוא&quot;ל נכון"
+
+#: libs/ajax_functions.php:5378
+msgid "Can\\t create user with this credentials"
+msgstr "לא ניתן ליצור משתמש עם אישורים אלה"
+
+#: libs/ajax_functions.php:5382
+msgid "Sorry, user already exists. Try different username/email"
+msgstr "מצטערים, המשתמש כבר קיים. נסה שם משתמש / דוא&quot;ל אחר"
+
+#: libs/contact_functions.php:35 templates/agent_contact.php:61
+#: templates/email_templates/schedule_tour_email_template.php:39
+msgid "Day"
+msgstr "יְוֹם"
+
+#: libs/contact_functions.php:38 templates/agent_contact.php:65
+msgid "Time"
+msgstr "זְמַן"
+
+#: libs/contact_functions.php:80 libs/contact_functions.php:92
+#: templates/agent_contact.php:31 templates/agent_contact.php:47
+#: templates/footer_buttons.php:21 templates/header_agency.php:114
+#: templates/header_developer.php:77
+msgid "Contact Us"
+msgstr "תיצור איתנו קשר"
+
+#: libs/contact_functions.php:82 templates/agent_contact.php:33
+#: templates/listing_templates/agent_section/agent_details_2.php:71
+msgid "Contact Me"
+msgstr "צור איתי קשר"
+
+#: libs/contact_functions.php:86 templates/agent_contact.php:40
+msgid "Schedule a showing?"
+msgstr "לתזמן הופעה?"
+
+#: libs/contact_functions.php:120
+msgid "I consent to the"
+msgstr "אני מסכים ל"
+
+#: libs/css_js_include.php:271 libs/css_js_include_bkc.php:263
+msgid "payment failed"
+msgstr "התשלום נכשל"
+
+#: libs/css_js_include.php:590
+msgid " in "
+msgstr " ב"
+
+#: libs/css_js_include.php:597
+msgid "The browser couldn't detect your position!"
+msgstr "הדפדפן לא הצליח לזהות את המיקום שלך!"
+
+#: libs/css_js_include.php:598
+msgid "Geolocation is not supported by this browser."
+msgstr "Geolocation אינו נתמך על ידי דפדפן זה."
+
+#: libs/css_js_include.php:599
+msgid "m radius"
+msgstr "מ &#39;רדיוס"
+
+#: libs/css_js_include.php:606 libs/css_js_include.php:830
+#: libs/css_js_include_bkc.php:826
+msgid "close map"
+msgstr "סגור מפה"
+
+#: libs/css_js_include.php:617
+msgid "No results found!"
+msgstr "לא נמצאו תוצאות!"
+
+#: libs/css_js_include.php:623
+msgid "loading results..."
+msgstr "טוען תוצאות ..."
+
+#: libs/css_js_include.php:630 libs/theme-slider.php:454
+#: templates/featured_property_5.php:32
+#: templates/property_cards_templates/property_card_details_type5.php:14
+#: templates/property_cards_templates/property_unit_saved_search.php:29
+msgid "BA"
+msgstr "BA"
+
+#: libs/css_js_include.php:631 libs/theme-slider.php:450
+#: templates/featured_property_5.php:28
+#: templates/property_cards_templates/property_card_details_type5.php:10
+#: templates/property_cards_templates/property_unit_saved_search.php:26
+msgid "BD"
+msgstr "‫BD"
+
+#: libs/css_js_include.php:700 libs/css_js_include.php:1204
+#: libs/css_js_include_bkc.php:1190
+msgid "Geolocation was not successful"
+msgstr "מיקום גיאוגרפי לא הצליח"
+
+#: libs/css_js_include.php:758 libs/css_js_include_bkc.php:751
+#: libs/help_functions.php:6023 libs/help_functions.php:6031
+msgid "Principal and Interest"
+msgstr "מנהל ועניין"
+
+#: libs/css_js_include.php:759 libs/css_js_include_bkc.php:752
+msgid "HOO fees"
+msgstr "עמלות HOO"
+
+#: libs/css_js_include.php:760 libs/css_js_include_bkc.php:753
+#: libs/help_functions.php:6024 libs/help_functions.php:6032
+msgid "Property Tax"
+msgstr "מס רכוש"
+
+#: libs/css_js_include.php:761 libs/css_js_include.php:951
+#: libs/css_js_include_bkc.php:754 libs/css_js_include_bkc.php:937
+msgid "Property Views"
+msgstr "מספר צפיות בנכס"
+
+#: libs/css_js_include.php:788 libs/css_js_include_bkc.php:781
+#: libs/help_functions.php:2447
+msgid "miles"
+msgstr "stomach"
+
+#: libs/css_js_include.php:789 libs/css_js_include_bkc.php:782
+#: libs/help_functions.php:2450
+msgid "km"
+msgstr "ק&quot;מ"
+
+#: libs/css_js_include.php:804 libs/css_js_include_bkc.php:797
+msgid "Amount Financed:"
+msgstr "סכום ממומן:"
+
+#: libs/css_js_include.php:805 libs/css_js_include_bkc.php:798
+msgid "Mortgage Payments:"
+msgstr "תשלומים למשכנתא:"
+
+#: libs/css_js_include.php:806 libs/css_js_include_bkc.php:799
+msgid "Annual cost of Loan:"
+msgstr "עלות שנתית של הלוואה:"
+
+#: libs/css_js_include.php:807 libs/css_js_include_bkc.php:800
+msgid "SEARCH"
+msgstr "לחפש"
+
+#: libs/css_js_include.php:808 libs/css_js_include_bkc.php:801
+msgid "Search here..."
+msgstr "חפש כאן ..."
+
+#: libs/css_js_include.php:814 libs/css_js_include.php:818
+#: libs/css_js_include.php:912 libs/css_js_include.php:916
+#: libs/css_js_include_bkc.php:807 libs/css_js_include_bkc.php:814
+#: libs/css_js_include_bkc.php:898 libs/css_js_include_bkc.php:902
+#: templates/agent_contact.php:84 templates/footer_buttons.php:28
+#: templates/listing_templates/contact_form/contact_form_simple.php:16
+#: templates/property_page!/contact_form/contact_form_simple.php:3
+msgid "Your Name"
+msgstr "השם שלך"
+
+#: libs/css_js_include.php:815 libs/css_js_include.php:819
+#: libs/css_js_include.php:913 libs/css_js_include.php:917
+#: libs/css_js_include_bkc.php:808 libs/css_js_include_bkc.php:815
+#: libs/css_js_include_bkc.php:899 libs/css_js_include_bkc.php:903
+#: templates/agent_contact.php:86 templates/footer_buttons.php:29
+#: templates/listing_templates/contact_form/contact_form_simple.php:17
+#: templates/property_page!/contact_form/contact_form_simple.php:4
+msgid "Your Email"
+msgstr "האימייל שלך"
+
+#: libs/css_js_include.php:816 libs/css_js_include.php:820
+#: libs/css_js_include.php:914 libs/css_js_include.php:918
+#: libs/css_js_include_bkc.php:809 libs/css_js_include_bkc.php:816
+#: libs/css_js_include_bkc.php:900 libs/css_js_include_bkc.php:904
+#: templates/agent_contact.php:87 templates/footer_buttons.php:30
+#: templates/listing_templates/contact_form/contact_form_simple.php:18
+#: templates/property_page!/contact_form/contact_form_simple.php:5
+msgid "Your Phone"
+msgstr "הטלפון שלך"
+
+#: libs/css_js_include.php:817 libs/css_js_include.php:821
+#: libs/css_js_include.php:915 libs/css_js_include.php:919
+#: libs/css_js_include_bkc.php:810 libs/css_js_include_bkc.php:817
+#: libs/css_js_include_bkc.php:901 libs/css_js_include_bkc.php:905
+msgid "Your Message"
+msgstr "ההודעה שלך"
+
+#: libs/css_js_include.php:822 libs/css_js_include.php:920
+#: libs/css_js_include_bkc.php:818 libs/css_js_include_bkc.php:906
+msgid "Send Message"
+msgstr "לשלוח הודעה"
+
+#: libs/css_js_include.php:825 libs/css_js_include.php:926
+#: libs/css_js_include_bkc.php:821 libs/css_js_include_bkc.php:912
+msgid "Sending user info, please wait..."
+msgstr "שולח פרטי משתמש, המתן ..."
+
+#: libs/css_js_include.php:826 libs/css_js_include_bkc.php:822
+#: libs/gallery_functions.php:37 libs/listing_functions.php:883
+#: libs/listing_functions.php:906 templates/google_maps_base.php:125
+msgid "Street View"
+msgstr "תצוגת רחוב"
+
+#: libs/css_js_include.php:827 libs/css_js_include_bkc.php:823
+msgid "Close Street View"
+msgstr "סגור את Street View"
+
+#: libs/css_js_include.php:831 libs/css_js_include_bkc.php:827
+#: templates/google_maps_base.php:84 templates/google_maps_base.php:88
+msgid "open map"
+msgstr "מפה פתוחה"
+
+#: libs/css_js_include.php:832 libs/css_js_include_bkc.php:828
+#: templates/google_maps_base.php:99 templates/google_maps_base_map_list.php:12
+msgid "Fullscreen"
+msgstr "מסך מלא"
+
+#: libs/css_js_include.php:833 libs/css_js_include_bkc.php:829
+#: libs/help_functions_cards.php:152
+msgid "Default"
+msgstr "בְּרִירַת מֶחדָל"
+
+#: libs/css_js_include.php:834 libs/css_js_include_bkc.php:830
+msgid "Please wait while we are processing your submission!"
+msgstr "המתן בזמן שאנו מעבדים את ההגשה שלך!"
+
+#: libs/css_js_include.php:835 libs/css_js_include_bkc.php:831
+msgid "Are you sure you wish to delete?"
+msgstr "האם אתה בטוח שברצונך למחוק?"
+
+#: libs/css_js_include.php:836 libs/css_js_include_bkc.php:832
+msgid "You need to agree with terms and conditions !"
+msgstr "אתה צריך להסכים עם התנאים וההגבלות!"
+
+#: libs/css_js_include.php:837 libs/css_js_include_bkc.php:833
+msgid "Please select the user type !"
+msgstr "אנא בחר את סוג המשתמש!"
+
+#: libs/css_js_include.php:838 libs/css_js_include_bkc.php:834
+msgid "Processing..."
+msgstr "מעבד..."
+
+#: libs/css_js_include.php:844 libs/css_js_include_bkc.php:840
+#: libs/general-settings.php:48 libs/general-settings.php:50
+#: libs/general-settings.php:59 libs/general-settings.php:61
+#: libs/general-settings.php:94 libs/general-settings.php:99
+#: libs/general-settings.php:110 libs/general-settings.php:114
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2512
+#: libs/searchfunctions.php:2544 templates/directory_filters.php:191
+#: templates/directory_filters.php:208 templates/directory_filters.php:227
+#: templates/directory_filters.php:246 templates/directory_filters.php:265
+msgid "to"
+msgstr "ל"
+
+#: libs/css_js_include.php:846 libs/css_js_include_bkc.php:842
+msgid "Send me the invoice"
+msgstr "שלח לי את החשבונית"
+
+#: libs/css_js_include.php:847 libs/css_js_include_bkc.php:843
+msgid "Direct payment instructions"
+msgstr "הוראות תשלום ישיר"
+
+#: libs/css_js_include.php:848 libs/css_js_include_bkc.php:844
+msgid "To be paid"
+msgstr "שישולם"
+
+#: libs/css_js_include.php:850 libs/css_js_include.php:1123
+#: libs/css_js_include_bkc.php:846 libs/css_js_include_bkc.php:1109
+#: libs/dashboard_functions.php:1308
+#: templates/submit_templates/floor_plans.php:24
+#: templates/submit_templates/floor_plans.php:131
+#: templates/submit_templates/property_floor_plans.php:139
+msgid "Plan Title"
+msgstr "כותרת תוכנית"
+
+#: libs/css_js_include.php:851 libs/css_js_include.php:1124
+#: libs/css_js_include_bkc.php:847 libs/css_js_include_bkc.php:1110
+#: templates/submit_templates/floor_plans.php:54
+#: templates/submit_templates/floor_plans.php:141
+msgid "Plan Image"
+msgstr "תמונה תוכנית"
+
+#: libs/css_js_include.php:852 libs/css_js_include.php:1125
+#: libs/css_js_include_bkc.php:848 libs/css_js_include_bkc.php:1111
+#: libs/dashboard_functions.php:1311
+#: templates/submit_templates/floor_plans.php:29
+#: templates/submit_templates/floor_plans.php:136
+#: templates/submit_templates/property_floor_plans.php:145
+msgid "Plan Description"
+msgstr "תיאור התוכנית"
+
+#: libs/css_js_include.php:853 libs/css_js_include_bkc.php:849
+#: libs/css_js_include_bkc.php:1112 libs/dashboard_functions.php:1312
+#: templates/submit_templates/floor_plans.php:34
+#: templates/submit_templates/floor_plans.php:147
+#: templates/submit_templates/property_floor_plans.php:150
+msgid "Plan Size"
+msgstr "גודל תוכנית"
+
+#: libs/css_js_include.php:854 libs/css_js_include.php:1127
+#: libs/css_js_include_bkc.php:850 libs/css_js_include_bkc.php:1113
+#: libs/dashboard_functions.php:1313
+#: templates/submit_templates/floor_plans.php:39
+#: templates/submit_templates/floor_plans.php:152
+#: templates/submit_templates/property_floor_plans.php:155
+msgid "Plan Rooms"
+msgstr "חדרים מתוכננים"
+
+#: libs/css_js_include.php:855 libs/css_js_include.php:1128
+#: libs/css_js_include_bkc.php:851 libs/css_js_include_bkc.php:1114
+#: libs/dashboard_functions.php:1314
+#: templates/submit_templates/floor_plans.php:44
+#: templates/submit_templates/floor_plans.php:157
+#: templates/submit_templates/property_floor_plans.php:160
+msgid "Plan Bathrooms"
+msgstr "אמבטיות תכנון"
+
+#: libs/css_js_include.php:856 libs/css_js_include.php:1129
+#: libs/css_js_include_bkc.php:852 libs/css_js_include_bkc.php:1115
+#: templates/submit_templates/floor_plans.php:49
+#: templates/submit_templates/floor_plans.php:162
+msgid "Plan Price"
+msgstr "מחיר התכנית"
+
+#: libs/css_js_include.php:859 libs/css_js_include_bkc.php:855
+msgid "deleting..."
+msgstr "מוחק ..."
+
+#: libs/css_js_include.php:860 libs/css_js_include_bkc.php:856
+msgid "saving..."
+msgstr "חִסָכוֹן..."
+
+#: libs/css_js_include.php:870 libs/css_js_include_bkc.php:866
+msgid "posting"
+msgstr "הַצָבָה"
+
+#: libs/css_js_include.php:871 libs/css_js_include_bkc.php:867
+msgid "Review Sent "
+msgstr "שלח ביקורת"
+
+#: libs/css_js_include.php:872 libs/css_js_include_bkc.php:868
+msgid "Review Edit Saved"
+msgstr "סקירה ערוך שמור"
+
+#: libs/css_js_include.php:875 libs/css_js_include_bkc.php:871
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:93
+msgid "Pay"
+msgstr "שלם"
+
+#: libs/css_js_include.php:876 libs/css_js_include_bkc.php:872
+msgid "Payment for package"
+msgstr "תשלום עבור חבילה"
+
+#: libs/css_js_include.php:882 libs/css_js_include_bkc.php:878
+msgid "there are no results"
+msgstr "אין תוצאות"
+
+#: libs/css_js_include.php:887
+msgid "Please wait while we gather data!"
+msgstr "אנא המתן בזמן שאנו אוספים נתונים!"
+
+#: libs/css_js_include.php:888
+msgid "Please complete the form!"
+msgstr "נא למלא את הטופס!"
+
+#: libs/css_js_include.php:889 libs/elementor_help_files2.php:620
+msgid "bd"
+msgstr "bd"
+
+#: libs/css_js_include.php:890 libs/elementor_help_files2.php:620
+msgid "ba"
+msgstr "ba"
+
+#: libs/css_js_include.php:921 libs/css_js_include_bkc.php:907
+#: libs/dashboard_functions.php:1301 libs/dashboard_functions.php:1473
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:13
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:11
+msgid "Disabled"
+msgstr "נָכֶה"
+
+#: libs/css_js_include.php:922 libs/css_js_include_bkc.php:908
+#: libs/dashboard_functions.php:1302 libs/dashboard_functions.php:1469
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:9
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:8
+msgid "Published"
+msgstr "יצא לאור"
+
+#: libs/css_js_include.php:923 libs/css_js_include.php:937
+#: libs/css_js_include_bkc.php:909 libs/css_js_include_bkc.php:923
+msgid "Please, enter property title"
+msgstr "אנא, הזן את שם הנכס"
+
+#: libs/css_js_include.php:928 libs/css_js_include_bkc.php:914
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:47
+msgid "Property is featured"
+msgstr "הנכס מוצג"
+
+#: libs/css_js_include.php:929 libs/css_js_include_bkc.php:915
+msgid "You have used all the \"Featured\" listings in your package."
+msgstr "השתמשת בכל הרישומים &quot;מוצעים&quot; בחבילה שלך."
+
+#: libs/css_js_include.php:932 libs/css_js_include_bkc.php:918
+#: libs/design_functions.php:2130 templates/featured_property_3.php:38
+#: templates/featured_property_4.php:52
+#: templates/listing_templates/favorite_under_title.php:13
+#: templates/listing_templates/property-page-templates/favorite_under_title.php:13
+#: templates/property_cards_templates/property_card_actions_type_default.php:15
+#: templates/property_cards_templates/property_card_favorite.php:13
+#: templates/property_cards_templates/property_card_favorite_single.php:15
+msgid "remove from favorites"
+msgstr "הסר מהמועדפים"
+
+#: libs/css_js_include.php:933 libs/css_js_include_bkc.php:919
+msgid "saving.."
+msgstr "חִסָכוֹן.."
+
+#: libs/css_js_include.php:934 libs/css_js_include_bkc.php:920
+msgid "sending message.."
+msgstr "לשלוח הודעה.."
+
+#: libs/css_js_include.php:935 libs/css_js_include_bkc.php:921
+msgid "Please, enter field:"
+msgstr "אנא, הזן שדה:"
+
+#: libs/css_js_include.php:936 libs/css_js_include_bkc.php:922
+msgid "You need to upload at last one image"
+msgstr "עליך להעלות תמונה אחת אחרונה"
+
+#: libs/css_js_include.php:938 libs/css_js_include_bkc.php:924
+msgid "Connecting to Paypal! Please wait..."
+msgstr "התחברות ל- Paypal! המתן בבקשה..."
+
+#: libs/css_js_include.php:939 libs/css_js_include_bkc.php:925
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "subscription will be cancelled at the end of current period"
+msgstr "המנוי יבוטל בסוף התקופה השוטפת"
+
+#: libs/css_js_include.php:941 libs/css_js_include_bkc.php:927
+#: libs/dashboard_functions.php:1303
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:102
+msgid "Disable Listing"
+msgstr "השבת את הרישום"
+
+#: libs/css_js_include.php:942 libs/css_js_include_bkc.php:928
+#: libs/dashboard_functions.php:1304
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:106
+msgid "Enable Listing"
+msgstr "הפעל רישום"
+
+#: libs/css_js_include.php:943 libs/css_js_include_bkc.php:929
+#: libs/dashboard_functions.php:1305
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
+msgid "Disable Agent"
+msgstr "השבת את הסוכן"
+
+#: libs/css_js_include.php:944 libs/css_js_include_bkc.php:930
+#: libs/dashboard_functions.php:1306
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
+msgid "Enable Agent"
+msgstr "הפעל את הסוכן"
+
+#: libs/css_js_include.php:947 libs/css_js_include_bkc.php:933
+msgid "You must agree with GDPR terms"
+msgstr "עליך להסכים לתנאי GDPR"
+
+#: libs/css_js_include.php:948 libs/css_js_include_bkc.php:934
+msgid ""
+"Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
+"your account and data. This means you will no longer be able to login to "
+"your account and access your account information: My Profile, My Properties, "
+"Inbox, Saved Searches and Messages. This operation CAN NOT BE REVERSED!"
+msgstr ""
+"אשר את בקשתך לחשבון DELETION! לחיצה על הלחצן למטה תמחק את החשבון והנתונים "
+"שלך. משמעות הדבר היא שלא תוכל עוד להיכנס לחשבון שלך ולגשת לפרטי החשבון שלך: "
+"הפרופיל שלי, המאפיינים שלי, תיבת דואר נכנס, חיפושים שמורים והודעות. פעולה זו "
+"לא ניתן לשנות!"
+
+#: libs/css_js_include.php:952 libs/css_js_include_bkc.php:938
+#: libs/theme-slider.php:29 templates/property_details_modal.php:28
+msgid "Contact Agent"
+msgstr "צור קשר עם הסוכן"
+
+#: libs/css_js_include.php:962 libs/css_js_include_bkc.php:948
+msgid "Thank you. Please check your email for payment instructions."
+msgstr "תודה. בדוק את האימייל שלך לקבלת הוראות תשלום."
+
+#: libs/css_js_include.php:963 libs/css_js_include_bkc.php:949
+msgid "Sending"
+msgstr "שְׁלִיחָה"
+
+#: libs/css_js_include.php:987 libs/css_js_include_bkc.php:973
+msgid "No More Listings"
+msgstr "אין עוד רישומים"
+
+#: libs/css_js_include.php:1046 libs/css_js_include_bkc.php:1032
+msgid "Allowed Files"
+msgstr "קבצים מותרים"
+
+#: libs/css_js_include.php:1061 libs/css_js_include_bkc.php:1047
+msgid "Image needs to be at least 500px height  x 500px wide!"
+msgstr "התמונה צריכה להיות בגובה של 500 פיקסלים לפחות ברוחב 500px!"
+
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
+msgid "You cannot upload more than"
+msgstr "לא ניתן להעלות יותר מ"
+
+#: libs/css_js_include.php:1065 libs/css_js_include_bkc.php:1051
+msgid "images"
+msgstr "תמונות"
+
+#: libs/css_js_include.php:1066 libs/css_js_include_bkc.php:1052
+msgid "Are you sure you want to delete this?"
+msgstr "האם אתה בטוח שברצונך למחוק זאת?"
+
+#: libs/css_js_include.php:1126
+msgid "Plan Size(*only numbers)"
+msgstr "גודל תוכנית (*רק מספרים)"
+
+#: libs/css_js_include.php:1220 libs/css_js_include_bkc.php:1206
+msgid "Warning !"
+msgstr "אזהרה!"
+
+#: libs/css_js_include.php:1223
+msgid ""
+" Are you sure you want to delete this image? It will be removed from "
+"property gallery and WordPress media gallery."
+msgstr ""
+" האם אתה בטוח שברצונך למחוק את התמונה הזו? הוא יוסר מגלריית הנכסים ומגלריית "
+"המדיה של וורדפרס."
+
+#: libs/css_js_include_bkc.php:811
+msgid "Your Address"
+msgstr "הכתובת שלך"
+
+#: libs/css_js_include_bkc.php:812
+msgid "Your City"
+msgstr "העיר שלך"
+
+#: libs/css_js_include_bkc.php:813
+msgid "Your State Code (ex CA)"
+msgstr "קוד המדינה שלך (לדוגמה, CA)"
+
+#: libs/css_js_include_bkc.php:1209
+msgid ""
+"Are you sure you want to delete this image?It will be removed from property "
+"gallery but not from media gallery."
+msgstr ""
+"האם אתה בטוח שברצונך למחוק תמונה זו? היא תוסר מגלריית הנכסים אך לא מגלריית "
+"המדיה."
+
+#: libs/dashboard_actions_functions.php:7
+#: templates/submit_templates/property_description.php:11
+msgid "*Title (mandatory)"
+msgstr "* כותרת (חובה)"
+
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:72
+#: templates/submit_templates/property_floor_plans.php:165
+msgid "Price in "
+msgstr "מחיר ב-"
+
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:72
+#: templates/submit_templates/property_description.php:99
+msgid "(only numbers)"
+msgstr "(מספרים בלבד)"
+
+#: libs/dashboard_actions_functions.php:34 libs/help_functions.php:6104
+#: templates/submit_templates/property_description.php:131
+msgid "Yearly Tax Rate"
+msgstr "שיעור מס שנתי"
+
+#: libs/dashboard_actions_functions.php:42
+#: templates/submit_templates/property_description.php:139
+msgid "Homeowners Association Fee(monthly)"
+msgstr "עמלת התאחדות בעלי בתים (חודשית)"
+
+#: libs/dashboard_actions_functions.php:50
+#: templates/submit_templates/property_description.php:80
+msgid "After Price Label (ex: \"/month\")"
+msgstr "לאחר תווית מחיר (לדוגמה: &quot;חודש&quot;)"
+
+#: libs/dashboard_actions_functions.php:58
+#: templates/submit_templates/property_description.php:88
+msgid "Before Price Label (ex: \"from \")"
+msgstr "לפני תווית מחיר (לדוגמה: &quot;מ&quot;)"
+
+#: libs/dashboard_actions_functions.php:66 libs/help_functions.php:5871
+msgid "Additional Price Info"
+msgstr "מידע נוסף על המחיר"
+
+#: libs/dashboard_actions_functions.php:75
+msgid " After Label for Additional Price info "
+msgstr " לאחר תווית לקבלת מידע נוסף על מחיר"
+
+#: libs/dashboard_actions_functions.php:83 libs/help_functions.php:5873
+msgid "Before Label for Additional Price Info"
+msgstr "לפני תווית לקבלת מידע נוסף על מחיר"
+
+#: libs/dashboard_actions_functions.php:92
+msgid "Select Categorie"
+msgstr "בחר קטגוריות"
+
+#: libs/dashboard_actions_functions.php:101
+msgid "Listed In"
+msgstr "פורסם ב"
+
+#: libs/dashboard_actions_functions.php:149 libs/help_functions.php:5880
+#: libs/help_functions.php:6112
+msgid "Property Zip"
+msgstr "נכס מיקוד"
+
+#: libs/dashboard_actions_functions.php:157 libs/listing_functions.php:1581
+#: libs/listing_functions.php:1626 word_remove.php:77
+msgid "Country"
+msgstr "מדינה"
+
+#: libs/dashboard_actions_functions.php:182 libs/help_functions.php:6116
+msgid "Greenhouse gas emissions kgCO2/m2a"
+msgstr "פליטת גזי חממה kgCO2/m2a"
+
+#: libs/dashboard_actions_functions.php:190
+#: templates/submit_templates/property_energy_effective.php:58
+msgid "Greenhouse gas emissions index class"
+msgstr "דרגת מדד פליטת גזי חממה"
+
+#: libs/dashboard_actions_functions.php:198 libs/help_functions.php:5904
+#: libs/listing_functions.php:1944
+#: templates/submit_templates/property_energy_effective.php:83
+msgid "Renewable energy performance index"
+msgstr "מדד ביצועי אנרגיה מתחדשת"
+
+#: libs/dashboard_actions_functions.php:206 libs/help_functions.php:5905
+#: libs/help_functions.php:6119 libs/listing_functions.php:1945
+#: templates/submit_templates/property_energy_effective.php:84
+msgid "Energy performance of the building"
+msgstr "ביצועים אנרגטיים של הבניין"
+
+#: libs/dashboard_actions_functions.php:214 libs/help_functions.php:5906
+#: libs/help_functions.php:6120 libs/listing_functions.php:1946
+#: templates/submit_templates/property_energy_effective.php:85
+msgid "EPC current rating"
+msgstr "דירוג EPC הנוכחי"
+
+#: libs/dashboard_actions_functions.php:222 libs/help_functions.php:5907
+#: libs/listing_functions.php:1947
+#: templates/submit_templates/property_energy_effective.php:86
+msgid "EPC Potential Rating"
+msgstr "דירוג פוטנציאל EPC"
+
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:34
+#: libs/help_functions.php:6106 libs/listing_functions.php:1789
+#: templates/property_cards_templates/property_card_details_type3.php:48
+#: templates/property_cards_templates/property_card_details_type7.php:48
+msgid "Property Size"
+msgstr "גודל הנכס"
+
+#: libs/dashboard_actions_functions.php:239 libs/help_functions.php:5894
+msgid "Owner Notes"
+msgstr "הערות בעלים"
+
+#: libs/dashboard_actions_functions.php:247 libs/help_functions.php:39
+#: libs/help_functions.php:5890 libs/help_functions.php:6107
+#: libs/listing_functions.php:1792
+msgid "Property Lot Size"
+msgstr "שטח מגרש לוט"
+
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5891
+#: libs/help_functions.php:6108
+msgid "Property Rooms"
+msgstr "חדרים"
+
+#: libs/dashboard_actions_functions.php:263 libs/help_functions.php:5892
+#: libs/help_functions.php:6109
+msgid "Property Bedrooms"
+msgstr "נכס חדרי שינה"
+
+#: libs/dashboard_actions_functions.php:271 libs/help_functions.php:5893
+#: libs/help_functions.php:6110
+msgid "Property Bathrooms"
+msgstr "חדרי אמבטיה"
+
+#: libs/dashboard_actions_functions.php:279
+#: libs/dashboard_actions_functions.php:287
+msgid "Video Type"
+msgstr "סוג וידאו"
+
+#: libs/dashboard_actions_functions.php:303 libs/help_functions.php:5884
+msgid "Property Latitude"
+msgstr "מאפיינים Latitude"
+
+#: libs/dashboard_actions_functions.php:311
+msgid "Property Longitudine"
+msgstr "מאפיין לונגיטודין"
+
+#: libs/dashboard_actions_functions.php:319
+msgid "Google View"
+msgstr "גוגל ויו"
+
+#: libs/dashboard_actions_functions.php:327 libs/help_functions.php:5888
+#: templates/submit_templates/property_location.php:314
+msgid "Hide Map Marker"
+msgstr "הסתר את סמן המפה"
+
+#: libs/dashboard_actions_functions.php:336 libs/help_functions.php:5886
+msgid "Google Camera Angle"
+msgstr "זווית מצלמה של Google"
+
+#: libs/dashboard_actions_functions.php:345
+msgid "Property subunits list"
+msgstr "רשימת יחידות משנה של מאפיינים"
+
+#: libs/dashboard_actions_functions.php:353
+msgid "Property has subunits"
+msgstr "למאפיין יש יחידות משנה"
+
+#: libs/dashboard_actions_functions.php:547
+msgid "from date"
+msgstr "מתאריך"
+
+#: libs/dashboard_actions_functions.php:548
+msgid "to date"
+msgstr "עד כה"
+
+#: libs/dashboard_actions_functions.php:553
+#: libs/dashboard_actions_functions.php:562
+msgid "Any"
+msgstr "כל"
+
+#: libs/dashboard_actions_functions.php:554 libs/help_functions.php:5378
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:90
+#: templates/dashboard-templates/invoice_listing_unit.php:24
+msgid "Upgrade to Featured"
+msgstr "שדרג ל&#39;מוצגות &#39;"
+
+#: libs/dashboard_actions_functions.php:555
+#: templates/dashboard-templates/invoice_listing_unit.php:28
+msgid "Package"
+msgstr "חֲבִילָה"
+
+#: libs/dashboard_actions_functions.php:556
+#: templates/dashboard-templates/invoice_listing_unit.php:22
+msgid "Listing"
+msgstr "מודעה"
+
+#: libs/dashboard_actions_functions.php:563
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:23
+#: templates/dashboard-templates/invoice_listing_unit.php:52
+msgid "Paid"
+msgstr "בתשלום"
+
+#: libs/dashboard_actions_functions.php:564
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:25
+#: templates/dashboard-templates/invoice_listing_unit.php:50
+msgid "Not Paid"
+msgstr "לא בתשלום"
+
+#: libs/dashboard_actions_functions.php:569
+msgid "Total Invoices: "
+msgstr "סה&quot;כ חשבוניות:"
+
+#: libs/dashboard_actions_functions.php:576
+msgid "Title"
+msgstr "כותרת"
+
+#: libs/dashboard_actions_functions.php:578
+msgid "Invoice Type"
+msgstr "סוג חשבונית"
+
+#: libs/dashboard_actions_functions.php:579
+msgid "Billing Type"
+msgstr "סוג חיוב"
+
+#: libs/dashboard_actions_functions.php:581
+#: libs/dashboard_actions_functions.php:759
+#: libs/dashboard_actions_functions.php:764 libs/elementor_help_files2.php:710
+#: libs/elementor_help_files2.php:784 libs/elementor_help_files2.php:837
+#: libs/listing_functions.php:1781 user_dashboard_favorite.php:43
+msgid "Price"
+msgstr "מחיר"
+
+#: libs/dashboard_actions_functions.php:627
+msgid "Search for an Agent"
+msgstr "חפש סוכן"
+
+#: libs/dashboard_actions_functions.php:636
+msgid "Phone/Mobile"
+msgstr "טלפון/נייד"
+
+#: libs/dashboard_actions_functions.php:645
+msgid "You don't have any agents added!"
+msgstr "אין לך שום סוכנים שנוספו!"
+
+#: libs/dashboard_actions_functions.php:755
+#: libs/dashboard_actions_functions.php:761 user_dashboard_favorite.php:40
+msgid "Property"
+msgstr "נכס"
+
+#: libs/dashboard_actions_functions.php:756
+#: libs/dashboard_actions_functions.php:762 libs/help_functions.php:48
+#: libs/help_functions.php:6098 libs/searchfunctions.php:2179
+#: libs/searchfunctions.php:2399
+#: templates/dashboard-templates/add_new_agent.php:146
+#: templates/dashboard-templates/add_new_agent_template.php:288
+#: templates/dashboard-templates/user_profile_agency.php:174
+#: templates/dashboard-templates/user_profile_agency.php:244
+#: templates/dashboard-templates/user_profile_agent.php:253
+#: templates/dashboard-templates/user_profile_developer.php:153
+#: templates/dashboard-templates/user_profile_developer.php:216
+#: templates/submit_templates/property_categories.php:55
+#: user_dashboard_favorite.php:41
+msgid "Category"
+msgstr "קטגוריה"
+
+#: libs/dashboard_actions_functions.php:758
+msgid "Pay Status"
+msgstr "מצב שכר"
+
+#: libs/dashboard_actions_functions.php:772
+msgid "You don't have any properties!"
+msgstr "אין לך עדיין מאפיינים!"
+
+#: libs/dashboard_actions_functions.php:947
+msgid "Agent need a first & last name"
+msgstr "הסוכן צריך שם פרטי ושם משפחה"
+
+#: libs/dashboard_actions_functions.php:1144
+msgid "Agent was added... You will be redirected to your agent list..."
+msgstr "הסוכן נוסף ... תנותב לרשימת הסוכנים שלך ..."
+
+#: libs/dashboard_actions_functions.php:1150
+msgid "Agent profile edited"
+msgstr "פרופיל הסוכן נערך"
+
+#: libs/dashboard_actions_functions.php:1317
+msgid "Started by"
+msgstr "הותחל על ידי"
+
+#: libs/dashboard_actions_functions.php:1318
+#: templates/dashboard-templates/message-listing-unit.php:36
+#: templates/email_templates/contact_email_template.php:39
+msgid "Subject"
+msgstr "נושא"
+
+#: libs/dashboard_actions_functions.php:1320
+msgid "Action"
+msgstr "פעולה"
+
+#: libs/dashboard_functions.php:174
+msgid "Account History (last 7 days)"
+msgstr "היסטוריית חשבון (7 הימים האחרונים)"
+
+#: libs/dashboard_functions.php:195
+msgid "Edited"
+msgstr "עריכה"
+
+#: libs/dashboard_functions.php:197
+msgid "Added"
+msgstr "נוסף"
+
+#: libs/dashboard_functions.php:199
+msgid "Deleted"
+msgstr "נמחק"
+
+#: libs/dashboard_functions.php:204
+msgid "%s property %s"
+msgstr "%s רכוש %s"
+
+#: libs/dashboard_functions.php:207
+msgid "%s agent %s"
+msgstr "s% סוכן s%"
+
+#: libs/dashboard_functions.php:210
+msgid "%s agency %s"
+msgstr "s% סוכנות s%"
+
+#: libs/dashboard_functions.php:213
+msgid "%s developer %s"
+msgstr "%s מפתח %s"
+
+#: libs/dashboard_functions.php:216
+msgid "Generated Invoice %s"
+msgstr "%s חשבונית שנוצרה"
+
+#: libs/dashboard_functions.php:218
+msgid "Deleted Invoice %s"
+msgstr "%s חשבונית שנמחקה"
+
+#: libs/dashboard_functions.php:222
+msgid "Write Message  %s"
+msgstr "%s 'כתיבת הודעה'"
+
+#: libs/dashboard_functions.php:224
+msgid "Deleted Message  %s"
+msgstr "%s הודעה שנמחקה"
+
+#: libs/dashboard_functions.php:228
+msgid "Saved Search  %s"
+msgstr "%s חיפוש שמור"
+
+#: libs/dashboard_functions.php:230
+msgid "Deleted Search  %s"
+msgstr "%s חיפוש שנמחקו"
+
+#: libs/dashboard_functions.php:271
+msgid "Inquiries"
+msgstr "שאלות"
+
+#: libs/dashboard_functions.php:275 libs/dashboard_functions.php:535
+msgid "You don't have any listings or enough data!"
+msgstr "אין לך רישומים או מספיק נתונים!"
+
+#: libs/dashboard_functions.php:285
+msgid "Your most Popular Listings"
+msgstr "הרישומים הפופולריים ביותר שלך"
+
+#: libs/dashboard_functions.php:310
+msgid "Total Properties"
+msgstr "סה\"כ מאפיינים"
+
+#: libs/dashboard_functions.php:311
+msgid "Published Properties"
+msgstr "מאפיינים שפורסמו"
+
+#: libs/dashboard_functions.php:316
+msgid "Total Agents"
+msgstr "סה\"כ:"
+
+#: libs/dashboard_functions.php:319 libs/dashboard_functions.php:1527
+msgid "Saved Searches"
+msgstr "חיפושים שמורים"
+
+#: libs/dashboard_functions.php:331
+msgid "Favorite Properties"
+msgstr "נכסים אהובים"
+
+#: libs/dashboard_functions.php:335
+msgid "Account Summary"
+msgstr "סיכום חשבון"
+
+#: libs/dashboard_functions.php:390
+msgid "Listings Views"
+msgstr "תצוגות רישומים"
+
+#: libs/dashboard_functions.php:398
+msgid "Total views for your listings"
+msgstr "סך כל הצפיות ברישומים שלך"
+
+#: libs/dashboard_functions.php:531
+msgid "Views"
+msgstr "צפיות"
+
+#: libs/dashboard_functions.php:547
+msgid "Your most visited Listings"
+msgstr "הרישומים שבהם ביקרת הכי הרבה"
+
+#: libs/dashboard_functions.php:670
+msgid "Clone: "
+msgstr "שכפול:"
+
+#: libs/dashboard_functions.php:1307
+msgid "Valid file formats"
+msgstr "תבניות קובץ חוקיות"
+
+#: libs/dashboard_functions.php:1309
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Are you sure you wish to delete ?"
+msgstr "האם אתה בטוח שברצונך למחוק?"
+
+#: libs/dashboard_functions.php:1310
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Delete Plan"
+msgstr "מחק חבילה"
+
+#: libs/dashboard_functions.php:1315
+msgid "Plan Price in"
+msgstr "מחיר תוכנית ב-"
+
+#: libs/dashboard_functions.php:1316
+#: templates/submit_templates/property_floor_plans.php:182
+msgid "Upload Plan Image"
+msgstr "תמונת תוכנית העלאה"
+
+#: libs/dashboard_functions.php:1317
+msgid "processing..."
+msgstr "מעבד..."
+
+#: libs/dashboard_functions.php:1405
+msgid "Welcome"
+msgstr "ברוכים הבאים"
+
+#: libs/dashboard_functions.php:1465 templates/agency_listings.php:147
+#: templates/agency_templates/agency_listings.php:147
+#: templates/agent_listings.php:167
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:5
+#: templates/developer_listings.php:105
+#: templates/developer_templates/developer_listings.php:105
+msgid "All"
+msgstr "את כל"
+
+#: libs/dashboard_functions.php:1477
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:17
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:5
+msgid "Expired"
+msgstr "לא בתוקף"
+
+#: libs/dashboard_functions.php:1481
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:21
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:14
+msgid "Draft"
+msgstr "טיוטה"
+
+#: libs/dashboard_functions.php:1485
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:25
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:17
+msgid "Waiting for approval"
+msgstr "מחכה לאישור"
+
+#: libs/dashboard_functions.php:1493
+msgid "Leads"
+msgstr "לידים"
+
+#: libs/dashboard_functions.php:1498
+msgid "Contacts"
+msgstr "אנשי קשר"
+
+#: libs/dashboard_functions.php:1507 libs/dashboard_functions.php:1547
+msgid "Dashboard"
+msgstr "לוח בקרה"
+
+#: libs/dashboard_functions.php:1511
+msgid "My Profile"
+msgstr "הפרופיל שלי"
+
+#: libs/dashboard_functions.php:1515
+msgid "My Properties List"
+msgstr "רשימת הנכסים שלי"
+
+#: libs/dashboard_functions.php:1519 libs/dashboard_widgets.php:329
+#: word_remove.php:277
+msgid "Add New Property"
+msgstr "הוסף נכס חדש"
+
+#: libs/dashboard_functions.php:1523
+msgid "Favorites"
+msgstr "מועדפים"
+
+#: libs/dashboard_functions.php:1531
+msgid "My Invoices"
+msgstr "החשבוניות שלי"
+
+#: libs/dashboard_functions.php:1535
+#: templates/dashboard-templates/add_new_agent_template.php:395
+msgid "Add New Agent"
+msgstr "הוסף סוכן חדש"
+
+#: libs/dashboard_functions.php:1539
+msgid "Agent List"
+msgstr "רשימת סוכנים"
+
+#: libs/dashboard_functions.php:1543
+msgid "Inbox"
+msgstr "תיבת הדואר הנכנס"
+
+#: libs/dashboard_functions.php:1551
+msgid "CRM"
+msgstr "Crm"
+
+#: libs/dashboard_functions.php:1587 libs/dashboard_functions.php:1669
+msgid "Logout"
+msgstr "התנתק"
+
+#: libs/dashboard_functions.php:1835
+#: templates/dashboard-templates/add_new_agent.php:163
+#: templates/dashboard-templates/add_new_agent.php:190
+#: templates/dashboard-templates/add_new_agent_template.php:300
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:279
+#: templates/dashboard-templates/user_profile_agent.php:299
+#: templates/submit_templates/property_categories.php:65
+#: templates/submit_templates/property_categories.php:84
+#: templates/submit_templates/property_location.php:116
+#: templates/submit_templates/property_location.php:164
+#: templates/submit_templates/property_location.php:170
+#: templates/submit_templates/property_location.php:213
+#: templates/submit_templates/property_location.php:219
+msgid "None"
+msgstr "אף אחד"
+
+#: libs/dashboard_widgets.php:6
+msgid "Your Current Logo"
+msgstr "הלוגו הנוכחי שלך"
+
+#: libs/dashboard_widgets.php:12
+msgid "Upload New Logo"
+msgstr "טען לוגו חדש"
+
+#: libs/dashboard_widgets.php:17
+msgid "Your Current Colors"
+msgstr "הצבעים הנוכחיים שלך"
+
+#: libs/dashboard_widgets.php:47
+msgid "Change Colors"
+msgstr "שינוי צבעים"
+
+#: libs/dashboard_widgets.php:59
+msgid "You have %d pages published."
+msgstr "יש לך %d דפים שפורסמו."
+
+#: libs/dashboard_widgets.php:76
+msgid "Page Title"
+msgstr "כותרת העמוד"
+
+#: libs/dashboard_widgets.php:81
+msgid "Page Template"
+msgstr "תבנית דף"
+
+#: libs/dashboard_widgets.php:86
+msgid "See All Your Pages"
+msgstr "ראה את כל הדפים שלך"
+
+#: libs/dashboard_widgets.php:88 word_remove.php:275
+msgid "Add New Page"
+msgstr "הוסף דף חדש"
+
+#: libs/dashboard_widgets.php:318
+msgid "You have %d listings published:"
+msgstr "יש לך %d רישומים שפורסמו:"
+
+#: libs/dashboard_widgets.php:383
+msgid "Your Payment system is in SANDBOX mode."
+msgstr "מערכת התשלומים שלך נמצאת במצב SANDBOX."
+
+#: libs/dashboard_widgets.php:385
+msgid "Your Payment system is in LIVE mode."
+msgstr "מערכת התשלומים שלך נמצאת במצב LIVE."
+
+#: libs/dashboard_widgets.php:395
+msgid "Payments will be procesed in %s.Prices are displayed in %s"
+msgstr "התשלומים יעובדו ב-%s. המחירים מוצגים ב-%s"
+
+#: libs/dashboard_widgets.php:403
+msgid ""
+"You did not add your Paypal Details. No Paypal payment will be processed"
+msgstr "לא הוספת את פרטי ה-Paypal שלך. לא יעובד תשלום Paypal"
+
+#: libs/dashboard_widgets.php:405
+msgid "Paypal Api Keys are added.Payments will be processed."
+msgstr "מפתחות PayPay Api מתווספים. תשלומים יעובדו."
+
+#: libs/dashboard_widgets.php:412
+msgid ""
+"You did not add your Stripe Details. No Stripe payment will be processed"
+msgstr "לא הוספת את פרטי הסטרייפ שלך. לא יעובד תשלום סטרייפ"
+
+#: libs/dashboard_widgets.php:414
+msgid "Stripe Api Keys are added.Payments will be processed."
+msgstr "מפתחות קווים Api הם הוסיף. תשלומים יעובדו."
+
+#: libs/dashboard_widgets.php:418
+msgid "Edit Payment Details"
+msgstr "ערוך פרטי תשלום"
+
+#: libs/design_functions.php:2088 libs/design_functions.php:2090
+#: libs/design_functions.php:2093 libs/design_functions.php:2097
+#: templates/featured_property_3.php:141 templates/featured_property_4.php:155
+#: templates/property_cards_templates/property_card_actions_type2.php:7
+#: templates/property_cards_templates/property_card_actions_type_default.php:26
+#: templates/property_cards_templates/property_card_favorite_single.php:26
+msgid "share"
+msgstr "לַחֲלוֹק"
+
+#: libs/design_functions.php:2110
+#: templates/property_cards_templates/property_card_details_default.php:58
+#: templates/property_slider_shortcode_v3_test.php:112
+#: templates/property_unit_type3.php:56
+msgid "details"
+msgstr "פרטים"
+
+#: libs/design_functions.php:2146 libs/design_functions.php:2151
+#: libs/design_functions.php:2156 libs/design_functions.php:2162
+#: templates/property_cards_templates/property_card_actions_type2.php:11
+#: templates/property_cards_templates/property_card_actions_type_default.php:49
+#: templates/property_cards_templates/property_card_favorite_single.php:49
+msgid "compare"
+msgstr "לְהַשְׁווֹת"
+
+#: libs/design_functions.php:2153 libs/design_functions.php:2190
+#: libs/design_functions.php:2205
+msgid "featured icon"
+msgstr "סמל מוצג"
+
+#: libs/design_functions.php:2317
+msgid "icon"
+msgstr "אייקון"
+
+#: libs/design_functions.php:2410
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: libs/design_functions.php:2411
+msgid "X - Twitter"
+msgstr "X - טוויטר"
+
+#: libs/design_functions.php:2412
+msgid "Pinterest"
+msgstr "פינטרסט"
+
+#: libs/design_functions.php:2413
+#: templates/realtor_templates/agent_contact_bar.php:37
+msgid "WhatsApp"
+msgstr "ווטסאפ"
+
+#: libs/elementor_help_files.php:16 libs/searchfunctions.php:2276
+#: libs/searchfunctions.php:2450
+msgid "categories"
+msgstr "קטגוריות"
+
+#: libs/elementor_help_files.php:17
+msgid "county"
+msgstr "איזור"
+
+#: libs/elementor_help_files.php:18 libs/searchfunctions.php:2277
+#: libs/searchfunctions.php:2451
+msgid "cities"
+msgstr "ערים"
+
+#: libs/elementor_help_files.php:19 libs/searchfunctions.php:2278
+#: libs/searchfunctions.php:2452
+msgid "areas"
+msgstr "אזורי"
+
+#: libs/elementor_help_files.php:20
+msgid "wpestate location"
+msgstr "wpestate מיקום"
+
+#: libs/elementor_help_files.php:21
+msgid "price"
+msgstr "מחיר"
+
+#: libs/elementor_help_files.php:22
+msgid "price v2"
+msgstr "מחיר v2"
+
+#: libs/elementor_help_files.php:23
+msgid "price v3"
+msgstr "מחיר v3"
+
+#: libs/elementor_help_files.php:29
+msgid "beds&baths"
+msgstr "מיטות ואמבטיות"
+
+#: libs/elementor_help_files.php:30 libs/searchfunctions.php:2307
+msgid "address"
+msgstr "כתובת"
+
+#: libs/elementor_help_files.php:32
+msgid "country"
+msgstr "איזור"
+
+#: libs/elementor_help_files.php:33
+msgid "status"
+msgstr "מצב"
+
+#: libs/elementor_help_files.php:34
+msgid "id"
+msgstr "מזהה"
+
+#: libs/elementor_help_files.php:35 templates/directory_filters.php:306
+msgid "keyword"
+msgstr "מילת מפתח"
+
+#: libs/elementor_help_files.php:36
+msgid "geolocation"
+msgstr "מיקום גיאוגרפי"
+
+#: libs/elementor_help_files.php:37
+msgid "radius for geolocation"
+msgstr "רדיוס עבור מיקום גיאוגרפי"
+
+#: libs/elementor_help_files2.php:14 libs/elementor_help_files2.php:347
+#: libs/help_functions.php:3963 libs/help_functions.php:4370
+#: libs/help_functions.php:4829 libs/searchfunctions.php:555
+#: libs/searchfunctions2.php:54 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_property_list_filters.php:53
+#: templates/advanced_property_list_filters.php:102
+#: templates/advanced_search/advanced_search_type2.php:33
+#: templates/advanced_search/advanced_search_type8.php:111
+#: templates/advanced_search/advanced_search_type9.php:115
+#: templates/advanced_search/advanced_search_type_half.php:211
+#: templates/advanced_search/advanced_search_type_half.php:221
+#: templates/advanced_search/adv_search_mobile.php:104
+#: templates/advanced_search/adv_search_mobile.php:174
+#: templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:203
+#: templates/advanced_search_type_half.php:213
+#: templates/adv_search_mobile.php:104 templates/adv_search_mobile.php:167
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: libs/elementor_help_files2.php:52 libs/elementor_help_files2.php:365
+#: libs/help_functions.php:3973 libs/help_functions.php:4412
+#: libs/help_functions.php:5037 property_list_half.php:101
+#: templates/advanced_property_list_filters.php:56
+#: templates/advanced_property_list_filters.php:113
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "מחוזות"
+
+#: libs/elementor_help_files2.php:309
+msgid "items selected"
+msgstr "פריטים שנבחרו"
+
+#: libs/elementor_help_files2.php:310
+msgid "Select All"
+msgstr "בחר הכל"
+
+#: libs/elementor_help_files2.php:311
+msgid "Select None"
+msgstr "ניקוי בחירה"
+
+#: libs/elementor_help_files2.php:591
+msgid "Beds/Baths"
+msgstr "מיטות/אמבטיות"
+
+#: libs/elementor_help_files2.php:954 libs/elementor_help_files2.php:966
+msgid "No Value"
+msgstr "אין ערך"
+
+#: libs/events.php:11
+msgid "Once Weekly"
+msgstr "פעם בשבוע"
+
+#: libs/gallery_functions.php:30 libs/listing_functions.php:888
+#: libs/listing_functions.php:909
+msgid "Image Gallery"
+msgstr "גלריית תמונות"
+
+#: libs/gallery_functions.php:641 libs/gallery_functions.php:698
+msgid "See all"
+msgstr "הצג כל "
+
+#: libs/gallery_functions.php:641 libs/gallery_functions.php:698
+msgid "photos"
+msgstr "תמונות"
+
+#: libs/gallery_functions.php:764 libs/gallery_functions.php:814
+#: templates/featured_property_1.php:92 templates/featured_property_1.php:112
+#: templates/featured_property_2.php:86 templates/header5.php:22
+#: templates/header_agency.php:44 templates/header_developer.php:38
+#: templates/image_gallery.php:54 templates/image_gallery.php:87
+#: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
+#: word_remove.php:11 zillow_estimate_page.php:79
+msgid "image"
+msgstr "תמונה"
+
+#: libs/general-settings.php:364 libs/general-settings.php:380
+msgid " ..."
+msgstr " ..."
+
+#: libs/general-settings.php:445
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: libs/general-settings.php:446
+msgid "Mobile Menu"
+msgstr "תפריט נייד"
+
+#: libs/general-settings.php:447
+msgid "Footer Menu"
+msgstr "תפריט תחתון"
+
+#: libs/general-settings.php:448
+msgid "Header 6 Second Menu"
+msgstr "כותרת 6 תפריט שני"
+
+#: libs/general-settings.php:450
+msgid "Primary Widget Area"
+msgstr "אזור יישומון ראשי"
+
+#: libs/general-settings.php:452
+msgid "The primary widget area"
+msgstr "אזור widget הראשי"
+
+#: libs/general-settings.php:461
+msgid "Secondary Widget Area"
+msgstr "אזור יישומון משני"
+
+#: libs/general-settings.php:463
+msgid "The secondary widget area"
+msgstr "אזור הווידג&#39;ט המשני"
+
+#: libs/general-settings.php:472
+msgid "First Footer Widget Area"
+msgstr "אזור תחתונה ראשונה יישומון"
+
+#: libs/general-settings.php:474
+msgid "The first footer widget area"
+msgstr "אזור הווידג&#39;ט הראשון תחתונה"
+
+#: libs/general-settings.php:483
+msgid "Second Footer Widget Area"
+msgstr "אזור תחתונה תחתונה"
+
+#: libs/general-settings.php:485
+msgid "The second footer widget area"
+msgstr "האזור השני תחתונה יישומון"
+
+#: libs/general-settings.php:494
+msgid "Third Footer Widget Area"
+msgstr "אזור שלישי תחתונה יישומון"
+
+#: libs/general-settings.php:496
+msgid "The third footer widget area"
+msgstr "השטח השלישי תחתונה יישומון"
+
+#: libs/general-settings.php:505
+msgid "Fourth Footer Widget Area"
+msgstr "אזור רביעי תחתונה יישומון"
+
+#: libs/general-settings.php:507
+msgid "The fourth footer widget area"
+msgstr "השטח הרביעי תחתונה יישומון"
+
+#: libs/general-settings.php:516
+msgid "Top Bar Left Widget Area"
+msgstr "למעלה בר שמאל יישומון שטח"
+
+#: libs/general-settings.php:518
+msgid "The top bar left widget area"
+msgstr "סרגל העליון שמאל יישומון שטח"
+
+#: libs/general-settings.php:526
+msgid "Top Bar Right Widget Area"
+msgstr "למעלה בר יישומון הזכות שטח"
+
+#: libs/general-settings.php:528
+msgid "The top bar right widget area"
+msgstr "סרגל הדף העליון יישומון הזכות"
+
+#: libs/general-settings.php:535
+msgid "Sidebar Menu Widget Area - Before Menu"
+msgstr "תפריט תפריט צדדי - לפני תפריט"
+
+#: libs/general-settings.php:537
+msgid "Sidebar for header type 3 - before menu"
+msgstr "הסרגל הצידי עבור סוג הכותרת 3 - לפני התפריט"
+
+#: libs/general-settings.php:544
+msgid "Sidebar Menu Widget Area - After Menu"
+msgstr "תפריט Sidebar תפריט יישומון - לאחר תפריט"
+
+#: libs/general-settings.php:546
+msgid "Sidebar for header type 3 - after menu"
+msgstr "הסרגל הצידי עבור סוג הכותרת 3 - לאחר התפריט"
+
+#: libs/general-settings.php:556
+msgid "Header4 Widget Area"
+msgstr "שטח יישומון"
+
+#: libs/general-settings.php:558
+msgid "Header4 widget area"
+msgstr "אזור יישומון"
+
+#: libs/general-settings.php:567
+msgid "Dashboard Top Bar Left Widget Area"
+msgstr "לוח המחוונים למעלה משמאל שטח יישומון"
+
+#: libs/general-settings.php:569
+msgid "User Dashboard - The top bar left widget area"
+msgstr "לוח המחוונים של המשתמש - אזור היישומון השמאלי העליון"
+
+#: libs/general-settings.php:577
+msgid "Dashboard Top Bar Right Widget Area"
+msgstr "לוח המקשים העליון יישומון שטח"
+
+#: libs/general-settings.php:579
+msgid "User Dashboard - The top bar right widget area"
+msgstr "לוח המחוונים של המשתמש - אזור הפקד הימני העליון של סרגל הימין"
+
+#: libs/general-settings.php:587
+msgid "Splash Page Bottom Right Widget Area"
+msgstr "הפיצוץ עמוד תחתון שטח יישומון ימין"
+
+#: libs/general-settings.php:589
+msgid "Splash Page - Bottom right area"
+msgstr "דף הפתיחה - אזור ימין תחתון"
+
+#: libs/general-settings.php:597
+msgid "Splash Page Bottom Left Widget Area"
+msgstr "להעיף דף תחתון שמאל יישומון שטח"
+
+#: libs/general-settings.php:599
+msgid "Splash Page - Bottom left area"
+msgstr "דף הפתיחה - אזור שמאלי תחתון"
+
+#: libs/header_filter_functions.php:101
+msgid "Overview"
+msgstr "סקירה כללית"
+
+#: libs/header_filter_functions.php:114 libs/listing_functions.php:1507
+msgid "Documents"
+msgstr "מסמכים"
+
+#: libs/header_filter_functions.php:119 libs/listing_functions.php:522
+#: templates/multi_units.php:24
+msgid "Available Units"
+msgstr "יחידות זמינות"
+
+#: libs/header_filter_functions.php:124
+msgid "Enery Savings"
+msgstr "חיסכון באנרגיה"
+
+#: libs/header_filter_functions.php:179
+#: templates/property_page_acc_content.php:392
+#: templates/property_page_acc_content.php:407
+#: templates/property_page_tab_content.php:353
+msgid "Page Views Statistics"
+msgstr "דפים סטטיסטיים"
+
+#: libs/header_filter_functions.php:184
+#: templates/listing_templates/property_page_schedule_tour.php:9
+#: templates/property_list_agent.php:79
+#: templates/property_page!/property_page_schedule_tour.php:7
+msgid "Schedule a tour"
+msgstr "קבעו סיור"
+
+#: libs/header_filter_functions.php:194
+#: templates/listing_templates/other_agents.php:5 templates/other_agents.php:5
+#: templates/other_agents.php:7 templates/property_page!/other_agents.php:5
+#: templates/property_page!/other_agents.php:7
+msgid "Other Agents"
+msgstr "סוכנים אחרים"
+
+#: libs/header_filter_functions.php:200 templates/!property_reviews.php:4
+#: templates/!property_reviews.php:22
+#: templates/listing_templates/property-page-templates/property_reviews.php:25
+#: templates/listing_templates/property_reviews.php:25
+#: templates/property_page!/property_reviews.php:4
+#: templates/property_page!/property_reviews.php:22
+msgid "Property Reviews"
+msgstr "חוות דעת על נכסים"
+
+#: libs/header_filter_functions.php:205 libs/help_functions.php:2466
+#: templates/listing_templates/property-page-templates/similar_listings.php:159
+#: templates/listing_templates/property-page-templates/similar_listings.php:190
+#: templates/listing_templates/similar_listings.php:133
+#: templates/listing_templates/similar_listings.php:155
+#: templates/property_page!/similar_listings.php:135
+#: templates/property_page!/similar_listings.php:143
+#: templates/similar_listings.php:135 templates/similar_listings.php:143
+msgid "Similar Listings"
+msgstr "רישומים דומים"
+
+#: libs/help_functions.php:17 libs/listing_functions.php:1798
+#: templates/listing_templates/single-overview-section.php:31
+#: templates/property_cards_templates/property_card_details_type3.php:30
+#: templates/property_cards_templates/property_card_details_type4.php:12
+#: templates/property_cards_templates/property_card_details_type7.php:30
+msgid "Bedrooms"
+msgstr "חדרי שינה"
+
+#: libs/help_functions.php:21 libs/listing_functions.php:1801
+#: templates/listing_templates/single-overview-section.php:42
+#: templates/property_cards_templates/property_card_details_type3.php:39
+#: templates/property_cards_templates/property_card_details_type7.php:39
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "חדרי אמבטיה"
+
+#: libs/help_functions.php:25 libs/listing_functions.php:1795
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:32
+msgid "Rooms"
+msgstr "חדרים"
+
+#: libs/help_functions.php:29
+#: templates/listing_templates/single-overview-section.php:53
+msgid "Garages"
+msgstr "חניות"
+
+#: libs/help_functions.php:43
+#: templates/listing_templates/single-overview-section.php:73
+msgid "Year Built:"
+msgstr "שנת בניה:"
+
+#: libs/help_functions.php:1187 libs/help_functions.php:1190
+msgid "all"
+msgstr "הכל"
+
+#: libs/help_functions.php:1194 libs/listing_functions.php:1830
+msgid "Not Available"
+msgstr "לא להורדה"
+
+#: libs/help_functions.php:1211
+msgid "Please submit the"
+msgstr "שלח את"
+
+#: libs/help_functions.php:1211
+msgid "field"
+msgstr "שדה"
+
+#: libs/help_functions.php:2136
+msgid "Transport"
+msgstr "תַחְבּוּרָה"
+
+#: libs/help_functions.php:2137
+msgid "Supermarkets"
+msgstr "סופרמרקטים"
+
+#: libs/help_functions.php:2138
+msgid "Schools"
+msgstr "בתי ספר"
+
+#: libs/help_functions.php:2139 libs/help_functions.php:2343
+msgid "Restaurants"
+msgstr "מסעדות"
+
+#: libs/help_functions.php:2140
+msgid "Pharmacies"
+msgstr "בתי מרקחת"
+
+#: libs/help_functions.php:2141
+msgid "Hospitals"
+msgstr "בתי חולים"
+
+#: libs/help_functions.php:2186 libs/help_functions.php:2224
+msgid "K"
+msgstr "K"
+
+#: libs/help_functions.php:2189 libs/help_functions.php:2227
+msgid "M"
+msgstr "M"
+
+#: libs/help_functions.php:2303
+msgid "Active Life"
+msgstr "חיים פעילים"
+
+#: libs/help_functions.php:2305
+msgid "Arts & Entertainment"
+msgstr "אמנות ובידור"
+
+#: libs/help_functions.php:2307
+msgid "Automotive"
+msgstr "רכב"
+
+#: libs/help_functions.php:2309
+msgid "Beauty & Spas"
+msgstr "יופי &amp; ספא"
+
+#: libs/help_functions.php:2311
+msgid "Education"
+msgstr "חינוך"
+
+#: libs/help_functions.php:2313
+msgid "Event Planning & Services"
+msgstr "תכנון אירועים ושירותים"
+
+#: libs/help_functions.php:2315
+msgid "Financial Services"
+msgstr "שירותים פיננסיים"
+
+#: libs/help_functions.php:2317
+msgid "Food"
+msgstr "מזון"
+
+#: libs/help_functions.php:2319
+msgid "Health & Medical"
+msgstr "בריאות ורפואה"
+
+#: libs/help_functions.php:2321
+msgid "Home Services "
+msgstr "שירותי בית"
+
+#: libs/help_functions.php:2323
+msgid "Hotels & Travel"
+msgstr "בתי מלון &amp; נסיעות"
+
+#: libs/help_functions.php:2325
+msgid "Local Flavor"
+msgstr "טעם מקומי"
+
+#: libs/help_functions.php:2327
+msgid "Local Services"
+msgstr "שירותים מקומיים"
+
+#: libs/help_functions.php:2329
+msgid "Mass Media"
+msgstr "תקשורת המונים"
+
+#: libs/help_functions.php:2331
+msgid "Nightlife"
+msgstr "חיי לילה"
+
+#: libs/help_functions.php:2333
+msgid "Pets"
+msgstr "חיות מחמד"
+
+#: libs/help_functions.php:2335
+msgid "Professional Services"
+msgstr "שירותים מקצועיים"
+
+#: libs/help_functions.php:2337
+msgid "Public Services & Government"
+msgstr "שירותים ציבוריים וממשלתיים"
+
+#: libs/help_functions.php:2339
+msgid "Real Estate"
+msgstr "נדל&quot;ן"
+
+#: libs/help_functions.php:2341
+msgid "Religious Organizations"
+msgstr "ארגונים דתיים"
+
+#: libs/help_functions.php:2345
+msgid "Shopping"
+msgstr "קניות"
+
+#: libs/help_functions.php:2347
+msgid "Transportation"
+msgstr "הוֹבָלָה"
+
+#: libs/help_functions.php:2401
+msgid "There are no results found for this property address. "
+msgstr "לא נמצאו תוצאות עבור כתובת נכס זה."
+
+#: libs/help_functions.php:3674
+msgid "All Countries"
+msgstr "כל הארצות"
+
+#: libs/help_functions.php:3975 libs/help_functions.php:4339
+#: libs/help_functions.php:4680 libs/help_functions.php:6103
+#: templates/directory_filters.php:298
+#: templates/submit_templates/property_status.php:42
+msgid "Property Status"
+msgstr "מצב הנכס"
+
+#: libs/help_functions.php:4593
+msgid "More Search Options"
+msgstr "אפשרויות חיפוש נוספות"
+
+#: libs/help_functions.php:5212
+msgid "Pay Submission Fee"
+msgstr "שלם דמי הגשה"
+
+#: libs/help_functions.php:5319
+msgid "Pay with Credit Card"
+msgstr "שלם עם כרטיס אשראי"
+
+#: libs/help_functions.php:5320
+#: templates/dashboard-templates/user_memebership_profile.php:132
+msgid "Package Payment"
+msgstr "תשלום חבילה"
+
+#: libs/help_functions.php:5867
+#: templates/submit_templates/property_description.php:65
+msgid "Property Price"
+msgstr "מחיר הנכס"
+
+#: libs/help_functions.php:5868
+msgid "Property Price Label"
+msgstr "תווית מחיר נכס"
+
+#: libs/help_functions.php:5869
+msgid "Property Price Label Before"
+msgstr "מחיר תווית מחיר לפני"
+
+#: libs/help_functions.php:5872
+msgid "After Label for Additional Price info"
+msgstr "לאחר תווית למידע נוסף על מחיר"
+
+#: libs/help_functions.php:5874
+msgid "Property Category Submit"
+msgstr "קטגוריה נכס להגיש"
+
+#: libs/help_functions.php:5875
+msgid "Property Action Category"
+msgstr "קטגוריה פעילות נכס"
+
+#: libs/help_functions.php:5876
+msgid "Property Media"
+msgstr "מדיה מדיה"
+
+#: libs/help_functions.php:5878 libs/help_functions.php:6100
+msgid "Property City"
+msgstr "נכס עיר"
+
+#: libs/help_functions.php:5879 libs/help_functions.php:6101
+msgid "Property Area"
+msgstr "אזור רכוש"
+
+#: libs/help_functions.php:5881
+msgid "Property County"
+msgstr "נכס במחוז"
+
+#: libs/help_functions.php:5882 libs/help_functions.php:6113
+msgid "Property Country"
+msgstr "ארץ נכס"
+
+#: libs/help_functions.php:5883
+msgid "Property Map"
+msgstr "מפת מאפיינים"
+
+#: libs/help_functions.php:5885
+msgid "Property Longitude"
+msgstr "קו אורך"
+
+#: libs/help_functions.php:5887
+msgid "Property Google View"
+msgstr "נכס Google View"
+
+#: libs/help_functions.php:5889
+msgid "property Size"
+msgstr "גודל הנכס"
+
+#: libs/help_functions.php:5895 libs/searchfunctions.php:2290
+#: libs/searchfunctions.php:2464
+msgid "property status"
+msgstr "מצב רכוש"
+
+#: libs/help_functions.php:5896
+msgid "Embed Video Id"
+msgstr "הטמע מזהה סרטון"
+
+#: libs/help_functions.php:5897
+msgid "Embed Video Type"
+msgstr "הטמע סוג וידאו"
+
+#: libs/help_functions.php:5898
+msgid "Embed Virtual Tour"
+msgstr "שבץ סיור וירטואלי"
+
+#: libs/help_functions.php:5899
+msgid "Property Subunits"
+msgstr "יחידות משנה"
+
+#: libs/help_functions.php:5902
+msgid "Greenhouse gas emissions Class"
+msgstr "שיעור פליטת גזי חממה"
+
+#: libs/help_functions.php:5903
+msgid "Greenhouse gas emissions Index"
+msgstr "מדד פליטת גזי חממה"
+
+#: libs/help_functions.php:6018
+msgid "per month"
+msgstr "לחודש"
+
+#: libs/help_functions.php:6025
+msgid "HOA fee"
+msgstr "עמלת HOA"
+
+#: libs/help_functions.php:6035
+msgid "Homeowners Association Fee"
+msgstr "אגרת התאחדות בעלי הדירות"
+
+#: libs/help_functions.php:6043
+msgid "Home Price"
+msgstr "מחיר למשתכן"
+
+#: libs/help_functions.php:6046
+msgid "Down Payment"
+msgstr "מצב התשלום"
+
+#: libs/help_functions.php:6053
+msgid "Term(*in years)"
+msgstr "מונח(*בשנים)"
+
+#: libs/help_functions.php:6056
+msgid "Interest"
+msgstr "עניין"
+
+#: libs/help_functions.php:6097
+msgid "Leave Blank"
+msgstr "השאר ריק"
+
+#: libs/help_functions.php:6099
+#: templates/dashboard-templates/add_new_agent.php:174
+#: templates/dashboard-templates/add_new_agent_template.php:310
+#: templates/dashboard-templates/user_profile_agency.php:181
+#: templates/dashboard-templates/user_profile_agent.php:289
+#: templates/dashboard-templates/user_profile_developer.php:160
+msgid "Action Category"
+msgstr "קטגוריית פעולה"
+
+#: libs/help_functions.php:6102
+msgid "Property County/State"
+msgstr "מחוז נכס/מדינה"
+
+#: libs/help_functions.php:6105
+msgid "Homeowners Association Fee(Monthly)"
+msgstr "עמלת התאחדות בעלי בתים (חודשית)"
+
+#: libs/help_functions.php:6114 libs/listing_functions.php:1903
+#: templates/submit_templates/property_energy_effective.php:49
+msgid "Energy Index in kWh/m2a"
+msgstr "אינדקס אנרגיה בקוט&quot;ש / m2a"
+
+#: libs/help_functions.php:6117
+msgid "Greenhouse gas emissions index class "
+msgstr "דרגת מדד פליטת גזי חממה"
+
+#: libs/help_functions.php:6118
+msgid "Renewable energy performance index "
+msgstr "מדד ביצועי אנרגיה מתחדשת"
+
+#: libs/help_functions.php:6121
+msgid "EPC potential rating"
+msgstr "דירוג פוטנציאל EPC"
+
+#: libs/help_functions_cards.php:142
+msgid "Price High to Low"
+msgstr "מחיר גבוה עד נמוך"
+
+#: libs/help_functions_cards.php:143
+msgid "Price Low to High"
+msgstr "מחיר מהנמוך לגבוה"
+
+#: libs/help_functions_cards.php:144
+msgid "Newest first"
+msgstr "החדש ביותר יהיה ראשון"
+
+#: libs/help_functions_cards.php:145
+msgid "Oldest first"
+msgstr "העתיקה ביותר"
+
+#: libs/help_functions_cards.php:146
+msgid "Newest Edited"
+msgstr "נערך לאחרונה"
+
+#: libs/help_functions_cards.php:147
+msgid "Oldest Edited "
+msgstr "נערך ישן ביותר "
+
+#: libs/help_functions_cards.php:148
+msgid "Bedrooms High to Low"
+msgstr "חדרי שינה גבוה עד נמוך"
+
+#: libs/help_functions_cards.php:149
+msgid "Bedrooms Low to high"
+msgstr "חדרי שינה נמוך עד גבוה"
+
+#: libs/help_functions_cards.php:150
+msgid "Bathrooms High to Low"
+msgstr "חדרי אמבטיה גבוהים עד נמוכים"
+
+#: libs/help_functions_cards.php:151
+msgid "Bathrooms Low to high"
+msgstr "חדרי אמבטיה נמוכים עד גבוהים"
+
+#: libs/listing_functions.php:523 templates/multi_units.php:27
+msgid "Other units in"
+msgstr "יחידות אחרות"
+
+#: libs/listing_functions.php:1178
+msgid "size:"
+msgstr "גודל:"
+
+#: libs/listing_functions.php:1184
+msgid "rooms: "
+msgstr "וכי you"
+
+#: libs/listing_functions.php:1190
+msgid "baths:"
+msgstr "אמבט you"
+
+#: libs/listing_functions.php:1214 libs/listing_functions.php:1240
+msgid "price: "
+msgstr "מחיר:"
+
+#: libs/listing_functions.php:1295
+msgid "video image"
+msgstr "תמונת וידאו"
+
+#: libs/listing_functions.php:1401
+#: templates/submit_templates/property_amenities.php:54
+msgid "Other Features"
+msgstr "תכונות אחרות"
+
+#: libs/listing_functions.php:1560 libs/listing_functions.php:1610
+#: templates/dashboard-templates/add_new_agent_template.php:70
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/dashboard-templates/user_profile_agency.php:164
+#: templates/dashboard-templates/user_profile_agent.php:51
+#: templates/dashboard-templates/user_profile_developer.php:43
+#: templates/dashboard-templates/user_profile_developer.php:143
+msgid "Address"
+msgstr "כתובת"
+
+#: libs/listing_functions.php:1563 libs/listing_functions.php:1613
+#: libs/searchfunctions.php:287 libs/searchfunctions.php:2181
+#: libs/searchfunctions.php:2422
+#: templates/dashboard-templates/add_new_agent.php:232
+#: templates/dashboard-templates/add_new_agent_template.php:135
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agent.php:124
+#: templates/dashboard-templates/user_profile_developer.php:125
+#: templates/submit_templates/property_location.php:134
+msgid "City"
+msgstr "עִיר"
+
+#: libs/listing_functions.php:1566 libs/listing_functions.php:1616
+#: libs/searchfunctions.php:299 libs/searchfunctions.php:2182
+#: libs/searchfunctions.php:2429
+#: templates/dashboard-templates/add_new_agent.php:236
+#: templates/dashboard-templates/add_new_agent_template.php:147
+#: templates/dashboard-templates/user_profile_agency.php:158
+#: templates/dashboard-templates/user_profile_agent.php:136
+#: templates/dashboard-templates/user_profile_developer.php:137
+msgid "Area"
+msgstr "אֵזוֹר"
+
+#: libs/listing_functions.php:1569 libs/listing_functions.php:1619
+#: templates/dashboard-templates/add_new_agent.php:243
+#: templates/dashboard-templates/add_new_agent_template.php:141
+#: templates/dashboard-templates/user_profile_agency.php:152
+#: templates/dashboard-templates/user_profile_agent.php:130
+#: templates/dashboard-templates/user_profile_developer.php:131
+msgid "State/County"
+msgstr "מדינה / מחוז"
+
+#: libs/listing_functions.php:1572 libs/listing_functions.php:1623
+msgid "Zip"
+msgstr "רוכסן"
+
+#: libs/listing_functions.php:1589
+msgid "Open In Google Maps"
+msgstr "פתח ב&#39;מפות Google &#39;"
+
+#: libs/listing_functions.php:1779
+msgid "Property Id "
+msgstr "מזהה נכס"
+
+#: libs/listing_functions.php:1785
+msgid "Price Info"
+msgstr "מידע על מחיר"
+
+#: libs/listing_functions.php:1882
+msgid "Energy class "
+msgstr "מחלקת אנרגיה"
+
+#: libs/listing_functions.php:1888
+msgid "Greenhouse gas emissions class  "
+msgstr "שיעור פליטת גזי חממה"
+
+#: libs/listing_functions.php:1910
+msgid "Greenhouse Gas Emissions kgCO2/m2a"
+msgstr "פליטת גזי חממה kgCO2/m2a"
+
+#: libs/listing_functions.php:1913
+msgid "Greenhouse Gas Emissions index class"
+msgstr "דרגת מדד פליטת גזי חממה"
+
+#: libs/megamenu.php:165
+msgid "%s (Invalid)"
+msgstr " %s (לא חוקי)"
+
+#: libs/megamenu.php:168
+msgid "%s (Pending)"
+msgstr " %s (בהמתנה)"
+
+#: libs/megamenu.php:192
+msgid "Move up"
+msgstr "העבר למעלה"
+
+#: libs/megamenu.php:205
+msgid "Move down"
+msgstr "העבר למטה"
+
+#: libs/megamenu.php:207 libs/megamenu.php:209
+msgid "Edit Menu Item"
+msgstr "ערוך פריט בתפריט"
+
+#: libs/megamenu.php:218
+msgid "URL"
+msgstr "כתובת אתר"
+
+#: libs/megamenu.php:225
+msgid "Navigation Label"
+msgstr "תווית ניווט"
+
+#: libs/megamenu.php:231
+msgid "Title Attribute"
+msgstr "תכונת כותרת"
+
+#: libs/megamenu.php:238
+msgid "Open link in a new window/tab"
+msgstr "פתח קישור בחלון / כרטיסיה חדשה"
+
+#: libs/megamenu.php:243
+msgid "CSS Classes (optional)"
+msgstr "CSS חוגים (אופציונלי)"
+
+#: libs/megamenu.php:249
+msgid "Link Relationship (XFN)"
+msgstr "קשר קישורים (XFN)"
+
+#: libs/megamenu.php:257
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "התיאור יוצג בתפריט אם העיצוב הנוכחי תומך בו."
+
+#: libs/megamenu.php:264
+msgid "Menu Item Icon(ex: fa fa-comment)"
+msgstr "סמל פריט תפריט (לדוגמה: fa fa-comment)"
+
+#: libs/megamenu.php:273
+msgid "Menu Item Label(ex: \"new\")"
+msgstr "תווית פריט תפריט (לדוגמה: &quot;חדש&quot;)"
+
+#: libs/megamenu.php:288
+msgid "Set as Mega Menu?"
+msgstr "בחר בתפריט Mega?"
+
+#: libs/megamenu.php:294
+msgid "Mega Menu Widget Area"
+msgstr "אזור תפריט יישומון"
+
+#: libs/megamenu.php:296
+msgid "Select Widget Area"
+msgstr "בחר אזור יישומון"
+
+#: libs/megamenu.php:307
+msgid "Upload Background Image | "
+msgstr "העלה תמונת רקע |"
+
+#: libs/megamenu.php:309
+msgid "Remove Image"
+msgstr "הסר תמונה"
+
+#: libs/megamenu.php:320
+msgid ""
+"Container Styles( *set custom styles for mega menu container only:.  Ex: "
+"background position, background repeat )"
+msgstr ""
+"סגנונות מכולה (* בחר סגנונות מותאמים אישית עבור מיכל התפריט מגה בלבד :. Ex: "
+"מיקום הרקע, לחזור על הרקע)"
+
+#: libs/megamenu.php:336
+msgid "Draw border right on mega menu column?"
+msgstr "לצייר הגבול מימין בעמודה תפריט מגה?"
+
+#: libs/megamenu.php:344
+msgid "Original: %s"
+msgstr "מקורי: %s"
+
+#: libs/megamenu.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:345
+#: templates/dashboard-templates/add_new_agent_template.php:366
+#: templates/dashboard-templates/user_profile_agent.php:324
+#: templates/dashboard-templates/user_profile_agent.php:345
+msgid "Remove"
+msgstr "לְהַסִיר"
+
+#: libs/megamenu.php:358
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+#: libs/plugins.php:137
+msgid "Install Required Plugins"
+msgstr "התקן תוספים נדרשים"
+
+#: libs/plugins.php:138
+msgid "Install Plugins"
+msgstr "התקן תוספים"
+
+#: libs/plugins.php:139
+msgid "Installing Plugin: %s"
+msgstr "מתקין את הפלאגין: %s"
+
+#: libs/plugins.php:140
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש בממשק ה- API של התוסף."
+
+#: libs/plugins.php:141
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "ערכת נושא זו דורשת את התוסף הבא: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:142
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ערכת הנושא הזו ממליצה על התוספים הבאים: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:143
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"באסה, אבל אין לך את ההרשאות הדרושות להתקין את %s. צור קשר עם מנהל האתר לעזרה "
+"בהתקנת התוסף."
+msgstr[1] ""
+
+#: libs/plugins.php:144
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "התוסף הבא אינו פעיל כרגע: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:145
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "התוסף המומלץ הבא אינו פועל כרגע: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:146
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"באסה, אבל אין לך את ההרשאות הדרושות להפעיל את %s. צור קשר עם מנהל האתר לעזרה "
+"בהפעלת התוסף."
+msgstr[1] ""
+
+#: libs/plugins.php:147
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"התוסף הבא חייב להיות מעודכן לגרסתו האחרונה כדי להבטיח את התאימות המרבית "
+"לערכת הנושא הזו: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:148
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"באסה, אבל אין לך את ההרשאות הדרושות לעדכן את %s. צור קשר עם מנהל האתר לעזרה "
+"בעדכון התוסף."
+msgstr[1] ""
+
+#: libs/plugins.php:149
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "להתקין את התוסף"
+msgstr[1] ""
+
+#: libs/plugins.php:150
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "הפעל תוסף מותקן"
+msgstr[1] ""
+
+#: libs/plugins.php:151
+msgid "Return to Required Plugins Installer"
+msgstr "חזור אל מתקין Plugins נדרש"
+
+#: libs/plugins.php:152
+msgid "Plugin activated successfully."
+msgstr "הפלאגין הופעל בהצלחה."
+
+#: libs/plugins.php:153
+msgid "All plugins installed and activated successfully. %s"
+msgstr "כל התוספים מותקנים ומופעלים בהצלחה.  %s"
+
+#: libs/property-card-functions.php:380
+#: templates/agent_card_templates/agent_unit.php:11
+#: templates/agent_card_templates/agent_unit_4.php:11
+#: templates/agent_card_templates/agent_unit_featured.php:31
+#: templates/agent_unit.php:11 templates/agent_unit_featured.php:26
+#: templates/agent_unit_widget.php:61 templates/agent_unit_widget.php:71
+#: templates/blog_card_templates/blog_unit.php:33
+#: templates/blog_card_templates/blog_unit2.php:72
+#: templates/blog_card_templates/blog_unit4.php:72 templates/blog_unit.php:33
+#: templates/blog_unit2.php:72
+#: templates/dashboard-templates/add_new_agent.php:38
+#: templates/dashboard-templates/add_new_agent_template.php:418
+#: templates/dashboard-templates/dashboard_agent_unit.php:18
+#: templates/dashboard-templates/user_profile.php:145
+#: templates/dashboard-templates/user_profile_agency.php:290
+#: templates/dashboard-templates/user_profile_agent.php:401
+#: templates/dashboard-templates/user_profile_developer.php:264
+#: templates/featured_property_1.php:123 templates/featured_property_1.php:127
+#: templates/featured_property_2.php:106
+#: templates/property_animation_slider.php:70
+#: templates/submit_templates/property_images.php:98
+#: templates/submit_templates/property_images.php:104
+#: templates/submit_templates/property_images_new.php:57
+#: templates/submit_templates/property_images_new.php:67
+#: templates/submit_templates/property_images_new.php:116
+msgid "user image"
+msgstr "תמונת משתמש"
+
+#: libs/searchfunctions.php:12
+#: templates/advanced_search/advanced_search_type_half.php:82
+#: templates/advanced_search_type_half.php:82
+#: templates/dashboard-templates/add_new_agent.php:226
+#: templates/dashboard-templates/user_profile_agency.php:250
+#: templates/dashboard-templates/user_profile_developer.php:222
+msgid "Location"
+msgstr "מקום"
+
+#: libs/searchfunctions.php:62
+msgid "Radius: "
+msgstr "רדיוס "
+
+#: libs/searchfunctions.php:226
+msgid "Enter an address, state, city, area or zip code"
+msgstr "הזנת כתובת, מדינה, עיר, אזור או מיקוד"
+
+#: libs/searchfunctions.php:310
+msgid "County or State"
+msgstr "מחוז או מדינה"
+
+#: libs/searchfunctions.php:459
+#: templates/advanced_search/advanced_search_type10.php:37
+#: templates/advanced_search/adv_search_mobile.php:81
+#: templates/advanced_search_type10.php:37 templates/adv_search_mobile.php:81
+msgid "Type address, state, city or area"
+msgstr "הקלד כתובת, מדינה, עיר או אזור"
+
+#: libs/searchfunctions.php:522 searchform.php:2
+#: templates/advanced_search/advanced_search_type11.php:36
+#: templates/advanced_search/adv_search_mobile.php:108
+#: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:108
+msgid "Type Keyword"
+msgstr "הקלד מילת מפתח"
+
+#: libs/searchfunctions.php:2175 libs/searchfunctions.php:2385
+msgid "County, City or Area is "
+msgstr "מחוז, עיר או אזור"
+
+#: libs/searchfunctions.php:2180 libs/searchfunctions.php:2415
+msgid "For"
+msgstr "ל"
+
+#: libs/searchfunctions.php:2183 libs/searchfunctions.php:2435
+#: templates/submit_templates/property_location.php:99
+msgid "County / State"
+msgstr "מחוז / מדינה"
+
+#: libs/searchfunctions.php:2213
+msgid "Has"
+msgstr "יש"
+
+#: libs/searchfunctions.php:2275 libs/searchfunctions.php:2449
+msgid "types"
+msgstr "סוגים"
+
+#: libs/searchfunctions.php:2279 libs/searchfunctions.php:2453
+msgid "property price"
+msgstr "מחיר הנכס"
+
+#: libs/searchfunctions.php:2280 libs/searchfunctions.php:2454
+msgid "property size"
+msgstr "גודל הנכס"
+
+#: libs/searchfunctions.php:2281 libs/searchfunctions.php:2455
+msgid "property lot size"
+msgstr "Size רכוש"
+
+#: libs/searchfunctions.php:2282 libs/searchfunctions.php:2456
+msgid "property rooms"
+msgstr "חדרים ללא עישון"
+
+#: libs/searchfunctions.php:2283 libs/searchfunctions.php:2457
+msgid "property bedrooms"
+msgstr "חדרי שינה"
+
+#: libs/searchfunctions.php:2284 libs/searchfunctions.php:2458
+msgid "property bathrooms"
+msgstr "חדר אמבטיה פרטי"
+
+#: libs/searchfunctions.php:2285 libs/searchfunctions.php:2459
+msgid "property address"
+msgstr "כתובת"
+
+#: libs/searchfunctions.php:2286 libs/searchfunctions.php:2460
+msgid "property county"
+msgstr "המחוז רכוש"
+
+#: libs/searchfunctions.php:2287 libs/searchfunctions.php:2461
+msgid "property state"
+msgstr "- מצב רכוש"
+
+#: libs/searchfunctions.php:2288 libs/searchfunctions.php:2462
+msgid "property zip"
+msgstr "zip רכוש"
+
+#: libs/searchfunctions.php:2289 libs/searchfunctions.php:2463
+msgid "property country"
+msgstr "- ארץ רכוש"
+
+#: libs/searchfunctions.php:2327
+msgid "between "
+msgstr "בֵּין"
+
+#: libs/searchfunctions.php:2327 libs/searchfunctions.php:2329
+#: libs/searchfunctions.php:2333
+msgid "and"
+msgstr "ו"
+
+#: libs/searchfunctions.php:2329 libs/searchfunctions.php:2333
+msgid "between"
+msgstr "בֵּין"
+
+#: libs/searchfunctions.php:2337 libs/searchfunctions.php:2490
+msgid " similar with "
+msgstr "דומה ל"
+
+#: libs/searchfunctions.php:2339 libs/searchfunctions.php:2494
+#: libs/searchfunctions.php:2528
+msgid " has"
+msgstr "יש ל"
+
+#: libs/searchfunctions.php:2341 libs/searchfunctions.php:2498
+msgid " equal with "
+msgstr "שווה עם"
+
+#: libs/searchfunctions.php:2343 libs/searchfunctions.php:2506
+#: libs/searchfunctions.php:2535
+msgid "smaller than "
+msgstr "קטן יותר"
+
+#: libs/searchfunctions.php:2345
+msgid "bigger than "
+msgstr "גדול יותר מ"
+
+#: libs/searchfunctions.php:2484 libs/searchfunctions.php:2544
+msgid "price range from: "
+msgstr "טווח מחירים מ:"
+
+#: libs/searchfunctions.php:2486 libs/searchfunctions.php:2514
+#: libs/searchfunctions.php:2546
+msgid "bigger than"
+msgstr "גדול יותר מ"
+
+#: libs/searchfunctions.php:2512
+msgid "price range from "
+msgstr "טווח המחירים מ"
+
+#: libs/searchfunctions2.php:354
+#: templates/advanced_search/advanced_search_type2.php:58
+#: templates/advanced_search/advanced_search_type4.php:83
+#: templates/advanced_search/advanced_search_type4.php:89
+#: templates/advanced_search/advanced_search_type5.php:85
+#: templates/advanced_search/advanced_search_type5.php:91
+#: templates/advanced_search/advanced_search_type7.php:112
+#: templates/advanced_search/advanced_search_type7.php:151
+#: templates/advanced_search/advanced_search_type8.php:168
+#: templates/advanced_search/advanced_search_type9.php:170
+#: templates/advanced_search/adv_search_mobile.php:218
+#: templates/advanced_search_type2.php:58
+#: templates/advanced_search_type4.php:74
+#: templates/advanced_search_type4.php:80
+#: templates/advanced_search_type5.php:77
+#: templates/advanced_search_type5.php:83
+#: templates/advanced_search_type7.php:112
+#: templates/advanced_search_type7.php:151
+#: templates/advanced_search_type8.php:168
+#: templates/advanced_search_type9.php:170 templates/adv_search_mobile.php:211
+msgid "Search Properties"
+msgstr "מאפייני חיפוש"
+
+#: libs/theme-cache.php:5
+msgid "Cache was cleared"
+msgstr "המטמון נוקה"
+
+#. Template Name of the theme
+msgid "Property page template"
+msgstr "תבנית עמוד מאפיינים"
+
+#. Template Name of the theme
+msgid "Paypal Processor"
+msgstr "מעבד PayPal"
+
+#. Template Name of the theme
+msgid "Properties list"
+msgstr "רשימת נכסים"
+
+#. Template Name of the theme
+msgid "Properties list directory"
+msgstr "ספריית רשימת מאפיינים"
+
+#. Template Name of the theme
+msgid "Properties list half"
+msgstr "חצי רשימת מאפיינים"
+
+#: search.php:22
+msgid "Search Results for : "
+msgstr "תוצאות חיפוש עבור :"
+
+#: search.php:28 templates/normal_directory.php:196
+#: templates/normal_map_core.php:236
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters. "
+msgstr "לא מצאנו תוצאות. נסה שוב עם פרמטרים שונים של חיפוש."
+
+#: single-estate_agency.php:42
+msgid "About Us"
+msgstr "עלינו"
+
+#: single-estate_agency.php:97 templates/header_agency.php:56
+#: templates/header_developer.php:55 zillow_estimate_page.php:83
+msgid "Address:"
+msgstr "כתובת:"
+
+#. Template Name of the theme
+msgid "Idx Page"
+msgstr "דף Idx"
+
+#: single-idx.php:34 single.php:51
+msgid "Pages:"
+msgstr "עמודים"
+
+#: single-idx.php:39 single.php:56
+msgid "Next page"
+msgstr "עמוד הבא"
+
+#: single-idx.php:40 single.php:57
+msgid "Previous page"
+msgstr "עמוד קודם"
+
+#: single.php:42 templates/!property_reviews.php:79
+#: templates/agency_reviews.php:74
+#: templates/agency_templates/agency_reviews.php:74
+#: templates/agent_reviews.php:61 templates/developer_reviews.php:60
+#: templates/developer_templates/developer_reviews.php:64
+#: templates/listing_templates/property-page-templates/property_reviews.php:87
+#: templates/listing_templates/property_reviews.php:82
+#: templates/property_page!/property_reviews.php:79
+msgid "Posted by "
+msgstr "פורסם על ידי"
+
+#: single.php:42
+msgid "on"
+msgstr "עַל"
+
+#. Template Name of the theme
+msgid "Splash Page"
+msgstr "דף הפתיחה"
+
+#. Template Name of the theme
+msgid "Stripe Charge Page"
+msgstr "עמוד חיוב פסים"
+
+#: templates/!property_reviews.php:92 templates/agency_reviews.php:88
+#: templates/agency_templates/agency_reviews.php:88
+#: templates/agent_reviews.php:74 templates/developer_reviews.php:74
+#: templates/developer_templates/developer_reviews.php:78
+#: templates/listing_templates/property-page-templates/property_reviews.php:100
+#: templates/listing_templates/property_reviews.php:95
+#: templates/property_page!/property_reviews.php:92
+msgid "of"
+msgstr "שֶׁל"
+
+#: templates/!property_reviews.php:96 templates/agency_reviews.php:92
+#: templates/agency_templates/agency_reviews.php:92
+#: templates/agent_reviews.php:78 templates/developer_reviews.php:78
+#: templates/developer_templates/developer_reviews.php:82
+#: templates/listing_templates/property-page-templates/property_reviews.php:104
+#: templates/listing_templates/property_reviews.php:99
+#: templates/property_page!/property_reviews.php:96
+msgid "Posted on "
+msgstr "פורסם ב"
+
+#: templates/!property_reviews.php:169 templates/agency_reviews.php:179
+#: templates/agency_templates/agency_reviews.php:179
+#: templates/agent_reviews.php:156 templates/developer_reviews.php:159
+#: templates/developer_templates/developer_reviews.php:163
+#: templates/listing_templates/property-page-templates/property_reviews.php:177
+#: templates/listing_templates/property_reviews.php:172
+#: templates/property_page!/property_reviews.php:169
+msgid "Update Review "
+msgstr "עדכן ביקורת"
+
+#: templates/!property_reviews.php:171 templates/agency_reviews.php:181
+#: templates/agency_templates/agency_reviews.php:181
+#: templates/agent_reviews.php:158 templates/developer_reviews.php:161
+#: templates/developer_templates/developer_reviews.php:165
+#: templates/listing_templates/property-page-templates/property_reviews.php:179
+#: templates/listing_templates/property_reviews.php:174
+#: templates/property_page!/property_reviews.php:171
+msgid "pending approval"
+msgstr "ממתין לאישור"
+
+#: templates/!property_reviews.php:175 templates/agency_reviews.php:185
+#: templates/agency_templates/agency_reviews.php:185
+#: templates/agent_reviews.php:162 templates/developer_reviews.php:165
+#: templates/developer_templates/developer_reviews.php:169
+#: templates/listing_templates/property-page-templates/property_reviews.php:183
+#: templates/listing_templates/property_reviews.php:178
+#: templates/property_page!/property_reviews.php:175
+msgid "Write a Review "
+msgstr "כתוב ביקורת"
+
+#: templates/!property_reviews.php:182 templates/agency_reviews.php:192
+#: templates/agency_templates/agency_reviews.php:192
+#: templates/agent_reviews.php:169 templates/developer_reviews.php:172
+#: templates/developer_templates/developer_reviews.php:176
+#: templates/listing_templates/property-page-templates/property_reviews.php:190
+#: templates/listing_templates/property_reviews.php:185
+#: templates/property_page!/property_reviews.php:182
+msgid "Your Rating & Review"
+msgstr "הדירוג שלך &amp; סקירה"
+
+#: templates/!property_reviews.php:200 templates/agency_reviews.php:211
+#: templates/agency_templates/agency_reviews.php:211
+#: templates/agent_reviews.php:188 templates/developer_reviews.php:191
+#: templates/developer_templates/developer_reviews.php:195
+#: templates/listing_templates/property-page-templates/property_reviews.php:208
+#: templates/listing_templates/property_reviews.php:203
+#: templates/property_page!/property_reviews.php:200
+msgid "Review Title"
+msgstr "כותרת ביקורת"
+
+#: templates/!property_reviews.php:201 templates/agency_reviews.php:212
+#: templates/agency_templates/agency_reviews.php:212
+#: templates/agent_reviews.php:189 templates/developer_reviews.php:192
+#: templates/developer_templates/developer_reviews.php:196
+#: templates/listing_templates/property-page-templates/property_reviews.php:209
+#: templates/listing_templates/property_reviews.php:204
+#: templates/property_page!/property_reviews.php:201
+msgid "Your Review"
+msgstr "סקירה שלך"
+
+#: templates/!property_reviews.php:207 templates/agency_reviews.php:223
+#: templates/agency_templates/agency_reviews.php:223
+#: templates/agent_reviews.php:200 templates/developer_reviews.php:203
+#: templates/developer_templates/developer_reviews.php:207
+#: templates/listing_templates/property-page-templates/property_reviews.php:215
+#: templates/listing_templates/property_reviews.php:210
+#: templates/property_page!/property_reviews.php:207
+msgid "Edit Review"
+msgstr "ערוך ביקורת"
+
+#: templates/!property_reviews.php:210 templates/agency_reviews.php:226
+#: templates/agency_templates/agency_reviews.php:226
+#: templates/agent_reviews.php:203 templates/developer_reviews.php:206
+#: templates/developer_templates/developer_reviews.php:210
+#: templates/listing_templates/property-page-templates/property_reviews.php:218
+#: templates/listing_templates/property_reviews.php:213
+#: templates/property_page!/property_reviews.php:210
+msgid "Submit Review"
+msgstr "שלח ביקורת"
+
+#: templates/!property_reviews.php:222 templates/agency_reviews.php:237
+#: templates/agency_templates/agency_reviews.php:237
+#: templates/agent_reviews.php:213 templates/developer_reviews.php:217
+#: templates/developer_templates/developer_reviews.php:221
+#: templates/listing_templates/property-page-templates/property_reviews.php:230
+#: templates/listing_templates/property_reviews.php:225
+#: templates/property_page!/property_reviews.php:222
+msgid "You need to "
+msgstr "אתה צריך"
+
+#: templates/!property_reviews.php:223 templates/agency_reviews.php:237
+#: templates/agency_templates/agency_reviews.php:237
+#: templates/agent_reviews.php:213 templates/developer_reviews.php:217
+#: templates/developer_templates/developer_reviews.php:221
+#: templates/listing_templates/property-page-templates/property_reviews.php:231
+#: templates/listing_templates/property_reviews.php:226
+#: templates/property_page!/property_reviews.php:223
+msgid "login"
+msgstr "התחברות"
+
+#: templates/!property_reviews.php:224 templates/agency_reviews.php:237
+#: templates/agency_templates/agency_reviews.php:237
+#: templates/agent_reviews.php:213 templates/developer_reviews.php:217
+#: templates/developer_templates/developer_reviews.php:221
+#: templates/listing_templates/property-page-templates/property_reviews.php:232
+#: templates/listing_templates/property_reviews.php:227
+#: templates/property_page!/property_reviews.php:224
+msgid "in order to post a review "
+msgstr "על מנת לכתוב ביקורת"
+
+#: templates/advanced_property_list_filters.php:20
+#: templates/normal_directory.php:64 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "מיין לפי"
+
+#: templates/advanced_search/advanced_search_type1.php:29
+#: templates/advanced_search/advanced_search_type3.php:22
+#: templates/advanced_search/advanced_search_type5.php:31
+#: templates/advanced_search/adv_search_mobile.php:36
+#: templates/advanced_search_type1.php:29
+#: templates/advanced_search_type3.php:22
+#: templates/advanced_search_type5.php:31 templates/adv_search_mobile.php:36
+msgid "Advanced Search"
+msgstr "חיפוש מתקדם"
+
+#: templates/advanced_search/advanced_search_type1.php:92
+#: templates/advanced_search/advanced_search_type_half.php:406
+#: templates/advanced_search_type1.php:78
+#: templates/advanced_search_type_half.php:398
+msgid "SEARCH PROPERTIES"
+msgstr "חיפוש נכסים"
+
+#: templates/advanced_search/advanced_search_type2.php:24
+#: templates/advanced_search/advanced_search_type8.php:95
+#: templates/advanced_search/advanced_search_type9.php:98
+#: templates/advanced_search/adv_search_mobile.php:168
+#: templates/advanced_search_type2.php:24
+#: templates/advanced_search_type8.php:95
+#: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:161
+msgid "Search State, City or Area"
+msgstr "חפש מדינה, עיר או אזור"
+
+#: templates/advanced_search/advanced_search_type4.php:29
+#: templates/advanced_search_type4.php:29
+msgid "Advanced Search "
+msgstr "חיפוש מתקדם"
+
+#: templates/advanced_search/advanced_search_type_half.php:87
+#: templates/advanced_search_type_half.php:87
+msgid "Radius:"
+msgstr "רַדִיוּס:"
+
+#: templates/advanced_search/advanced_search_type_half.php:411
+#: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
+msgid "We found "
+msgstr "מצאנו"
+
+#: templates/advanced_search/advanced_search_type_half.php:411
+#: templates/advanced_search_type_half.php:403 templates/preview_template.php:8
+msgid "results."
+msgstr "תוצאות."
+
+#: templates/advanced_search/adv_search_mobile.php:222
+#: templates/adv_search_mobile.php:215
+msgid "we found"
+msgstr "מצאנו"
+
+#: templates/advanced_search/adv_search_mobile.php:222
+#: templates/adv_search_mobile.php:215
+msgid "results"
+msgstr "תוצאות"
+
+#: templates/agency_agents.php:43
+#: templates/agency_templates/agency_agents.php:43
+msgid "We don't have any agents yet!"
+msgstr "אין לנו עדיין סוכנים!"
+
+#: templates/agency_agents.php:45
+#: templates/agency_templates/agency_agents.php:45
+msgid "Our Agents"
+msgstr "הסוכנים שלנו"
+
+#: templates/agency_listings.php:175
+#: templates/agency_templates/agency_listings.php:175
+#: templates/agent_listings.php:204 templates/developer_listings.php:131
+#: templates/developer_templates/developer_listings.php:131
+msgid "Load More Properties"
+msgstr "טען מאפיינים נוספים"
+
+#: templates/agency_reviews.php:3
+#: templates/agency_templates/agency_reviews.php:3
+msgid "Agency Reviews "
+msgstr "ביקורות הסוכנות"
+
+#: templates/agency_unit.php:140
+#: templates/agent_card_templates/agent_unit.php:26
+#: templates/agent_card_templates/agent_unit_4.php:26
+#: templates/agent_unit.php:24 templates/agent_unit_widget.php:111
+msgid "listing"
+msgstr "רישום"
+
+#: templates/agent_card_templates/agent_unit_featured.php:83
+#: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
+#: templates/featured_property_1.php:131
+msgid "My Listings"
+msgstr "הרשימה שלי"
+
+#: templates/agent_contact.php:92
+#: templates/listing_templates/contact_form/contact_form_simple.php:5
+#: templates/property_page!/contact_form/contact_form_simple.php:10
+msgid "I'm interested in"
+msgstr "אני מעוניין ב"
+
+#: templates/agent_contact.php:101
+#: templates/listing_templates/contact_form/contact_form_simple.php:25
+#: templates/property_page!/contact_form/contact_form_simple.php:18
+#: templates/realtor_templates/agent_contact_bar.php:13
+msgid "Send Email"
+msgstr "שלח אימייל"
+
+#: templates/agent_contact.php:115
+#: templates/listing_templates/contact_form/contact_form_simple.php:43
+#: templates/property_page!/contact_form/contact_form_simple.php:35
+msgid "Send Private Message"
+msgstr "שלח הודעה פרטית"
+
+#: templates/agent_contact.php:116
+#: templates/listing_templates/contact_form/contact_form_simple.php:44
+#: templates/property_page!/contact_form/contact_form_simple.php:36
+msgid ""
+"You can reply to private messages from \"Inbox\" page in your user account."
+msgstr "תוכל להשיב להודעות פרטיות מדף &#39;דואר נכנס&#39; בחשבון המשתמש שלך."
+
+#: templates/agent_reviews.php:2
+msgid "Agent Reviews "
+msgstr "ביקורות הסוכן"
+
+#: templates/ajax_container.php:2
+msgid "Your search results"
+msgstr "תוצאות החיפוש שלך"
+
+#: templates/blog_card_templates/blog_unit.php:66 templates/blog_unit.php:64
+msgid "Continue Reading"
+msgstr "המשך לקרוא"
+
+#: templates/blog_card_templates/blog_unit2.php:113
+#: templates/blog_card_templates/blog_unit3.php:79 templates/blog_unit2.php:113
+#: templates/blog_unit3.php:79
+msgid "Continue reading"
+msgstr "המשך לקרוא"
+
+#: templates/breadcrumbs.php:27
+#: templates/listing_templates/property-page-templates/property-page-breadcrumbs.php:35
+msgid "Home"
+msgstr "בית"
+
+#: templates/breadcrumbs.php:32
+msgid "Archives"
+msgstr "אַרְכִיוֹן"
+
+#: templates/compare_list.php:16
+msgid "Compare"
+msgstr "לְהַשְׁווֹת"
+
+#: templates/dashboard-templates/add_new_agent.php:19
+#: templates/dashboard-templates/user_menu.php:7
+#: templates/dashboard-templates/user_profile_agency.php:327
+#: templates/dashboard-templates/user_profile_agent.php:441
+#: templates/dashboard-templates/user_profile_developer.php:324
+msgid "Your account is pending approval. Please wait for admin to approve it. "
+msgstr "החשבון שלך ממתין לאישור. המתן לאישור מנהל המערכת."
+
+#: templates/dashboard-templates/add_new_agent.php:22
+#: templates/dashboard-templates/user_menu.php:10
+#: templates/dashboard-templates/user_profile_agency.php:330
+#: templates/dashboard-templates/user_profile_agent.php:444
+#: templates/dashboard-templates/user_profile_developer.php:327
+msgid "Your account is disabled."
+msgstr "החשבון שלך מושבת."
+
+#: templates/dashboard-templates/add_new_agent.php:33
+#: templates/dashboard-templates/add_new_agent_template.php:416
+#: templates/dashboard-templates/user_profile.php:141
+#: templates/dashboard-templates/user_profile_agency.php:286
+#: templates/dashboard-templates/user_profile_agent.php:399
+#: templates/dashboard-templates/user_profile_developer.php:260
+msgid "Photo"
+msgstr "תמונה"
+
+#: templates/dashboard-templates/add_new_agent.php:34
+msgid "Upload your profile photo."
+msgstr "העלה את תמונת הפרופיל שלך."
+
+#: templates/dashboard-templates/add_new_agent.php:44
+#: templates/dashboard-templates/add_new_agent_template.php:423
+#: templates/dashboard-templates/user_profile.php:149
+#: templates/dashboard-templates/user_profile_agency.php:295
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:269
+msgid "Upload  profile image."
+msgstr "העלה תמונת פרופיל."
+
+#: templates/dashboard-templates/add_new_agent.php:50
+#: templates/dashboard-templates/add_new_agent_template.php:429
+#: templates/dashboard-templates/user_profile.php:157
+#: templates/dashboard-templates/user_profile_agency.php:302
+#: templates/dashboard-templates/user_profile_agent.php:412
+#: templates/dashboard-templates/user_profile_developer.php:276
+msgid "*minimum 500px x 500px"
+msgstr "* מינימום 500px x 500px"
+
+#: templates/dashboard-templates/add_new_agent.php:56
+#: templates/dashboard-templates/add_new_agent.php:98
+#: templates/dashboard-templates/add_new_agent.php:251
+#: templates/dashboard-templates/user_profile.php:117
+msgid "User Details"
+msgstr "פרטי המשתמש"
+
+#: templates/dashboard-templates/add_new_agent.php:57
+msgid "Add your contact information."
+msgstr "הוסף את פרטי הקשר שלך."
+
+#: templates/dashboard-templates/add_new_agent.php:63
+#: templates/dashboard-templates/add_new_agent_template.php:32
+#: templates/dashboard-templates/user_profile.php:18
+#: templates/dashboard-templates/user_profile_agent.php:14
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: templates/dashboard-templates/add_new_agent.php:68
+#: templates/dashboard-templates/add_new_agent_template.php:37
+#: templates/dashboard-templates/user_profile.php:23
+#: templates/dashboard-templates/user_profile_agent.php:19
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: templates/dashboard-templates/add_new_agent.php:83
+#: templates/dashboard-templates/add_new_agent_template.php:47
+#: templates/dashboard-templates/user_profile.php:38
+#: templates/dashboard-templates/user_profile_agency.php:30
+#: templates/dashboard-templates/user_profile_agent.php:35
+#: templates/dashboard-templates/user_profile_developer.php:28
+msgid "Mobile"
+msgstr "נייד"
+
+#: templates/dashboard-templates/add_new_agent.php:88
+#: templates/dashboard-templates/add_new_agent_template.php:59
+#: templates/dashboard-templates/user_profile.php:43
+#: templates/dashboard-templates/user_profile_agency.php:35
+#: templates/dashboard-templates/user_profile_agent.php:40
+#: templates/dashboard-templates/user_profile_developer.php:33
+msgid "Skype"
+msgstr "סקייפ"
+
+#: templates/dashboard-templates/add_new_agent.php:99
+msgid "Add your social media information."
+msgstr "הוסף את פרטי המדיה החברתית שלך."
+
+#: templates/dashboard-templates/add_new_agent.php:104
+#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/user_profile.php:52
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:133
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
+msgid "Facebook Url"
+msgstr "כתובת אתר של פייסבוק"
+
+#: templates/dashboard-templates/add_new_agent.php:109
+#: templates/dashboard-templates/add_new_agent_template.php:90
+#: templates/dashboard-templates/user_profile.php:57
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "X - Twitter Url"
+msgstr "X - כתובת אתר של טוויטר"
+
+#: templates/dashboard-templates/add_new_agent.php:114
+#: templates/dashboard-templates/add_new_agent_template.php:100
+#: templates/dashboard-templates/user_profile.php:62
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
+msgid "Linkedin Url"
+msgstr "כתובת אתר מקושרת"
+
+#: templates/dashboard-templates/add_new_agent.php:120
+#: templates/dashboard-templates/add_new_agent_template.php:85
+#: templates/dashboard-templates/user_profile.php:67
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agency.php:138
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
+msgid "Instagram Url"
+msgstr "כתובת אתר Instagram"
+
+#: templates/dashboard-templates/add_new_agent.php:125
+#: templates/dashboard-templates/add_new_agent_template.php:95
+#: templates/dashboard-templates/user_profile.php:72
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
+msgid "Pinterest Url"
+msgstr "Pinterest כתובת האתר"
+
+#: templates/dashboard-templates/add_new_agent.php:130
+#: templates/dashboard-templates/add_new_agent_template.php:125
+#: templates/dashboard-templates/user_profile.php:78
+#: templates/dashboard-templates/user_profile_agency.php:125
+#: templates/dashboard-templates/user_profile_agent.php:114
+#: templates/dashboard-templates/user_profile_developer.php:117
+msgid "Website Url (without http)"
+msgstr "כתובת אתר של אתר (ללא http)"
+
+#: templates/dashboard-templates/add_new_agent.php:140
+#: templates/dashboard-templates/add_new_agent_template.php:285
+#: templates/dashboard-templates/user_profile_agent.php:250
+msgid "Agent Area/Categories"
+msgstr "אזור הסוכן / קטגוריות"
+
+#: templates/dashboard-templates/add_new_agent.php:141
+msgid "What kind of listings do you handle?"
+msgstr "איזה סוג של רישומים אתה מטפל?"
+
+#: templates/dashboard-templates/add_new_agent.php:205
+#: templates/dashboard-templates/add_new_agent_template.php:333
+#: templates/dashboard-templates/user_profile_agent.php:312
+msgid "Agent Custom Data"
+msgstr "נתונים מותאמים אישית של הסוכן"
+
+#: templates/dashboard-templates/add_new_agent.php:206
+msgid "Any custom parameters for agent"
+msgstr "כל פרמטרים מותאמים אישית עבור סוכן"
+
+#: templates/dashboard-templates/add_new_agent.php:210
+#: templates/dashboard-templates/add_new_agent_template.php:373
+#: templates/dashboard-templates/user_profile_agent.php:352
+msgid "Add Custom Field"
+msgstr "הוסף שדה מותאם אישית"
+
+#: templates/dashboard-templates/add_new_agent.php:215
+msgid "User Param 1"
+msgstr "משתמש 1"
+
+#: templates/dashboard-templates/add_new_agent.php:227
+msgid "In what area are your properties"
+msgstr "באיזה שטח הם הנכסים שלך"
+
+#: templates/dashboard-templates/add_new_agent.php:252
+msgid "Add some information about yourself."
+msgstr "הוסף קצת מידע על עצמך."
+
+#: templates/dashboard-templates/add_new_agent.php:256
+#: templates/dashboard-templates/add_new_agent_template.php:157
+#: templates/dashboard-templates/user_profile.php:87
+#: templates/dashboard-templates/user_profile_agent.php:148
+msgid "Title/Position"
+msgstr "עמדת כותרת"
+
+#: templates/dashboard-templates/add_new_agent.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:163
+#: templates/dashboard-templates/user_profile_agent.php:154
+msgid "About Me"
+msgstr "עליי"
+
+#: templates/dashboard-templates/add_new_agent.php:265
+#: templates/dashboard-templates/user_profile.php:122
+#: templates/dashboard-templates/user_profile_agency.php:267
+#: templates/dashboard-templates/user_profile_agent.php:371
+#: templates/dashboard-templates/user_profile_developer.php:239
+msgid "Update profile"
+msgstr "עדכן פרופיל"
+
+#: templates/dashboard-templates/add_new_agent.php:266
+#: templates/dashboard-templates/user_profile.php:123
+#: templates/dashboard-templates/user_profile_agency.php:277
+#: templates/dashboard-templates/user_profile_agent.php:383
+#: templates/dashboard-templates/user_profile_developer.php:251
+msgid "Delete profile"
+msgstr "מחק פרופיל"
+
+#: templates/dashboard-templates/add_new_agent_template.php:22
+msgid "Agent Password"
+msgstr "סיסמת הסוכן"
+
+#: templates/dashboard-templates/add_new_agent_template.php:27
+msgid "Re-type Password"
+msgstr "כתוב את הסיסמא מחדש"
+
+#: templates/dashboard-templates/add_new_agent_template.php:65
+#: templates/dashboard-templates/user_profile_agent.php:46
+msgid "Member of"
+msgstr "חבר ב"
+
+#: templates/dashboard-templates/add_new_agent_template.php:105
+#: templates/dashboard-templates/user_profile_agency.php:103
+#: templates/dashboard-templates/user_profile_agent.php:93
+#: templates/dashboard-templates/user_profile_developer.php:97
+msgid "Youtube Url"
+msgstr "כתובת יוטיוב"
+
+#: templates/dashboard-templates/add_new_agent_template.php:110
+#: templates/dashboard-templates/user_profile_agency.php:108
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:102
+msgid "TikTok Url"
+msgstr "כתובת האתר של TikTok"
+
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:113
+#: templates/dashboard-templates/user_profile_agent.php:103
+#: templates/dashboard-templates/user_profile_developer.php:107
+msgid "Telegram Url"
+msgstr "כתובת אתר של טלגרם"
+
+#: templates/dashboard-templates/add_new_agent_template.php:120
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:108
+#: templates/dashboard-templates/user_profile_developer.php:112
+msgid "Vimeo Url"
+msgstr "כתובת אתר של Vimeo"
+
+#: templates/dashboard-templates/add_new_agent_template.php:170
+#: templates/dashboard-templates/user_profile_agency.php:201
+#: templates/dashboard-templates/user_profile_agent.php:161
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Private Notes"
+msgstr "הערות פרטיות"
+
+#: templates/dashboard-templates/add_new_agent_template.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:386
+#: templates/dashboard-templates/user_profile_agent.php:362
+msgid "Agent Details"
+msgstr "פרטי הסוכן"
+
+#: templates/dashboard-templates/add_new_agent_template.php:265
+msgid "Agent Username"
+msgstr "שם משתמש של הסוכן"
+
+#: templates/dashboard-templates/add_new_agent_template.php:269
+msgid "Username:"
+msgstr "שם משתמש:"
+
+#: templates/dashboard-templates/add_new_agent_template.php:269
+msgid "is not editable"
+msgstr "אינו ניתן לעריכה"
+
+#: templates/dashboard-templates/add_new_agent_template.php:279
+msgid "Agent Social Details"
+msgstr "פרטים חברתיים של סוכן"
+
+#: templates/dashboard-templates/add_new_agent_template.php:337
+#: templates/dashboard-templates/add_new_agent_template.php:358
+#: templates/dashboard-templates/user_profile_agent.php:316
+#: templates/dashboard-templates/user_profile_agent.php:337
+msgid "Parameter Label"
+msgstr "תווית פרמטר"
+
+#: templates/dashboard-templates/add_new_agent_template.php:341
+#: templates/dashboard-templates/add_new_agent_template.php:362
+#: templates/dashboard-templates/user_profile_agent.php:320
+#: templates/dashboard-templates/user_profile_agent.php:341
+msgid "Parameter Value"
+msgstr "ערך פרמטר"
+
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/user_profile_agent.php:357
+msgid "Agent Location"
+msgstr "מיקום סוכן"
+
+#: templates/dashboard-templates/add_new_agent_template.php:397
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
+msgid "Edit Agent"
+msgstr "ערוך את הסוכן"
+
+#: templates/dashboard-templates/change_pass_template.php:2
+msgid "Change Password"
+msgstr "שנה סיסמא"
+
+#: templates/dashboard-templates/change_pass_template.php:6
+msgid "Old Password"
+msgstr "סיסמה ישנה"
+
+#: templates/dashboard-templates/change_pass_template.php:11
+msgid "New Password "
+msgstr "סיסמה חדשה"
+
+#: templates/dashboard-templates/change_pass_template.php:15
+msgid "Confirm New Password"
+msgstr "תאשר סיסמא חדשה"
+
+#: templates/dashboard-templates/change_pass_template.php:21
+#: templates/login_register_modal.php:149
+#: templates/login_register_modal.php:160 templates/mobile_menu.php:180
+#: templates/mobile_menu.php:188
+msgid "Reset Password"
+msgstr "לאפס את הסיסמה"
+
+#: templates/dashboard-templates/dashboard-left-col.php:17
+msgid "Welcome back, "
+msgstr "ברוך שובך,"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:3
+msgid "Order By"
+msgstr "סדר לפי"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:8
+msgid "Default Order"
+msgstr "מיון דיפולטיבי"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:12
+msgid "Price -  High to Low"
+msgstr "מחיר - מהגבוה עד נמוך"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:16
+msgid "Price -  Low to High"
+msgstr "מחיר - מנמוך לגבוה"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:20
+msgid "Bathrooms -  High to Low"
+msgstr "חדרי אמבטיה גבוהים עד נמוכים"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:24
+msgid "Bathrooms -Low to High"
+msgstr "חדרי אמבטיה נמוכים עד גבוהים"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:28
+msgid "Date - Old to New"
+msgstr "תאריך - מישן לחדש"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:32
+msgid "Date - New to Old"
+msgstr "תאריך-חדש לישן"
+
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:34
+msgid "Filter By Status"
+msgstr "סנן לפי מצב"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+msgid "Delete Agent"
+msgstr "מחק את הסוכן"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:35
+msgid "Edit property"
+msgstr "ערוך את המאפיין"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:40
+msgid "Delete property"
+msgstr "מחק את המאפיין"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:54
+msgid "Duplicate Property"
+msgstr "מאפיין כפול"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:62
+msgid "Not enough listings to duplicate "
+msgstr "אין די רישומים לשכפול "
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:70
+msgid "Views Stats"
+msgstr "סטטיסטיקות נתונים"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:77
+msgid "Resend for approval"
+msgstr "שלח שוב לאישור"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:88
+msgid "Paid & Featured"
+msgstr "בתשלום &amp; מוצג"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:122
+msgid ""
+"Set as featured,  *Listings set as featured are subtracted from your package"
+msgstr "קבע כמו בהשתתפות, * רישומים להגדיר כמו בהשתתפות הם מופחתים מהחבילה שלך"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:122
+msgid "Set as featured"
+msgstr "קבע כמוצג"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:18
+msgid "Submission Fee"
+msgstr "דמי הגשת"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:42
+#: templates/dashboard-templates/user_memebership_profile.php:193
+msgid "Wire Transfer"
+msgstr "העברה בנקאית"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:51
+msgid "Featured  Fee"
+msgstr "דמי מוצעים"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:67
+msgid "Upgrade to featured"
+msgstr "שדרג לתצוגה"
+
+#: templates/dashboard-templates/dashboard_agent_unit.php:36
+msgid "user id:"
+msgstr "זהות המשתמש:"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:56
+#: templates/dashboard-templates/user_memebership_profile.php:140
+#: templates/featured_property_1.php:50 templates/featured_property_2.php:47
+#: templates/featured_property_3.php:54 templates/featured_property_4.php:63
+#: templates/property_cards_templates/property_card_featured_label.php:7
+#: templates/property_cards_templates/property_card_tags.php:6
+#: templates/property_slider_shortcode_v3.php:73
+#: templates/property_slider_shortcode_v3_test.php:47
+msgid "Featured"
+msgstr "מומלצים"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:80
+msgid "Expires on "
+msgstr "פג תוך ב"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:120
+msgid "Remove From Favorites"
+msgstr "הסרה מן המועדפים"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:26
+msgid "Publish Listing with Feature"
+msgstr "פרסם רשימה עם תכונה"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:39
+msgid "One Time"
+msgstr "פעם אחת"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:41
+msgid "Recurring"
+msgstr "מַחזוֹרִי"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:68
+#: templates/listing_templates/overview_template.php:35
+msgid "Print"
+msgstr "הדפסה"
+
+#: templates/dashboard-templates/message-listing-unit.php:20
+msgid "new message"
+msgstr "הודעה חדשה"
+
+#: templates/dashboard-templates/message-listing-unit.php:27
+msgid "Conversation started by you "
+msgstr "השיחה התחילה על ידך"
+
+#: templates/dashboard-templates/message-listing-unit.php:29
+msgid "From"
+msgstr "מ"
+
+#: templates/dashboard-templates/message-listing-unit.php:44
+msgid "reply to message"
+msgstr "השב להודעה"
+
+#: templates/dashboard-templates/message-listing-unit.php:48
+msgid "delete message"
+msgstr "למחוק הודעה"
+
+#: templates/dashboard-templates/message-listing-unit.php:84
+msgid "From: "
+msgstr "מ:"
+
+#: templates/dashboard-templates/message-listing-unit.php:102
+msgid "Send Reply"
+msgstr "שלח תגובה"
+
+#: templates/dashboard-templates/search_unit.php:18
+#: templates/half_map_core.php:84 templates/normal_map_core.php:90
+msgid "Search Parameters: "
+msgstr "פרמטרים לחיפוש:"
+
+#: templates/dashboard-templates/search_unit.php:24
+msgid "delete search"
+msgstr "מחק חיפוש"
+
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "cancel stripe subscription"
+msgstr "ביטול מנוי"
+
+#: templates/dashboard-templates/user_memebership_profile.php:52
+msgid "See Available Packages and Payment Methods"
+msgstr "ראה חבילות זמינות ושיטות תשלום"
+
+#: templates/dashboard-templates/user_memebership_profile.php:62
+msgid "Packages Available"
+msgstr "חבילות זמין"
+
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "User"
+msgstr "מִשׁתַמֵשׁ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:127
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "Unlimited"
+msgstr "ללא הגבלה"
+
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "listings "
+msgstr "רישומים"
+
+#: templates/dashboard-templates/user_memebership_profile.php:141
+msgid "Images / per listing"
+msgstr "תמונות / לכל רישום"
+
+#: templates/dashboard-templates/user_memebership_profile.php:144
+msgid "Select package"
+msgstr "בחר את החבילה"
+
+#: templates/dashboard-templates/user_memebership_profile.php:162
+msgid "Payment Method"
+msgstr "אמצעי תשלום"
+
+#: templates/dashboard-templates/user_memebership_profile.php:176
+msgid "make payment recurring "
+msgstr "לבצע תשלום חוזר"
+
+#: templates/dashboard-templates/user_memebership_profile.php:221
+msgid "days"
+msgstr "ימים"
+
+#: templates/dashboard-templates/user_memebership_profile.php:224
+msgid "weeks"
+msgstr "שבועות"
+
+#: templates/dashboard-templates/user_memebership_profile.php:227
+msgid "months"
+msgstr "חודשים"
+
+#: templates/dashboard-templates/user_memebership_profile.php:230
+msgid "year"
+msgstr "שָׁנָה"
+
+#: templates/dashboard-templates/user_memebership_profile.php:232
+msgid "years"
+msgstr "שנים"
+
+#: templates/dashboard-templates/user_profile.php:111
+msgid "Social Media"
+msgstr "מדיה חברתית"
+
+#: templates/dashboard-templates/user_profile_agency.php:14
+msgid "Agency Name"
+msgstr "שם הסוכנות"
+
+#: templates/dashboard-templates/user_profile_agency.php:40
+msgid "Languages"
+msgstr "שפות"
+
+#: templates/dashboard-templates/user_profile_agency.php:45
+#: templates/dashboard-templates/user_profile_developer.php:48
+msgid "Taxes"
+msgstr "מסים"
+
+#: templates/dashboard-templates/user_profile_agency.php:50
+#: templates/dashboard-templates/user_profile_developer.php:53
+msgid "License"
+msgstr "רישיון"
+
+#: templates/dashboard-templates/user_profile_agency.php:60
+#: templates/google-map-contact-details.php:49
+msgid "Opening Hours"
+msgstr "שעות פתיחה"
+
+#: templates/dashboard-templates/user_profile_agency.php:69
+#: templates/dashboard-templates/user_profile_agent.php:59
+#: templates/dashboard-templates/user_profile_developer.php:62
+msgid "HubSpot Private Application Token"
+msgstr "אסימון יישום פרטי של HubSpot"
+
+#: templates/dashboard-templates/user_profile_agency.php:194
+#: templates/dashboard-templates/user_profile_agency.php:263
+#: templates/dashboard-templates/user_profile_developer.php:172
+#: templates/dashboard-templates/user_profile_developer.php:235
+msgid "About Agency"
+msgstr "אודות הסוכנות"
+
+#: templates/dashboard-templates/user_profile_agency.php:239
+#: templates/dashboard-templates/user_profile_agent.php:244
+#: templates/dashboard-templates/user_profile_developer.php:211
+msgid "Social Information"
+msgstr "רשת חברתית"
+
+#: templates/dashboard-templates/user_profile_agency.php:255
+#: templates/dashboard-templates/user_profile_developer.php:227
+msgid "Place Pin with Agency Address"
+msgstr "מקום פין עם כתובת הסוכנות"
+
+#: templates/dashboard-templates/user_profile_agency.php:274
+#: templates/dashboard-templates/user_profile_agent.php:379
+#: templates/dashboard-templates/user_profile_developer.php:248
+msgid "View public profile"
+msgstr "הצג את הפרופיל הציבורי"
+
+#: templates/dashboard-templates/user_profile_developer.php:12
+msgid "Developer Name"
+msgstr "שם המפתח"
+
+#: templates/developer_reviews.php:2
+#: templates/developer_templates/developer_reviews.php:2
+msgid "Developer Reviews "
+msgstr "ביקורות למפתחים"
+
+#: templates/directory_filters.php:190
+msgid "Size:"
+msgstr "גודל:"
+
+#: templates/directory_filters.php:207
+msgid "Lot Size:"
+msgstr "גודל מגרש:"
+
+#: templates/directory_filters.php:226
+msgid "Property Rooms:"
+msgstr "חדרים:"
+
+#: templates/directory_filters.php:245
+msgid "Property Bedrooms:"
+msgstr "חדרי שינה:"
+
+#: templates/directory_filters.php:264
+msgid "Property Bathrooms:"
+msgstr "חדרי אמבטיה:"
+
+#: templates/directory_filters.php:296
+msgid "Property Status:"
+msgstr "מצב הנכס:"
+
+#: templates/directory_filters.php:305
+msgid "Property Keyword:"
+msgstr "מילת מפתח של נכס:"
+
+#: templates/email_templates/contact_email_template.php:18
+#: templates/email_templates/contact_email_template_elementor.php:18
+#: templates/email_templates/schedule_tour_email_template.php:17
+msgid "Hello there,"
+msgstr "שלום לך,"
+
+#: templates/email_templates/contact_email_template.php:20
+#: templates/email_templates/contact_email_template_elementor.php:20
+msgid "New Message"
+msgstr "הודעה חדשה"
+
+#: templates/email_templates/contact_email_template.php:24
+#: templates/email_templates/contact_email_template_elementor.php:24
+msgid "You have received a new contact message from "
+msgstr "קיבלת הודעת קשר חדשה מאת"
+
+#: templates/email_templates/contact_email_template.php:30
+#: templates/email_templates/contact_email_template_elementor.php:30
+#: templates/email_templates/schedule_tour_email_template.php:28
+msgid "These are the details:"
+msgstr "אלו הפרטים:"
+
+#: templates/email_templates/contact_email_template.php:40
+#: templates/email_templates/contact_email_template_elementor.php:37
+#: templates/email_templates/schedule_tour_email_template.php:42
+msgid "Message"
+msgstr "הודעה"
+
+#: templates/email_templates/contact_email_template.php:46
+#: templates/email_templates/contact_email_template_elementor.php:43
+#: templates/email_templates/schedule_tour_email_template.php:48
+msgid "Sent From"
+msgstr "נשלח מ"
+
+#: templates/email_templates/schedule_tour_email_template.php:19
+msgid "Schedule a Tour"
+msgstr "תזמן סיור"
+
+#: templates/email_templates/schedule_tour_email_template.php:22
+msgid "You have received a request for a property tour on "
+msgstr "קיבלת בקשה לסיור בנכס"
+
+#: templates/email_templates/schedule_tour_email_template.php:38
+msgid "Hour"
+msgstr "שעה"
+
+#: templates/email_templates/schedule_tour_email_template.php:40
+msgid "Mode"
+msgstr "מצב"
+
+#: templates/featured_property_4.php:144
+#: templates/property_cards_templates/property_card_details_type.php:30
+msgid "full info"
+msgstr "מידע מלא"
+
+#: templates/featured_property_4.php:145
+msgid "map"
+msgstr "מַפָּה"
+
+#: templates/featured_property_4b.php:13
+msgid "Featured Property"
+msgstr "נכס מוצג"
+
+#: templates/featured_property_4b.php:17 templates/featured_property_5.php:51
+msgid "discover more"
+msgstr "לגלות עוד"
+
+#: templates/footer_buttons.php:22
+msgid "Use the form below to contact us!"
+msgstr "השתמש בטופס למטה כדי ליצור איתנו קשר!"
+
+#: templates/footer_buttons.php:31
+msgid "Type your message..."
+msgstr "הקלד את ההודעה שלך ..."
+
+#: templates/footer_buttons.php:36
+msgid "Send"
+msgstr "לִשְׁלוֹחַ"
+
+#: templates/front_end_submission.php:152
+#: templates/front_end_submission.php:157
+#: templates/front_end_submission.php:194
+#: templates/front_end_submission.php:199 user_dashboard_add.php:111
+#: user_dashboard_add.php:255
+msgid "Save as Draft"
+msgstr "שמור כטיוטה"
+
+#: templates/front_end_submission.php:156
+#: templates/front_end_submission.php:198
+msgid "Add Property"
+msgstr "הוסף נכס"
+
+#: templates/google-map-contact-details.php:33
+msgid "How To Find Us"
+msgstr "איך למצוא אותנו"
+
+#: templates/google_maps_base.php:67
+msgid "click to enable zoom"
+msgstr "לחץ כדי לאפשר זום"
+
+#: templates/google_maps_base.php:69 templates/google_maps_base_map_list.php:16
+msgid "loading..."
+msgstr "טעינת..."
+
+#: templates/google_maps_base.php:93 templates/google_maps_base_map_list.php:5
+msgid "View"
+msgstr "נוף"
+
+#: templates/google_maps_base.php:94 templates/google_maps_base_map_list.php:6
+msgid "Roadmap"
+msgstr "מפת דרכים"
+
+#: templates/google_maps_base.php:95 templates/google_maps_base_map_list.php:7
+msgid "Satellite"
+msgstr "הלוויין"
+
+#: templates/google_maps_base.php:96 templates/google_maps_base_map_list.php:8
+msgid "Hybrid"
+msgstr "היברידי"
+
+#: templates/google_maps_base.php:97 templates/google_maps_base_map_list.php:9
+msgid "Terrain"
+msgstr "פְּנֵי הַשֵׁטַח"
+
+#: templates/google_maps_base.php:98 templates/google_maps_base_map_list.php:11
+msgid "My Location"
+msgstr "המיקום שלי"
+
+#: templates/google_maps_base.php:102
+msgid "Prev"
+msgstr "הקודם"
+
+#: templates/google_maps_base.php:103
+msgid "Next"
+msgstr "הַבָּא"
+
+#: templates/google_maps_base.php:113
+msgid "Google Maps Search"
+msgstr "חיפוש במפות Google"
+
+#: templates/half_map_core.php:90 templates/normal_map_core.php:95
+msgid "Save this Search?"
+msgstr "שמור את החיפוש הזה?"
+
+#: templates/half_map_core.php:91 templates/normal_map_core.php:96
+msgid "Search name"
+msgstr "חפש שם"
+
+#: templates/half_map_core.php:92 templates/normal_map_core.php:97
+msgid "Save Search"
+msgstr "שמור חיפוש"
+
+#: templates/half_map_core.php:108 templates/login_register_modal.php:65
+#: templates/mobile_menu.php:89 templates/mobile_menu.php:100
+#: templates/normal_map_core.php:113
+msgid "Login"
+msgstr "התחברות"
+
+#: templates/half_map_core.php:108 templates/normal_map_core.php:113
+msgid ""
+"to save search and you will receive an email notification when new "
+"properties matching your search will be published."
+msgstr ""
+"כדי לשמור את החיפוש ותקבל הודעת דואר אלקטרוני כאשר נכסים חדשים התואמים "
+"לחיפוש שלך יפורסמו."
+
+#: templates/half_map_core.php:127 templates/normal_map_core.php:167
+msgid "Properties listed in "
+msgstr "מאפיינים רשומים ב"
+
+#: templates/half_map_core.php:179
+msgid "Map View"
+msgstr "תצוגת מפה"
+
+#: templates/header_agency.php:85 templates/header_developer.php:111
+msgid "Website:"
+msgstr "אתר אינטרנט:"
+
+#: templates/header_agency.php:91
+msgid "We Speak:"
+msgstr "אנחנו מדברים:"
+
+#: templates/header_agency.php:97
+msgid "Opening Hours:"
+msgstr "שעות פתיחה:"
+
+#: templates/header_agency.php:103 templates/header_developer.php:121
+msgid "License:"
+msgstr "רישיון:"
+
+#: templates/header_agency.php:109 templates/header_developer.php:126
+msgid "Our Taxes:"
+msgstr "המסים שלנו:"
+
+#: templates/image_gallery.php:103
+msgid "Want to find out more?"
+msgstr "רוצה לדעת עוד?"
+
+#: templates/listing_templates/agent_section/agent_details_2.php:52
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "עליי"
+
+#: templates/listing_templates/contact_form/contact_form_simple.php:10
+msgid "I would like to schedule a tour for "
+msgstr "אני רוצה לקבוע סיור עבור"
+
+#: templates/listing_templates/favorite_under_title.php:21
+#: templates/listing_templates/property-page-templates/favorite_under_title.php:21
+msgid "Favorite"
+msgstr "מועדף"
+
+#: templates/listing_templates/overview_template.php:24
+msgid "share this page"
+msgstr "שתף דף זה"
+
+#: templates/listing_templates/overview_template.php:25
+msgid "Share"
+msgstr "שתף"
+
+#: templates/listing_templates/overview_template.php:34
+msgid "print page"
+msgstr "הדפס עמוד"
+
+#: templates/listing_templates/property-page-templates/single-overview-section.php:21
+#: templates/listing_templates/single-overview-section.php:20
+msgid "Updated On:"
+msgstr "עודכן ב:"
+
+#: templates/listing_templates/property_multi_units.php:103
+#: templates/multi_units.php:137
+msgid "Category: "
+msgstr "קטגוריה:"
+
+#: templates/listing_templates/property_multi_units.php:105
+#: templates/multi_units.php:139
+msgid "Rooms: "
+msgstr "חדרים:"
+
+#: templates/listing_templates/property_multi_units.php:108
+#: templates/multi_units.php:142
+msgid "Bedrooms: "
+msgstr "חדרי שינה:"
+
+#: templates/listing_templates/property_multi_units.php:111
+#: templates/multi_units.php:145
+msgid "Baths: "
+msgstr "אמבטיות:"
+
+#: templates/listing_templates/property_multi_units.php:114
+#: templates/multi_units.php:148
+msgid "Size: "
+msgstr "גודל:"
+
+#: templates/listing_templates/property_page_schedule_tour.php:48
+#: templates/listing_templates/property_page_schedule_tour_layout_v2.php:45
+msgid "Your information"
+msgstr "מידע"
+
+#: templates/listing_templates/schedule_tour/schedule_tour_options.php:10
+#: templates/property_page!/schedule_tour/schedule_tour_options.php:10
+msgid "Please select the time"
+msgstr "אנא בחר את השעה"
+
+#: templates/listing_templates/schedule_tour/schedule_tour_options.php:26
+#: templates/property_page!/schedule_tour/schedule_tour_options.php:25
+msgid "In Person"
+msgstr "באופן אישי"
+
+#: templates/listing_templates/schedule_tour/schedule_tour_options.php:31
+#: templates/property_page!/schedule_tour/schedule_tour_options.php:29
+msgid "Video Chat"
+msgstr "צ'אט וידאו"
+
+#: templates/login_register_modal.php:51
+msgid "Sign into your account"
+msgstr "תתחבר לחשבון שלך"
+
+#: templates/login_register_modal.php:56 templates/login_register_modal.php:85
+#: templates/mobile_menu.php:93 templates/mobile_menu.php:118
+msgid "Username"
+msgstr "שם משתמש"
+
+#: templates/login_register_modal.php:58 templates/login_register_modal.php:93
+#: templates/mobile_menu.php:94 templates/mobile_menu.php:124
+msgid "Password"
+msgstr "סיסמה"
+
+#: templates/login_register_modal.php:70
+msgid "or"
+msgstr "אוֹ"
+
+#: templates/login_register_modal.php:83
+msgid "Create an account"
+msgstr "צור חשבון"
+
+#: templates/login_register_modal.php:95 templates/mobile_menu.php:126
+msgid "Retype Password"
+msgstr "כתוב את הסיסמא מחדש"
+
+#: templates/login_register_modal.php:115 templates/mobile_menu.php:143
+msgid "Select User Type"
+msgstr "בחר סוג משתמש"
+
+#: templates/login_register_modal.php:130 templates/mobile_menu.php:159
+msgid "I agree with "
+msgstr "אני מסכים עם"
+
+#: templates/login_register_modal.php:130 templates/mobile_menu.php:159
+msgid "terms & conditions"
+msgstr "תנאים והתניות"
+
+#: templates/login_register_modal.php:139 templates/mobile_menu.php:168
+msgid "A password will be e-mailed to you"
+msgstr "סיסמה תישלח אליך בדואר אלקטרוני"
+
+#: templates/login_register_modal.php:143 templates/mobile_menu.php:114
+#: templates/mobile_menu.php:174
+msgid "Register"
+msgstr "הירשם"
+
+#: templates/login_register_modal.php:152 templates/mobile_menu.php:184
+msgid "Enter Your Email Address"
+msgstr "הזן את כתובת הדואר האלקטרוני שלך"
+
+#: templates/login_register_modal.php:165
+msgid "Register here!"
+msgstr "הירשם כאן!"
+
+#: templates/login_register_modal.php:166
+msgid "Forgot password?"
+msgstr "שכחת סיסמא?"
+
+#: templates/login_register_modal.php:168
+#: templates/login_register_modal.php:169
+msgid "Back to login"
+msgstr "חזרה להתחברות"
+
+#: templates/mobile_menu.php:43 templates/top_user_menu.php:53
+msgid "Add Listing"
+msgstr "הוסף רשימה"
+
+#: templates/mobile_menu.php:102
+msgid "Need an account? Register here!"
+msgstr "זקוק לחשבון? הירשם כאן!"
+
+#: templates/mobile_menu.php:103
+msgid "Forgot Password?"
+msgstr "שכחת את הסיסמא?"
+
+#: templates/mobile_menu.php:176
+msgid "Back to Login"
+msgstr "חזור להתחברות"
+
+#: templates/mobile_menu.php:190
+msgid "Return to Login"
+msgstr "חזור אל התחברות"
+
+#: templates/normal_directory.php:212 templates/normal_map_core.php:271
+msgid ""
+"There are no properties listed on this page at this moment. Please try again "
+"later. "
+msgstr "כרגע אין מאפיינים הרשומים בדף זה. בבקשה נסה שוב מאוחר יותר."
+
+#: templates/normal_directory.php:214 templates/normal_map_core.php:273
+msgid ""
+"There are no agents listed on this page at this moment. Please try again "
+"later. "
+msgstr "כרגע אין סוכנים רשומים בדף זה. בבקשה נסה שוב מאוחר יותר."
+
+#: templates/normal_directory.php:226
+msgid "Load More Listings"
+msgstr "טען רישומים נוספים"
+
+#: templates/normal_map_core.php:158
+msgid "Agents in "
+msgstr "סוכנים ב"
+
+#: templates/normal_map_core.php:161
+msgid "Agencies in "
+msgstr "סוכנויות ב"
+
+#: templates/normal_map_core.php:164
+msgid "Developers in "
+msgstr "מפתחים ב"
+
+#: templates/places_card_templates/places_unit.php:91
+#: templates/places_card_templates/places_unit_elementor.php:59
+#: templates/places_card_templates/places_unit_type3.php:93
+#: templates/places_card_templates/places_unit_type3_elementor.php:97
+#: templates/places_unit.php:91 templates/places_unit_elementor.php:60
+#: templates/places_unit_type3.php:93
+msgid "%d listing"
+msgid_plural "%d listings"
+msgstr[0] "רישום %d"
+msgstr[1] "רישום %d"
+
+#: templates/places_card_templates/places_unit_type2.php:107
+#: templates/places_card_templates/places_unit_type2_elementor.php:63
+#: templates/places_unit_type2.php:107
+#: templates/places_unit_type2_elementor.php:63
+msgid "%d Listing"
+msgid_plural "%d Listings"
+msgstr[0] "רישום %d"
+msgstr[1] "רישום %d"
+
+#: templates/preview_template.php:9
+msgid "View results"
+msgstr "צפה בתוצאות"
+
+#: templates/property_cards_templates/property_card_category_type1.php:7
+#: templates/property_slider_shortcode.php:57
+msgid "in"
+msgstr "ב"
+
+#: templates/property_cards_templates/property_card_contact.php:15
+#: templates/realtor_templates/agent_contact_bar.php:32
+msgid "Call"
+msgstr "התקשר"
+
+#: templates/property_cards_templates/property_card_contact.php:43
+msgid "Call us"
+msgstr "התקשר אלינו"
+
+#: templates/property_cards_templates/property_card_contact.php:63
+msgid "Email Agent"
+msgstr "שלח דוא\"ל לסוכן הנדל\"ן"
+
+#: templates/property_cards_templates/property_card_contact.php:83
+msgid ""
+"Looks like the property is assigned to an administrator. Please assign it to "
+"an agent or user with complete contact details."
+msgstr ""
+"נראה שהנכס מוקצה למנהל. אנא הקצה אותו לסוכן או למשתמש עם פרטי יצירת קשר "
+"מלאים."
+
+#: templates/property_cards_templates/property_card_details_type1.php:9
+msgid "<span class=\"property_details_type1_value\">%d</span> Room"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Rooms"
+msgstr[0] "<span class=\"property_details_type1_value\">%d</span> חדר"
+msgstr[1] ""
+
+#: templates/property_cards_templates/property_card_details_type1.php:22
+msgid "<span class=\"property_details_type1_value\">%d</span> Bath"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Baths"
+msgstr[0] "<span class=\"property_details_type1_value\">%d</span> אמבטיה"
+msgstr[1] ""
+
+#: templates/property_cards_templates/property_card_details_type1.php:34
+msgid "ID"
+msgstr "תְעוּדַת זֶהוּת"
+
+#: templates/property_cards_templates/property_card_details_type1.php:42
+#: templates/property_cards_templates/property_card_details_type4.php:29
+#: templates/property_cards_templates/property_card_details_type8.php:26
+#: templates/property_slider_shortcode.php:70
+msgid "Size"
+msgstr "גודל"
+
+#: templates/property_cards_templates/property_card_details_type3.php:58
+#: templates/property_cards_templates/property_card_details_type7.php:58
+msgid "Garage Size"
+msgstr "גודל חנייה"
+
+#: templates/property_cards_templates/property_card_details_type4.php:22
+#: templates/property_cards_templates/property_card_details_type6.php:34
+#: templates/shortcode_templates/content_grid_small_estate_property_type_1.php:33
+msgid "Baths"
+msgstr "פתוח עד"
+
+#: templates/property_cards_templates/property_card_details_type6.php:25
+msgid "Beds"
+msgstr "מיטות"
+
+#: templates/property_cards_templates/property_card_details_type7.php:68
+msgid "Lot Size"
+msgstr "גודל הנכס"
+
+#: templates/property_cards_templates/property_card_details_type8.php:10
+msgid "<span class=\"property_details_type1_value\">%d</span> Bedroom"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Bedrooms"
+msgstr[0] "<span class=\"property_details_type1_value\">%d</span> חדר שינה"
+msgstr[1] ""
+
+#: templates/property_cards_templates/property_card_details_type8.php:18
+msgid "<span class=\"property_details_type1_value\">%d</span> Bathroom"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Bathrooms"
+msgstr[0] "<span class=\"property_details_type1_value\">%d</span> חדר רחצה"
+msgstr[1] ""
+
+#: templates/property_list_agent.php:76
+msgid "Request Info"
+msgstr "בקש מידע"
+
+#: templates/property_slider_shortcode.php:56
+msgid "category"
+msgstr "קטגוריה"
+
+#: templates/property_slider_shortcode.php:60
+msgid "location"
+msgstr "מיקום"
+
+#: templates/realtor_templates/agent_taxonomies.php:15
+msgid "Specialties & Service Areas"
+msgstr "התמחויות ואזורי שירות"
+
+#: templates/related_posts.php:38
+msgid "Related Posts"
+msgstr "פוסטים קשורים"
+
+#: templates/submit_templates/floor_plans.php:56
+#: templates/submit_templates/floor_plans.php:143
+msgid "Upload Image"
+msgstr "העלאת תמונה"
+
+#: templates/submit_templates/floor_plans.php:77
+msgid "Select Images"
+msgstr "בחר תמונות"
+
+#: templates/submit_templates/property_categories.php:50
+#: templates/submit_templates/property_categories_new.php:16
+msgid "Select Categories"
+msgstr "בחר קטגוריות"
+
+#: templates/submit_templates/property_categories.php:74
+msgid "Listed In "
+msgstr "רשום ב"
+
+#: templates/submit_templates/property_description.php:7
+#: templates/submit_templates/property_description_new.php:26
+msgid "Property Description"
+msgstr "תיאור הנכס"
+
+#: templates/submit_templates/property_description.php:99
+msgid "Second Price in "
+msgstr "מחיר שני ב"
+
+#: templates/submit_templates/property_description.php:107
+msgid "After Second Price Label (ex: \"/month\")"
+msgstr "לאחר תווית המחיר השנייה (לדוגמה: \"/חודש\")"
+
+#: templates/submit_templates/property_description.php:115
+msgid "Before Second Price Label (ex: \"from \")"
+msgstr "לפני תווית המחיר השנייה (לדוגמה: \"מאת\")"
+
+#: templates/submit_templates/property_details.php:79
+msgid "Listing Details"
+msgstr "פרטי הרישום"
+
+#: templates/submit_templates/property_details.php:83
+msgid "Size in"
+msgstr "גודל ב"
+
+#: templates/submit_templates/property_details.php:83
+#: templates/submit_templates/property_details.php:91
+msgid " (*only numbers)"
+msgstr "(* מספרים בלבד)"
+
+#: templates/submit_templates/property_details.php:91
+msgid "Lot Size in"
+msgstr "גודל לוט"
+
+#: templates/submit_templates/property_details.php:99
+msgid "Rooms (*only numbers)"
+msgstr "חדרים (* מספרים בלבד)"
+
+#: templates/submit_templates/property_details.php:107
+msgid "Bedrooms (*only numbers)"
+msgstr "חדרי שינה (* מספרים בלבד)"
+
+#: templates/submit_templates/property_details.php:115
+msgid "Bathrooms (*only numbers)"
+msgstr "מקלחות (* מספרים בלבד)"
+
+#: templates/submit_templates/property_details.php:129
+msgid "Owner/Agent notes (*not visible on front end)"
+msgstr "הבעלים / הערות הסוכן (* לא נראה בחזית)"
+
+#: templates/submit_templates/property_energy_effective.php:32
+msgid "Select Energy Class"
+msgstr "בחר את מחלקת האנרגיה"
+
+#: templates/submit_templates/property_energy_effective.php:37
+msgid "Select Energy Class (EU regulation)"
+msgstr "בחר מחלקת אנרגיה (רגולציה של האיחוד האירופי)"
+
+#: templates/submit_templates/property_energy_effective.php:60
+msgid "Select greenhouse gas emissions index class"
+msgstr "בחר דרגת אינדקס פליטת גזי חממה"
+
+#: templates/submit_templates/property_energy_effective.php:72
+msgid "Greenhouse Gas Emissions KgCO2/M2a"
+msgstr "פליטת גזי חממה KgCO2/M2a"
+
+#: templates/submit_templates/property_featured.php:10
+msgid "Featured Submission"
+msgstr "מוצעים הגשת"
+
+#: templates/submit_templates/property_featured.php:13
+msgid "Make this listing featured from property list."
+msgstr "הפוך את הרישום זה מובלט מתוך רשימת הנכסים."
+
+#: templates/submit_templates/property_floor_plans.php:73
+msgid "Use Floor Plans"
+msgstr "השתמש קומה תוכניות"
+
+#: templates/submit_templates/property_floor_plans.php:197
+msgid "Add another plan"
+msgstr "הוסף תוכנית נוספת"
+
+#: templates/submit_templates/property_images.php:70
+#: templates/submit_templates/property_images_new.php:87
+msgid "Listing Media"
+msgstr "מדיה מדיה"
+
+#: templates/submit_templates/property_images.php:117
+#: templates/submit_templates/property_images_new.php:132
+msgid "Drag and Drop Images or "
+msgstr "גרור ושחרר תמונות או"
+
+#: templates/submit_templates/property_images.php:119
+#: templates/submit_templates/property_images_new.php:134
+msgid "Select Media"
+msgstr "בחר מדיה"
+
+#: templates/submit_templates/property_images.php:127
+#: templates/submit_templates/property_images_new.php:142
+msgid ""
+"* At least 1 image is required for a valid submission.Minimum size is "
+"500/500px."
+msgstr "* לפחות 1 תמונה נדרשת להגשה חוקית. גודל מינימלי הוא 500 / 500px."
+
+#: templates/submit_templates/property_images.php:144
+#: templates/submit_templates/property_images_new.php:159
+msgid " You can upload maximum %s images"
+msgstr "ניתן לטעון תמונות מקסימום %s"
+
+#: templates/submit_templates/property_images.php:147
+#: templates/submit_templates/property_images_new.php:162
+msgid "** Double click on the image to select featured."
+msgstr "** לחץ לחיצה כפולה על התמונה כדי לבחור בהשתתפות."
+
+#: templates/submit_templates/property_images.php:148
+#: templates/submit_templates/property_images_new.php:163
+msgid "*** Change images order with Drag & Drop."
+msgstr "*** שינוי תמונות סדר עם Drag &amp; Drop."
+
+#: templates/submit_templates/property_images.php:149
+#: templates/submit_templates/property_images_new.php:164
+msgid "**** PDF files upload supported as well."
+msgstr "**** PDF להעלות קבצים נתמכים גם כן."
+
+#: templates/submit_templates/property_images.php:150
+#: templates/submit_templates/property_images_new.php:165
+msgid "***** Images might take longer to be processed."
+msgstr "***** תמונות עשויות להימשך זמן רב יותר."
+
+#: templates/submit_templates/property_images_new.php:119
+msgid "user document"
+msgstr "מסמך משתמש"
+
+#: templates/submit_templates/property_images_new.php:175
+msgid "manage floorplans"
+msgstr "לנהל"
+
+#: templates/submit_templates/property_location.php:86
+msgid "Listing Location"
+msgstr "מיקום הרישום"
+
+#: templates/submit_templates/property_location.php:90
+msgid "*Address"
+msgstr "*כתובת"
+
+#: templates/submit_templates/property_location.php:91
+msgid "Enter address"
+msgstr "הכנס כתובת"
+
+#: templates/submit_templates/property_location.php:179
+msgid "Enter city"
+msgstr "להיכנס לעיר"
+
+#: templates/submit_templates/property_location.php:190
+msgid "Neighborhood"
+msgstr "שְׁכוּנָה"
+
+#: templates/submit_templates/property_location.php:238
+msgid "Zip "
+msgstr "רוכסן"
+
+#: templates/submit_templates/property_location.php:252
+msgid "Country "
+msgstr "מדינה"
+
+#: templates/submit_templates/property_location.php:261
+msgid "Place Pin with Property Address"
+msgstr "הצמד מקום עם כתובת נכס"
+
+#: templates/submit_templates/property_location.php:274
+msgid "Latitude (for Google Maps)"
+msgstr "Latitude (עבור מפות Google)"
+
+#: templates/submit_templates/property_location.php:283
+msgid "Longitude (for Google Maps)"
+msgstr "קו אורך (עבור מפות Google)"
+
+#: templates/submit_templates/property_location.php:293
+msgid "Google Street View - Camera Angle (value from 0 to 360)"
+msgstr "Google Street View - זווית מצלמה (ערך בין 0 ל -360)"
+
+#: templates/submit_templates/property_location.php:304
+msgid "Enable Google Street View"
+msgstr "הפעל את תצוגת הרחוב של Google"
+
+#: templates/submit_templates/property_slider.php:6
+msgid "Slider Option"
+msgstr "אפשרות המחוון"
+
+#: templates/submit_templates/property_slider.php:9
+msgid "Slider type "
+msgstr "סוג המחוון"
+
+#: templates/submit_templates/property_status.php:39
+msgid "Select Property Status"
+msgstr "בחר מצב נכס"
+
+#: templates/submit_templates/property_status.php:44
+msgid "no status"
+msgstr "ללא מצב"
+
+#: templates/submit_templates/property_subunits.php:23
+msgid "Subunits"
+msgstr "יחידות משנה"
+
+#: templates/submit_templates/property_subunits.php:34
+msgid "Enable "
+msgstr "לְאַפשֵׁר"
+
+#: templates/submit_templates/property_subunits.php:40
+msgid "Select Subunits From the list: "
+msgstr "בחר יחידות משנה מהרשימה:"
+
+#: templates/submit_templates/property_video.php:38
+msgid "Video Option"
+msgstr "אפשרות וידאו"
+
+#: templates/submit_templates/property_video.php:44
+msgid "Video from"
+msgstr "וידאו מ"
+
+#: templates/submit_templates/property_video.php:56
+msgid "Embed Video id: "
+msgstr "שבץ מזהה סרטון:"
+
+#: templates/submit_templates/user_memebership_form.php:21
+msgid "Membership"
+msgstr "חֲבֵרוּת"
+
+#: templates/submit_templates/user_memebership_form.php:30
+msgid "Paid submission"
+msgstr "הגשת תשלום"
+
+#: templates/submit_templates/user_memebership_form.php:32
+msgid "This is a paid submission."
+msgstr "זוהי הגשת תשלום."
+
+#: templates/submit_templates/user_memebership_form.php:33
+msgid "Price: "
+msgstr "מחיר:"
+
+#: templates/submit_templates/user_memebership_form.php:34
+msgid "Featured (extra): "
+msgstr "מוצעים (נוספים):"
+
+#: templates/submit_templates/video_tour.php:31
+msgid "Virtual Tour: "
+msgstr "סיור וירטואלי:"
+
+#. Template Name of the theme
+msgid "User Dashboard"
+msgstr "לוח בקרה של המשתמש"
+
+#. Template Name of the theme
+msgid "User Dashboard Submit"
+msgstr "שלח לוח המחוונים למשתמש"
+
+#. Template Name of the theme
+msgid "User Dashboard Add agent"
+msgstr "לוח בקרת משתמש הוסף סוכן"
+
+#. Template Name of the theme
+msgid "User Dashboard Agent List"
+msgstr "רשימת סוכני לוח המחוונים למשתמש"
+
+#. Template Name of the theme
+msgid "User Dashboard Stats"
+msgstr "סטטיסטיקת לוח מחוונים של משתמש"
+
+#: user_dashboard_analytics.php:45
+msgid "Analytics"
+msgstr "אנליטיקס"
+
+#: user_dashboard_analytics.php:61
+msgid "Back to properties list"
+msgstr "חזרה לרשימת המאפיינים"
+
+#: user_dashboard_analytics.php:64
+msgid "Total number of views:"
+msgstr "מספר הצפיות הכולל:"
+
+#. Template Name of the theme
+msgid "User Dashboard Favorite"
+msgstr "מועדף על לוח בקרה של המשתמש"
+
+#: user_dashboard_favorite.php:67
+msgid "You don't have any favorite properties yet!"
+msgstr "אין לך תכונות מועדפות עדיין!"
+
+#. Template Name of the theme
+msgid "User Dashboard Inbox"
+msgstr "תיבת דואר נכנס של לוח המחוונים למשתמש"
+
+#: user_dashboard_inbox.php:31
+msgid "You have"
+msgstr "יש לך"
+
+#: user_dashboard_inbox.php:31
+msgid "unread messages"
+msgstr "הודעות שלא נקראו"
+
+#. Template Name of the theme
+msgid "User Dashboard Invoices"
+msgstr "חשבוניות משתמש בלוח בקרה"
+
+#. Template Name of the theme
+msgid "User Dashboard Main"
+msgstr "ראשי בלוח המחוונים של המשתמש"
+
+#. Template Name of the theme
+msgid "User Dashboard Profile Page"
+msgstr "דף פרופיל לוח בקרה של משתמשים"
+
+#. Template Name of the theme
+msgid "User Dashboard  Saved Searches"
+msgstr "חיפושים שמורים של לוח המחוונים למשתמש"
+
+#: user_dashboard_searches.php:60
+msgid "You don't have any saved searches yet!"
+msgstr "אין לך עדיין חיפושים שמורים!"
+
+#: word_remove.php:16
+msgid "Update the theme & plugins"
+msgstr "עדכן את ערכת הנושא ותוספות"
+
+#: word_remove.php:17
+msgid "Buy new license"
+msgstr "קנה רישיון חדש"
+
+#: word_remove.php:18
+msgid "Change log"
+msgstr "שנה יומן"
+
+#: word_remove.php:19
+msgid "Get help"
+msgstr "תקבל עזרה"
+
+#: word_remove.php:21
+msgid "Open ticket"
+msgstr "כרטיס פתוח"
+
+#: word_remove.php:22
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: word_remove.php:23
+msgid "Rate us"
+msgstr "דרג אותנו"
+
+#: word_remove.php:31
+msgid "Current Version: "
+msgstr "גרסה נוכחית:"
+
+#: word_remove.php:41
+msgid "Start Now"
+msgstr "התחל עכשיו"
+
+#: word_remove.php:42
+msgid "Site Settings "
+msgstr "הגדרות אתר"
+
+#: word_remove.php:50
+msgid ""
+"We recommend doing demo import first and then finishing this setup. Adding "
+"Demo import AFTER completing this setup changes your settings options to "
+"demo options. "
+msgstr ""
+"אנו ממליצים לעשות ייבוא ​​הדגמה תחילה ולאחר מכן לסיים את ההתקנה. הוספת הדגמה "
+"לייבא לאחר השלמת הגדרה זו משנה את אפשרויות ההגדרות שלך לאפשרויות הדגמה."
+
+#: word_remove.php:52
+msgid "Continue"
+msgstr "לְהַמשִׁיך"
+
+#: word_remove.php:52
+msgid "OR"
+msgstr "אוֹ"
+
+#: word_remove.php:53
+msgid "Import Demo Content"
+msgstr "ייבוא ​​תוכן הדגמה"
+
+#: word_remove.php:58
+msgid "Map Settings"
+msgstr "הגדרות מפה"
+
+#: word_remove.php:62
+msgid "Google Maps API KEY"
+msgstr "מפתח API של מפות Google"
+
+#: word_remove.php:67 word_remove.php:213 word_remove.php:247
+msgid "Previous Step"
+msgstr "צעד קודם"
+
+#: word_remove.php:74
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: word_remove.php:78
+msgid "Select default country"
+msgstr "בחר ארץ ברירת מחדל"
+
+#: word_remove.php:84
+msgid "Currency symbol"
+msgstr "סמל המטבע"
+
+#: word_remove.php:85
+msgid "Set currency symbol for property price."
+msgstr "הגדר סמל מטבע עבור מחיר נכס."
+
+#: word_remove.php:113
+msgid "square"
+msgstr "כיכר"
+
+#: word_remove.php:118
+msgid "Measurement Unit"
+msgstr "יחידת מדידה"
+
+#: word_remove.php:119
+msgid "Select the measurement unit you will use on the website"
+msgstr "בחר את יחידת המידה שבה תשתמש באתר"
+
+#: word_remove.php:205
+msgid "Language for datepicker"
+msgstr "שפה עבור תאריך תאריכים"
+
+#: word_remove.php:206
+msgid "This applies for the calendar field type available for properties."
+msgstr "הדבר חל על סוג שדה היומן הזמין לנכסים."
+
+#: word_remove.php:218
+msgid "Apperance Options"
+msgstr "אפשרויות אפשריות"
+
+#: word_remove.php:220
+msgid "standard "
+msgstr "תֶקֶן"
+
+#: word_remove.php:221
+msgid "half map"
+msgstr "חצי מפה"
+
+#: word_remove.php:226
+msgid "Property List Type for Advanced Search"
+msgstr "סוג רשימת נכסים לחיפוש מתקדם"
+
+#: word_remove.php:227
+msgid "Select standard or half map style for advanced search results page."
+msgstr "בחר סגנון רגיל או חצי מפה עבור דף תוצאות חיפוש מתקדם."
+
+#: word_remove.php:234
+msgid "grid"
+msgstr "רֶשֶׁת"
+
+#: word_remove.php:235
+msgid "list"
+msgstr "רשימה"
+
+#: word_remove.php:240
+msgid "Property List display(*global option)"
+msgstr "תצוגת רשימת נכסים (* אפשרות גלובלית)"
+
+#: word_remove.php:241
+msgid "Select grid or list style for properties list pages."
+msgstr "בחר סגנון רשת או רשימה עבור דפי רשימת מאפיינים."
+
+#: word_remove.php:253
+msgid ""
+"For further setup see our help files, knowledgebase articles and tutorials "
+"to help make this process easier and more enjoyable for you: "
+msgstr ""
+"לקבלת התקנה נוספת, עיין בקובצי העזרה שלנו, במאמרי מאגר הידע ובמדריכי ההדרכה "
+"כדי לסייע לך להפוך את התהליך לקל ומהנה עבורך:"
+
+#: word_remove.php:253
+msgid "http://help.wpresidence.net/"
+msgstr "http://help.wpresidence.net/"
+
+#: word_remove.php:274
+msgid "Personalize Your Website"
+msgstr "התאמה אישית של אתר האינטרנט שלך"
+
+#: word_remove.php:276
+msgid "Payments"
+msgstr "תשלומים"
+
+#: word_remove.php:358
+msgid "Powered by "
+msgstr "מונע ע&quot;י"
+
+#. Template Name of the theme
+msgid "Zillow Estimate"
+msgstr "תכונת Zillow"
+
+#: zillow_estimate_page.php:22
+msgid "The state field is empty !"
+msgstr "שדה המדינה ריק!"
+
+#: zillow_estimate_page.php:32
+msgid "The City field is empty !"
+msgstr "שדה העיר ריק!"
+
+#: zillow_estimate_page.php:41
+msgid "Your address field is empty!"
+msgstr "שדה הכתובת שלך ריק!"
+
+#: zillow_estimate_page.php:80
+msgid "On"
+msgstr "ב"
+
+#: zillow_estimate_page.php:80
+msgid "this property is estimated at"
+msgstr "נכס זה מוערך ב"
+
+#: zillow_estimate_page.php:84
+msgid "City:"
+msgstr "עיר:"
+
+#: zillow_estimate_page.php:85
+msgid "State:"
+msgstr "מצב:"
+
+#: zillow_estimate_page.php:89
+msgid ""
+"We are sorry, but we don't have an estimation for this property at this "
+"moment!  "
+msgstr "אנו מצטערים, אך אין לנו הערכה עבור נכס זה ברגע זה!"
+
+#: zillow_estimate_page.php:93
+msgid "Please fill in the form correctly and try again!"
+msgstr "מלא את הטופס בצורה נכונה ונסה שוב!"
+
+#~ msgid "Terms and Conditions"
+#~ msgstr "תנאי השימוש"
+
+#~ msgid ""
+#~ "Please validate your purchase code in order to use the theme! See this "
+#~ "link link  "
+#~ msgstr ""
+#~ "אנא אשר את קוד הרכישה שלך כדי להשתמש בערכת הנושא! ראה קישור זה בקישור"
+
+#~ msgid "if you don't know how to get your license key. Thank you!"
+#~ msgstr "אם אתה לא יודע איך להשיג את מפתח הרישיון שלך. תודה!"
+
+#~ msgid "Publish Listing with Featured"
+#~ msgstr "פרסם רשימה עם מוצעים"
+
+#~ msgid "Adress:"
+#~ msgstr "כתובת:"
+
+#~ msgid "Energy index"
+#~ msgstr "מדד האנרגיה"
+
+#~ msgid "Your energy class is "
+#~ msgstr "מחלקת האנרגיה שלך"
+
+#~ msgid "Your energy class "
+#~ msgstr "מעמד האנרגיה שלך"
+
+#~ msgid "Your energy class is"
+#~ msgstr "מחלקת האנרגיה שלך"
+
+#~ msgid "[more]"
+#~ msgstr "[יותר]"
+
+#~ msgid "more details here"
+#~ msgstr "פרטים נוספים כאן"
+
+#~ msgid "slider"
+#~ msgstr "המחוון"
+
+#~ msgid "Single Agent"
+#~ msgstr "סוכן יחיד"
+
+#~ msgid "Property Reviews "
+#~ msgstr "נכס ביקורות"
