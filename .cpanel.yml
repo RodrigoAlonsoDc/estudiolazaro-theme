@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/estudiolazaro/public_html/wp-content/themes/wpresidence-child/
+    - /bin/cp -R * $DEPLOYPATH
