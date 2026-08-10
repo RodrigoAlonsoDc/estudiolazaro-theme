@@ -98,6 +98,10 @@ get_header();
     </div>
 </div>
 
+<!-- TEST DE DESPLIEGUE AUTOMÁTICO DESDE GITHUB -->
+<script>
+    console.log("¡Despliegue automático exitoso desde GitHub a cPanel!");
+</script>
 <?php
 get_footer();
 ?>
