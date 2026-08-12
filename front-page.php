@@ -15,10 +15,10 @@ get_header();
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/6e057407-94ba-4825-a3c2-db0f47322d46.jpg" alt="Estudio Lázaro Logo" class="sidebar-logo">
             </div>
             <div class="sidebar-menu">
-                <a href="#" class="sidebar-btn">DERECHO INMOBILIARIO</a>
-                <a href="#" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
-                <a href="#" class="sidebar-btn">APODERADO CORPORATIVO EXTERNO</a>
-                <a href="#" class="sidebar-btn">SOLUCIONES INMOBILIARIAS</a>
+                <a href="<?php echo home_url('/derecho-inmobiliario/'); ?>" class="sidebar-btn">DERECHO INMOBILIARIO</a>
+                <a href="<?php echo home_url('/asesoria-corporativa/'); ?>" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
+                <a href="<?php echo home_url('/apoderado-corporativo-externo/'); ?>" class="sidebar-btn">APODERADO CORPORATIVO EXTERNO</a>
+                <a href="<?php echo home_url('/soluciones-inmobiliarias/'); ?>" class="sidebar-btn">SOLUCIONES INMOBILIARIAS</a>
             </div>
         </div>
     </div>
