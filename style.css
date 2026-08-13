@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.1.0
+ Version:      1.1.1
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1432,4 +1432,49 @@ body {
 /* Color texto del logo (si es texto) */
 .header-logo-text, .logo_image {
     color: #ffffff !important;
+}
+
+/* ==========================================================================
+   DISEÑO INTERCALADO PARA SERVICIOS (Texto e Imagen)
+   ========================================================================== */
+.servicio-seccion {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+.servicio-seccion:nth-child(even) {
+    flex-direction: row-reverse;
+}
+.servicio-texto {
+    flex: 1;
+}
+.servicio-texto h3 {
+    color: #1a365d;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.servicio-texto p {
+    color: #555555;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+.servicio-imagen {
+    flex: 1;
+}
+.servicio-imagen img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    object-fit: cover;
+    aspect-ratio: 4/3;
+    display: block;
+}
+@media (max-width: 768px) {
+    .servicio-seccion, .servicio-seccion:nth-child(even) {
+        flex-direction: column;
+        gap: 20px;
+    }
 }
