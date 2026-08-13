@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.0.7
+ Version:      1.0.8
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1381,6 +1381,33 @@ body {
     color: #f2683a !important;
 }
 
+/* Forzar alineación horizontal de Logo y Menú */
+.master_header .header_wrapper_inside {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+.master_header .logo {
+    flex: 0 0 auto !important;
+    width: auto !important;
+    margin: 0 !important;
+}
+.master_header #access {
+    flex: 1 1 auto !important;
+    width: auto !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: center !important;
+}
+.master_header #access .menu {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    align-items: center !important;
+    margin: 0 !important;
+}
+
 /* Botón de Inicio Naranja */
 #menu-main-menu-1 > li.menu-item-home {
     display: inline-block;
@@ -1392,7 +1419,6 @@ body {
     line-height: normal !important;
     padding: 10px 20px !important;
     display: inline-block;
-    margin-top: 15px; /* Ajuste vertical si es necesario */
 }
 #menu-main-menu-1 > li.menu-item-home:hover > a.menu-item-link {
     background-color: #d8542a !important;
