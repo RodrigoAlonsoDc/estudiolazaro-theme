@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.0.6
+ Version:      1.0.7
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1383,8 +1383,7 @@ body {
 
 /* Botón de Inicio Naranja */
 #menu-main-menu-1 > li.menu-item-home {
-    display: flex;
-    align-items: center;
+    display: inline-block;
 }
 #menu-main-menu-1 > li.menu-item-home > a.menu-item-link {
     background-color: #f2683a !important;
@@ -1392,9 +1391,16 @@ body {
     border-radius: 4px !important;
     line-height: normal !important;
     padding: 10px 20px !important;
+    display: inline-block;
+    margin-top: 15px; /* Ajuste vertical si es necesario */
 }
 #menu-main-menu-1 > li.menu-item-home:hover > a.menu-item-link {
     background-color: #d8542a !important;
+}
+
+/* Ocultar el icono de usuario (círculo a la derecha) */
+.user_menu_wrapper {
+    display: none !important;
 }
 
 /* Color texto del logo (si es texto) */
