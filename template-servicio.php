@@ -60,31 +60,6 @@ if (!$hero_image) {
                 </ul>
             </div>
 
-            <!-- Quién Soy -->
-            <div class="sidebar-widget profile-widget">
-                <h3 class="widget-title">Quien soy</h3>
-                <div class="profile-card">
-                    <p class="profile-desc">Profesional eficiente, competente, con visión de culminar un trabajo con éxito.</p>
-                    <img src="https://media.licdn.com/dms/image/v2/C4E03AQE1_X5X1_X5Xw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1627885998188?e=2147483647&v=beta&t=9x8y7z6w5v4u3t2s1r0q" alt="Zaida Gordillo" class="profile-img"> <!-- Default placeholder image -->
-                    <h4 class="profile-name">Zaida Gordillo</h4>
-                    <span class="profile-role">Agente Inmobiliario</span>
-                </div>
-            </div>
-
-            <!-- Formulario de Contacto -->
-            <div class="sidebar-widget contact-widget">
-                <h3 class="widget-title">Contáctame para obtener más información</h3>
-                <div class="contact-form-wrapper">
-                    <!-- Placeholder HTML form, replace with WPForms or CF7 shortcode if available -->
-                    <form action="#" method="POST" class="custom-contact-form">
-                        <input type="text" name="nombre" placeholder="Nombre" required>
-                        <input type="email" name="email" placeholder="Email" required>
-                        <textarea name="mensaje" placeholder="Mensaje" rows="4" required></textarea>
-                        <button type="submit" class="btn-submit">Enviar Mensaje</button>
-                    </form>
-                </div>
-            </div>
-
         </div>
     </div>
 </div>
