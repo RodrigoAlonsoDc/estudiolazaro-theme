@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.1.1
+ Version:      1.1.2
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1482,9 +1482,14 @@ body {
 /* ==========================================================================
    AJUSTES FORZADOS DEL MENÚ PRINCIPAL (HEADER)
    ========================================================================== */
+#access ul.menu {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    white-space: nowrap !important;
+}
 #access ul.menu > li > a {
-    padding-left: 8px !important;
-    padding-right: 8px !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
     font-size: 13px !important;
     letter-spacing: 0px !important;
 }
