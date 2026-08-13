@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.0.2
+ Version:      1.0.3
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -633,4 +633,10 @@ body {
     .service-sidebar-col {
         flex: 0 0 100%;
     }
+}
+
+/* OCULTAR BARRA DE BÚSQUEDA EN PLANTILLA DE SERVICIO */
+.page-template-template-servicio-php .search_wrapper,
+.page-template-template-servicio .search_wrapper {
+    display: none !important;
 }
