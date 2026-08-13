@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.0.8
+ Version:      1.0.9
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1407,18 +1407,21 @@ body {
     align-items: center !important;
     margin: 0 !important;
 }
+.master_header #access .menu > li,
+.master_header #access .menu > li > a.menu-item-link {
+    white-space: nowrap !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
 
 /* Botón de Inicio Naranja */
-#menu-main-menu-1 > li.menu-item-home {
-    display: inline-block;
-}
 #menu-main-menu-1 > li.menu-item-home > a.menu-item-link {
     background-color: #f2683a !important;
     color: #ffffff !important;
     border-radius: 4px !important;
-    line-height: normal !important;
-    padding: 10px 20px !important;
-    display: inline-block;
+    padding: 8px 18px !important;
+    margin-right: 10px !important;
+    height: auto !important;
 }
 #menu-main-menu-1 > li.menu-item-home:hover > a.menu-item-link {
     background-color: #d8542a !important;
