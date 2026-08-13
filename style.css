@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.0.9
+ Version:      1.1.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1397,21 +1397,17 @@ body {
 .master_header #access {
     flex: 1 1 auto !important;
     width: auto !important;
-    display: flex !important;
-    justify-content: flex-end !important;
-    align-items: center !important;
 }
-.master_header #access .menu {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    align-items: center !important;
-    margin: 0 !important;
-}
-.master_header #access .menu > li,
-.master_header #access .menu > li > a.menu-item-link {
+
+/* Evitar que el texto de los enlaces se rompa en dos líneas */
+#menu-main-menu-1 a.menu-item-link {
     white-space: nowrap !important;
-    display: inline-flex !important;
-    align-items: center !important;
+}
+
+/* Quitar el fondo naranja por defecto de WP Residence en la página activa */
+#menu-main-menu-1 > li.current-menu-item > a.menu-item-link,
+#menu-main-menu-1 > li.current_page_item > a.menu-item-link {
+    background-color: transparent !important;
 }
 
 /* Botón de Inicio Naranja */
@@ -1421,7 +1417,8 @@ body {
     border-radius: 4px !important;
     padding: 8px 18px !important;
     margin-right: 10px !important;
-    height: auto !important;
+    display: inline-block !important;
+    line-height: normal !important;
 }
 #menu-main-menu-1 > li.menu-item-home:hover > a.menu-item-link {
     background-color: #d8542a !important;
