@@ -1478,3 +1478,24 @@ body {
         gap: 20px;
     }
 }
+
+/* ==========================================================================
+   AJUSTES FORZADOS DEL MENÚ PRINCIPAL (HEADER)
+   ========================================================================== */
+#access ul.menu > li > a {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    font-size: 13px !important;
+    letter-spacing: 0px !important;
+}
+#access ul.menu > li {
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+}
+.header_wrapper_inside, .header_wrapper {
+    max-width: 1400px !important;
+    width: 100% !important;
+}
+.header_wrapper_inside .logo {
+    margin-right: 15px !important;
+}
