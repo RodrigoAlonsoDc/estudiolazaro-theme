@@ -5,7 +5,7 @@
  Author:       WpEstate
  Author URI:   http://wpestate.org
  Template:     wpresidence
- Version:      1.0.4
+ Version:      1.0.5
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1351,4 +1351,41 @@ body {
     .property-card-price {
         font-size: 18px;
     }
+}
+
+/* ==========================================================================
+   OVERRIDE GLOBAL DEL HEADER (Diseño Azul Oscuro + Botón Naranja)
+   ========================================================================== */
+.master_header,
+.header_wrapper,
+.header_wrapper_inside,
+.master_header.wide .header_wrapper_inside {
+    background-color: #1a365d !important;
+}
+
+/* Enlaces del menú principal */
+#menu-main-menu-1 > li > a.menu-item-link,
+.header_wrapper_inside .nav a {
+    color: rgba(255, 255, 255, 0.85) !important;
+}
+
+#menu-main-menu-1 > li:hover > a.menu-item-link,
+#menu-main-menu-1 > li.current-menu-item > a.menu-item-link,
+#menu-main-menu-1 > li.current_page_item > a.menu-item-link {
+    color: #ffffff !important;
+}
+
+/* Botón de Inicio Naranja */
+#menu-main-menu-1 > li.menu-item-home > a.menu-item-link {
+    background-color: #f2683a !important;
+    color: #ffffff !important;
+    border-radius: 4px !important;
+}
+#menu-main-menu-1 > li.menu-item-home:hover > a.menu-item-link {
+    background-color: #d8542a !important;
+}
+
+/* Color texto del logo (si es texto) */
+.header-logo-text, .logo_image {
+    color: #ffffff !important;
 }
