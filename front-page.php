@@ -93,6 +93,18 @@ get_header();
                     <i class="fas fa-book"></i>
                     <h4>LABORAL Y SEGURIDAD SOCIAL</h4>
                 </div>
+                <div class="area-card">
+                    <i class="fas fa-book"></i>
+                    <h4>DERECHO CIVIL</h4>
+                </div>
+                <div class="area-card">
+                    <i class="fas fa-book"></i>
+                    <h4>DERECHO INMOBILIARIO</h4>
+                </div>
+                <div class="area-card">
+                    <i class="fas fa-book"></i>
+                    <h4>DERECHO REGISTRAL</h4>
+                </div>
             </div>
         </div>
     </div>
