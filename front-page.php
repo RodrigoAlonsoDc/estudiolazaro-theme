@@ -9,11 +9,9 @@ get_header();
 
 <div class="custom-home-container">
     <!-- Columna Izquierda: Menú Lateral y Branding -->
-    <div class="custom-home-sidebar" style="background-image: url('https://thumbs.dreamstime.com/b/oficina-azul-y-naranja-con-biblioteca-interior-de-exterior-luminosa-paredes-blancas-azules-naranjas-suelo-hormig%C3%B3n-modernas-164672201.jpg');">
+    <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_50.jpg');">
         <div class="sidebar-overlay">
-            <div class="sidebar-branding">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/6e057407-94ba-4825-a3c2-db0f47322d46.jpg" alt="Estudio Lázaro Logo" class="sidebar-logo">
-            </div>
+            
             <div class="sidebar-menu">
                 <a href="<?php echo home_url('/derecho-inmobiliario/'); ?>" class="sidebar-btn">DERECHO INMOBILIARIO</a>
                 <a href="<?php echo home_url('/asesoria-corporativa/'); ?>" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
