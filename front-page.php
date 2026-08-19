@@ -26,7 +26,7 @@ get_header();
     <!-- Columna Derecha: Contenido Principal y Equipo -->
     <div class="custom-home-main">
         <!-- Banner Superior -->
-        <div class="main-hero" style="background-image: url('https://media.istockphoto.com/id/2148674008/es/foto/equipo-exitoso-de-personas-de-negocios-sonriendo-a-la-c%C3%A1mara-en-una-oficina-de-inicio.jpg?s=612x612&w=0&k=20&c=q8HxuJcJrVOPRM63_IZxs719g0pYcd8yhH-bjUdNpnA=');">
+        <div class="main-hero" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_49.jpg');">
             <div class="hero-overlay">
                 <p class="hero-subtitle">Soluciones legales, corporativas e inmobiliarias con enfoque preventivo y estratégico.</p>
                 <h2 class="hero-title">Seguridad jurídica para proteger tu patrimonio y hacer crecer tus negocios.</h2>
