@@ -28,7 +28,7 @@ get_header();
 
 <div class="custom-home-container">
     <!-- Columna Izquierda: Menú Lateral y Branding -->
-    <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_50.jpg');">
+    <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_6.jpeg');">
         <div class="sidebar-overlay">
             
                         
