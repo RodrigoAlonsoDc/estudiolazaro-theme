@@ -54,10 +54,10 @@ get_header();
             </div>
             
             <div class="history-gallery-2x2">
-                <img src="https://www.shutterstock.com/image-photo/confident-filipino-woman-wearing-white-260nw-2701913573.jpg" alt="Oficina 1">
-                <img src="https://media.istockphoto.com/id/1325566034/es/foto/los-empresarios-que-utilizan-la-tableta-digital-planifican-el-proyecto-de-puesta-en-marcha.jpg?s=612x612&w=0&k=20&c=3F17UMpIFNdsehdeWVbH4vyjNvZ5Wn9HAq6ntBKGcRg=" alt="Oficina 2">
-                <img src="https://img.magnific.com/foto-gratis/equipo-trabajando-juntos-proyecto_23-2149325423.jpg?semt=ais_test_b&w=740&q=80" alt="Oficina 3">
-                <img src="https://media.istockphoto.com/id/2148674008/es/foto/equipo-exitoso-de-personas-de-negocios-sonriendo-a-la-c%C3%A1mara-en-una-oficina-de-inicio.jpg?s=612x612&w=0&k=20&c=q8HxuJcJrVOPRM63_IZxs719g0pYcd8yhH-bjUdNpnA=" alt="Oficina 4">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_3.jpeg" alt="Oficina 1">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_6.jpeg" alt="Oficina 2">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_15.jpeg" alt="Oficina 3">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_29.jpeg" alt="Oficina 4">
             </div>
         </div>
 
