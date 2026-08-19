@@ -31,7 +31,80 @@ get_header();
     <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_50.jpg');">
         <div class="sidebar-overlay">
             
-                        <div class="sidebar-contact-form">
+                        
+
+            <div class="sidebar-menu" style="margin-top: 100px; display: flex; flex-direction: column; gap: 15px;">
+                <a href="<?php echo home_url('/derecho-inmobiliario/'); ?>" class="sidebar-btn">DERECHO INMOBILIARIO</a>
+                <a href="<?php echo home_url('/asesoria-corporativa/'); ?>" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
+                <a href="<?php echo home_url('/apoderado-corporativo-externo/'); ?>" class="sidebar-btn">APODERADO CORPORATIVO EXTERNO</a>
+                <a href="<?php echo home_url('/soluciones-inmobiliarias/'); ?>" class="sidebar-btn">SOLUCIONES INMOBILIARIAS</a>
+            </div>
+<style>
+/* --- FORMULARIO DE CONTACTO (SIDEBAR) INLINE --- */
+.sidebar-contact-form {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    width: 90%;
+    max-width: 400px;
+    margin: 30px auto 0 auto; /* Separación con los botones */
+    box-sizing: border-box;
+    position: relative;
+    z-index: 10;
+}
+
+.sidebar-contact-form h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 22px;
+    color: #333;
+    font-family: inherit;
+}
+
+.sidebar-contact-form p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.sidebar-contact-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-contact-form input,
+.sidebar-contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: inherit;
+    box-sizing: border-box;
+    display: block;
+}
+
+.sidebar-contact-form button.submit-btn {
+    width: 100%;
+    background-color: #f05a28;
+    color: white;
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+}
+
+.sidebar-contact-form button.submit-btn:hover {
+    background-color: #d0451a;
+}
+</style>
+<div class="sidebar-contact-form">
                 <h3>Contáctanos</h3>
                 <p>¡Usa el formulario a continuación para contactarnos!</p>
                 <?php if(!empty($form_message)) echo $form_message; ?>
