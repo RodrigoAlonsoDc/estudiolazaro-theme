@@ -1577,3 +1577,18 @@ body {
     font-weight: bold;
     margin-bottom: 15px;
 }
+
+/* --- OCULTAR BOTON DE MENSAJE FLOTANTE --- */
+.contact-box,
+#contact-box,
+.contact_box_wrap,
+.contact-wrapper,
+.floating-contact,
+.contact_icon,
+.contact-form-wrapper,
+.wpresidence-contact-btn,
+.contact-widget-icon,
+.contact_widget_icon,
+#contact_widget_icon {
+    display: none !important;
+}

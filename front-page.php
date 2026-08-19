@@ -28,7 +28,7 @@ get_header();
 
 <div class="custom-home-container">
     <!-- Columna Izquierda: Menú Lateral y Branding -->
-    <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_6.jpeg');">
+    <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/Portadaizquieda.jpg');">
         <div class="sidebar-overlay">
             
                         
@@ -151,7 +151,7 @@ get_header();
             
             <div class="history-gallery-2x2">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_3.jpeg" alt="Oficina 1">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_6.jpeg" alt="Oficina 2">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/Portadaizquieda.jpg" alt="Oficina 2">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_15.jpeg" alt="Oficina 3">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/img_29.jpeg" alt="Oficina 4">
             </div>
