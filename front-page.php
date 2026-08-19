@@ -61,22 +61,6 @@ get_header();
             </div>
         </div>
 
-        <!-- Sección Estadísticas -->
-        <div class="stats-section">
-            <div class="stat-item">
-                <h3>+10</h3>
-                <p>Más de 10 años de experiencia</p>
-            </div>
-            <div class="stat-item">
-                <h3>+80</h3>
-                <p>Clientes satisfechos</p>
-            </div>
-            <div class="stat-item">
-                <h3>+15</h3>
-                <p>Número de colaboradores</p>
-            </div>
-        </div>
-
         <!-- Sección Áreas de Trabajo -->
         <div class="areas-section">
             <h2 class="areas-title">ÁREAS DE TRABAJO</h2>
