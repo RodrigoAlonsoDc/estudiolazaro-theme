@@ -107,7 +107,7 @@ body {
 }
 
 .sidebar-overlay {
-    background-color: rgba(255, 255, 255, 0.75); /* Superposición blanca translúcida */
+    background-color: transparent; /* Superposición blanca translúcida */
     position: absolute;
     top: 0;
     left: 0;
