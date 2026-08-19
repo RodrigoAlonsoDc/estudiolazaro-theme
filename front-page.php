@@ -11,9 +11,7 @@ get_header();
     <!-- Columna Izquierda: Menú Lateral y Branding -->
     <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_50.jpg');">
         <div class="sidebar-overlay">
-            <div class="sidebar-branding">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/Logo_20.png" alt="Estudio Lázaro Logo" class="sidebar-logo" style="max-width:100%; height:auto;">
-            </div>
+            
             <div class="sidebar-menu">
                 <a href="<?php echo home_url('/derecho-inmobiliario/'); ?>" class="sidebar-btn">DERECHO INMOBILIARIO</a>
                 <a href="<?php echo home_url('/asesoria-corporativa/'); ?>" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
