@@ -1512,3 +1512,68 @@ body {
 .header_wrapper_inside .logo {
     margin-right: 15px !important;
 }
+
+/* --- FORMULARIO DE CONTACTO (SIDEBAR) --- */
+.sidebar-contact-form {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    width: 90%;
+    margin: 40px auto 0 auto;
+    box-sizing: border-box;
+}
+
+.sidebar-contact-form h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 22px;
+    color: #333;
+}
+
+.sidebar-contact-form p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.sidebar-contact-form input,
+.sidebar-contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+.sidebar-contact-form button.submit-btn {
+    width: 100%;
+    background-color: #f05a28;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.sidebar-contact-form button.submit-btn:hover {
+    background-color: #d0451a;
+}
+
+.form-success {
+    color: green;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.form-error {
+    color: red;
+    font-weight: bold;
+    margin-bottom: 15px;
+}

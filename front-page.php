@@ -4,6 +4,25 @@
  * Sobrescribe el diseño por defecto de WP Residence.
  */
 
+$form_message = '';
+if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['lazaro_contact_submit'])) {
+    $name    = sanitize_text_field($_POST['lazaro_name']);
+    $email   = sanitize_email($_POST['lazaro_email']);
+    $phone   = sanitize_text_field($_POST['lazaro_phone']);
+    $message = sanitize_textarea_field($_POST['lazaro_message']);
+    
+    $to = 'asesora.legal.2020@gmail.com';
+    $subject = 'Nuevo mensaje de contacto desde la web';
+    $body = "Nombre: $name\nEmail: $email\nTeléfono: $phone\nMensaje:\n$message";
+    $headers = array('Content-Type: text/plain; charset=UTF-8', 'From: ' . $email);
+    
+    if (wp_mail($to, $subject, $body, $headers)) {
+        $form_message = '<p class="form-success">¡Mensaje enviado con éxito! Nos pondremos en contacto pronto.</p>';
+    } else {
+        $form_message = '<p class="form-error">Hubo un error al enviar el mensaje. Inténtalo de nuevo.</p>';
+    }
+}
+
 get_header();
 ?>
 
@@ -12,11 +31,17 @@ get_header();
     <div class="custom-home-sidebar" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/img_50.jpg');">
         <div class="sidebar-overlay">
             
-            <div class="sidebar-menu">
-                <a href="<?php echo home_url('/derecho-inmobiliario/'); ?>" class="sidebar-btn">DERECHO INMOBILIARIO</a>
-                <a href="<?php echo home_url('/asesoria-corporativa/'); ?>" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
-                <a href="<?php echo home_url('/apoderado-corporativo-externo/'); ?>" class="sidebar-btn">APODERADO CORPORATIVO EXTERNO</a>
-                <a href="<?php echo home_url('/soluciones-inmobiliarias/'); ?>" class="sidebar-btn">SOLUCIONES INMOBILIARIAS</a>
+                        <div class="sidebar-contact-form">
+                <h3>Contáctanos</h3>
+                <p>¡Usa el formulario a continuación para contactarnos!</p>
+                <?php if(!empty($form_message)) echo $form_message; ?>
+                <form action="" method="POST">
+                    <input type="text" name="lazaro_name" placeholder="Tu Nombre" required>
+                    <input type="email" name="lazaro_email" placeholder="Tu Email" required>
+                    <input type="text" name="lazaro_phone" placeholder="Tu Teléfono" required>
+                    <textarea name="lazaro_message" placeholder="Escribe tu mensaje..." rows="4" required></textarea>
+                    <button type="submit" name="lazaro_contact_submit" class="submit-btn">Enviar</button>
+                </form>
             </div>
         </div>
     </div>
