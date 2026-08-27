@@ -91,6 +91,17 @@ function lazarotheme_custom_fixes_js() {
                 p.style.setProperty('text-align', 'justify', 'important');
             });
             
+            // 1.6 Fix Instagram link
+            var igLinks = document.querySelectorAll('a[href*="instagram.com"], .social_instagram, .fa-instagram');
+            igLinks.forEach(function(link) {
+                if (link.tagName.toLowerCase() !== 'a') {
+                    link = link.closest('a');
+                }
+                if (link) {
+                    link.href = "https://www.instagram.com/lazaro.asociados?fbclid=IwY2xjawTfi65leHRuA2FlbQIxMABicmlkETF0SnA3a1hUMTV0Vno3a01Mc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoFeL_QXU7aMBVpyITJ7DTJ4udhjKepfCaFi3Euu-mbgdGx_eAkBIfkMEdvc_aem_BW6tz2NjhF4eGFtDPQ_dCQ";
+                }
+            });
+            
             // 2. Add text under phone number
             var walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
             var node;
