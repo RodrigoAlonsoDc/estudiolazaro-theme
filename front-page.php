@@ -44,7 +44,7 @@ get_header();
 /* --- TEST LOGO ESQUINERO (Reemplazo por CSS INLINE) --- */
 .master_header .logo a {
     display: block !important;
-    background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/logo_generadowaos.png') !important;
+    background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/primerayultima.png') !important;
     background-size: contain !important;
     background-repeat: no-repeat !important;
     background-position: left center !important;
