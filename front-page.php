@@ -41,20 +41,6 @@ get_header();
             </div>
 <style>
 
-/* --- TEST LOGO ESQUINERO (Reemplazo por CSS INLINE) --- */
-.master_header .logo a {
-    display: block !important;
-    background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/primerayultima.png') !important;
-    background-size: contain !important;
-    background-repeat: no-repeat !important;
-    background-position: left center !important;
-    width: 350px !important;
-    height: 90px !important;
-}
-.master_header .logo img {
-    display: none !important;
-}
-
 /* --- FORMULARIO DE CONTACTO (SIDEBAR) INLINE --- */
 .sidebar-contact-form {
     background: #ffffff;

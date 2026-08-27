@@ -40,6 +40,26 @@ add_action( 'wp_enqueue_scripts', 'wpestate_chld_thm_cfg_parent_css' );
 function lazarotheme_custom_fixes_js() {
     ?>
     <style>
+        
+        /* Global Logo Override */
+        .master_header .logo a {
+            display: block !important;
+            background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/primerayultima.png') !important;
+            background-size: contain !important;
+            background-repeat: no-repeat !important;
+            background-position: left center !important;
+            width: 350px !important;
+            height: 90px !important;
+        }
+        .master_header .logo img {
+            display: none !important;
+        }
+        
+        /* Global Text Justification for Inner Pages */
+        .entry-content p, .wpb_wrapper p, #primary p, .post-content p {
+            text-align: justify !important;
+        }
+
         .history-text p, .history-section p, .historia-texto p { 
             text-align: justify !important; 
         }
