@@ -33,7 +33,11 @@ get_header();
             
                         
 
-            <div class="sidebar-menu" style="margin-top: 100px; display: flex; flex-direction: column; gap: 15px;">
+            <div class="sidebar-branding" style="margin-top: 30px; margin-bottom: 30px; text-align: center;">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/6e057407-94ba-4825-a3c2-db0f47322d46.jpg" alt="Estudio Lázaro Logo" class="sidebar-logo" style="max-width: 80%; height: auto; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+            </div>
+            
+            <div class="sidebar-menu" style="display: flex; flex-direction: column; gap: 15px;">
                 <a href="<?php echo home_url('/derecho-inmobiliario/'); ?>" class="sidebar-btn">DERECHO INMOBILIARIO</a>
                 <a href="<?php echo home_url('/asesoria-corporativa/'); ?>" class="sidebar-btn">ASESORÍA CORPORATIVA</a>
                 <a href="<?php echo home_url('/apoderado-corporativo-externo/'); ?>" class="sidebar-btn">APODERADO CORPORATIVO EXTERNO</a>
