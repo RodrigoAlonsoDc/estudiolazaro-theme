@@ -1592,3 +1592,17 @@ body {
 #contact_widget_icon {
     display: none !important;
 }
+
+/* --- TEST LOGO ESQUINERO (Reemplazo por CSS) --- */
+.master_header .logo a {
+    display: block !important;
+    background-image: url('images/logo_generadowaos.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: left center !important;
+    width: 350px !important;
+    height: 90px !important;
+}
+.master_header .logo img {
+    display: none !important;
+}
