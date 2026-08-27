@@ -55,9 +55,19 @@ function lazarotheme_custom_fixes_js() {
             display: none !important;
         }
         
-        /* Global Text Justification for Inner Pages */
-        .entry-content p, .wpb_wrapper p, #primary p, .post-content p {
+        /* Global Text Justification for Inner Pages (Más agresivo) */
+        .entry-content p, .wpb_wrapper p, #primary p, .post-content p,
+        .wpb_text_column .wpb_wrapper,
+        .wpb_text_column p,
+        .wpb_text_column div,
+        .elementor-widget-text-editor .elementor-widget-container,
+        .textwidget p,
+        .entry-content div,
+        .post-content div {
             text-align: justify !important;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            text-align: left !important; /* Mantener los títulos a la izquierda */
         }
 
         .history-text p, .history-section p, .historia-texto p { 
