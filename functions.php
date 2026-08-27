@@ -85,6 +85,12 @@ function lazarotheme_custom_fixes_js() {
                 link.href = "https://wa.me/51932132104";
             });
             
+            // 1.5 Force Text Justification via JS (Bulletproof against CSS caching)
+            var paragraphs = document.querySelectorAll('.history-text p, .history-section p, .entry-content p, .wpb_wrapper p, .post-content p, .wpb_text_column p');
+            paragraphs.forEach(function(p) {
+                p.style.setProperty('text-align', 'justify', 'important');
+            });
+            
             // 2. Add text under phone number
             var walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
             var node;
