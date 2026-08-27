@@ -35,3 +35,39 @@ endif;
 
 load_child_theme_textdomain('wpresidence', get_stylesheet_directory().'/languages');
 add_action( 'wp_enqueue_scripts', 'wpestate_chld_thm_cfg_parent_css' );
+
+// --- FIXES SOLICITADOS POR EL USUARIO (Alineacion, Enlaces, Footer) ---
+function lazarotheme_custom_fixes_js() {
+    ?>
+    <style>
+        .history-text p, .history-section p, .historia-texto p { 
+            text-align: justify !important; 
+        }
+        .social_youtube, .social_linkedin, a[href*="youtube.com"], a[href*="linkedin.com"], a[href*="youtube"], a[href*="linkedin"] { 
+            display: none !important; 
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // 1. Fix WhatsApp link
+            var waLinks = document.querySelectorAll('a[href*="wa.me"], a[href*="whatsapp.com"], a[href*="api.whatsapp"]');
+            waLinks.forEach(function(link) {
+                link.href = "https://wa.me/51932132104";
+            });
+            
+            // 2. Add text under phone number
+            var walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+            var node;
+            while (node = walker.nextNode()) {
+                if (node.nodeValue && node.nodeValue.includes("932 132 104")) {
+                    var span = document.createElement("div");
+                    span.innerHTML = "<small style='display:block; margin-top:5px; font-size: 13px; opacity: 0.9;'>Atención virtual y presencial previa cita</small>";
+                    node.parentNode.insertBefore(span, node.nextSibling);
+                    break;
+                }
+            }
+        });
+    </script>
+    <?php
+}
+add_action('wp_footer', 'lazarotheme_custom_fixes_js', 100);
